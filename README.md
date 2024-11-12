@@ -16,6 +16,9 @@ This repository contains V2Ray configurations for various protocols (VMess, VLES
 - **All Configurations**: View and download all available configurations:
   - [All Configs](https://raw.githubusercontent.com/MrDaRkFoRcE/v2ray-configs/refs/heads/main/all_configs.txt)
 
+- **Subscriptions**: Access updated V2Ray subscription links:
+  - [Subscriptions](https://github.com/MrDaRkFoRcE/v2ray-configs/tree/main/Subscriptions)
+
 ## ⚙️ How to Use
 
 1. **Choose Protocol**: Select the protocol you want to use (VMess, VLESS, SS, or Trojan).
@@ -40,4 +43,6 @@ This repository is regularly updated with new proxies, so users who utilize V2Ra
 You can change the language of this page by clicking below:
 
 - [فارسی](https://github.com/MrDaRkFoRcE/v2ray-configs/blob/main/README_fa.md)
+- [Русский](https://github.com/MrDaRkFoRcE/v2ray-configs/blob/main/README_ru.md)
+- [Türkçe](https://github.com/MrDaRkFoRcE/v2ray-configs/blob/main/README_tr.md)
 - [中文](https://github.com/MrDaRkFoRcE/v2ray-configs/blob/main/README_zh.md)
