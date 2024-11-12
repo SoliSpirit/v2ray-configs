@@ -43,4 +43,3 @@
 برای تغییر زبان این صفحه، روی لینک‌های زیر کلیک کنید:
 
 - [English](https://github.com/MrDaRkFoRcE/v2ray-configs/blob/main/README.md)
-- [中文](https://github.com/MrDaRkFoRcE/v2ray-configs/blob/main/README_zh.md)
