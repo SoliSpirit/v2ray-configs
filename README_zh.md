@@ -42,5 +42,4 @@
 
 点击以下链接更改页面语言：
 
-- [فارسی](https://github.com/MrDaRkFoRcE/v2ray-configs/blob/main/README_fa.md)
 - [English](https://github.com/MrDaRkFoRcE/v2ray-configs/blob/main/README.md)
