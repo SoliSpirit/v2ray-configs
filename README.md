@@ -1,34 +1,43 @@
 # V2Ray Configs Repository
 
-این مخزن شامل کانفیگ‌های V2Ray برای پروتکل‌های مختلف (VMess, VLESS, SS, Trojan) و کشورهای مختلف است. هر 15 دقیقه یک‌بار لینک‌های جدید کانفیگ‌ها بروزرسانی می‌شوند.
+This repository contains V2Ray configurations for various protocols (VMess, VLESS, SS, Trojan) and countries. The config links are updated every 15 minutes.
 
-## 🔗 لینک‌های مفید
+## 🔗 Useful Links
 
-- **پروتکل‌های V2Ray**: مجموعه‌ای از پروتکل‌ها برای استفاده با V2Ray:
+- **V2Ray Protocols**: A collection of protocols to use with V2Ray:
   - [SS Protocol](https://raw.githubusercontent.com/MrDaRkFoRcE/v2ray-configs/refs/heads/main/Protocols/ss.txt)
   - [Trojan Protocol](https://raw.githubusercontent.com/MrDaRkFoRcE/v2ray-configs/refs/heads/main/Protocols/trojan.txt)
   - [VLESS Protocol](https://raw.githubusercontent.com/MrDaRkFoRcE/v2ray-configs/refs/heads/main/Protocols/vless.txt)
   - [VMess Protocol](https://raw.githubusercontent.com/MrDaRkFoRcE/v2ray-configs/refs/heads/main/Protocols/vmess.txt)
 
-- **کشورها**: کانفیگ‌های V2Ray برای کشورهای مختلف.
+- **Countries**: V2Ray configurations for different countries.
   - [Countries Configs](https://github.com/MrDaRkFoRcE/v2ray-configs/tree/main/Countries)
 
-- **همه کانفیگ‌ها**: برای مشاهده و دانلود تمامی کانفیگ‌ها به لینک زیر مراجعه کنید:
+- **All Configurations**: View and download all available configurations:
   - [All Configs](https://raw.githubusercontent.com/MrDaRkFoRcE/v2ray-configs/refs/heads/main/all_configs.txt)
 
-## ⚙️ نحوه استفاده
+## ⚙️ How to Use
 
-1. **انتخاب پروتکل**: برای شروع، پروتکل مورد نظر خود را انتخاب کنید (VMess، VLESS، SS، یا Trojan).
-2. **انتخاب کشور**: سپس، کشور مورد نظر خود را از بخش کانفیگ کشورهای مختلف انتخاب کنید.
-3. **کانفیگ را دانلود کنید**: پس از انتخاب پروتکل و کشور، لینک مناسب را برای دانلود کانفیگ انتخاب کنید.
-4. **کانفیگ را در V2Ray استفاده کنید**: کانفیگ دانلود شده را در برنامه V2Ray خود وارد کنید و از آن استفاده کنید.
+1. **Choose Protocol**: Select the protocol you want to use (VMess, VLESS, SS, or Trojan).
+2. **Choose Country**: Select the country you prefer from the Countries section.
+3. **Download the Config**: After selecting the protocol and country, click on the appropriate link to download the config.
+4. **Use Config in V2Ray**: Import the downloaded config into your V2Ray application and start using it.
 
-## 🕒 بروزرسانی خودکار
+## 🕒 Auto Update
 
-کانفیگ‌ها هر 15 دقیقه یکبار بروزرسانی می‌شوند تا کاربران همیشه به جدیدترین و به‌روزترین لینک‌ها دسترسی داشته باشند.
+Configurations are updated every 15 minutes to ensure users always have access to the latest links.
 
 ---
 
-### توضیحات بیشتر
+### More Information
 
-این مخزن به‌طور مرتب با پروکسی‌های جدید بروزرسانی می‌شود تا کاربرانی که از V2Ray استفاده می‌کنند، همیشه بتوانند از بهترین و سریع‌ترین سرورها بهره‌مند شوند. برای دریافت لینک‌ها و اطلاعات بیشتر، به لینک‌های بالا مراجعه کنید.
+This repository is regularly updated with new proxies, so users who utilize V2Ray will always have access to the best and fastest servers. For further details and to access the links, visit the sections above.
+
+---
+
+## 🌍 Change Language
+
+You can change the language of this page by clicking below:
+
+- [فارسی](https://github.com/MrDaRkFoRcE/v2ray-configs/blob/main/README_fa.md)
+- [中文](https://github.com/MrDaRkFoRcE/v2ray-configs/blob/main/README_zh.md)
