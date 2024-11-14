@@ -60,3 +60,5 @@ vless://38b95b9f-7fb0-4661-9ac7-c179aba8974e@104.17.148.22:8880?security=none&ty
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.24.6.212:443?security=tls&sni=lp.kpcloud.eu.org&type=ws&host=lp.kpcloud.eu.org&path=%2F%3Fed%3D2048#🟣🔥+کانال+سرور+رایگان+@FarahVPN
 trojan://telegram-id-directvpn@13.50.132.95:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟣🔥+کانال+سرور+رایگان+@FarahVPN
 trojan://telegram-id-privatevpns@51.24.49.230:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟣🔥+کانال+سرور+رایگان+@FarahVPN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@51.24.21.103:443#🟣🔥+کانال+سرور+رایگان+@FarahVPN
+trojan://auto@104.26.13.31:443?path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560&security=tls&host=trojanmz.pages.dev&type=ws&sni=trojanmz.pages.dev#🟣🔥+کانال+سرور+رایگان+@FarahVPN
