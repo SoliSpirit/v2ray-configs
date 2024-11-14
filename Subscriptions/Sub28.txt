@@ -88,6 +88,7 @@ vless://7d3b945d-0f23-4719-9fae-50033251e2fd@70.32.1.32:443?security=tls&sni=cnd
 vless://0df2e385-2acb-41e3-94c9-c66dc63f8504@185.148.105.52:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🟣🔥+کانال+سرور+رایگان+@FarahVPN
 vless://921c3e7a-35b5-4499-aef5-363fd050bb29@160.153.0.164:443?security=tls&sni=s1.digikala-iranian.org&type=grpc#🟣🔥+کانال+سرور+رایگان+@FarahVPN
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@190.93.247.213:443?security=tls&sni=ak.ylks.xyz&type=ws&host=ak.ylks.xyz&path=%2F%3Fed%3D2048#🟣🔥+کانال+سرور+رایگان+@FarahVPN
+ss://MmI0YmVkMjUtYTVlZi00MzlkLTkzYjEtMzk1YjdiY2VjNThiOg==@104.16.60.79:2082#🟣🔥+کانال+سرور+رایگان+@FarahVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@95.174.71.29:2377#🟣🔥+کانال+سرور+رایگان+@FarahVPN
 ss://auto@185.146.173.158:443#🟣🔥+کانال+سرور+رایگان+@FarahVPN
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@69.50.93.100:9101#🟣🔥+کانال+سرور+رایگان+@FarahVPN
@@ -132,7 +133,6 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.26:5001#🟣🔥+کانال+
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@142.202.49.122:9101#🟣🔥+کانال+سرور+رایگان+@FarahVPN
 ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA==@80.92.204.106:9097#🟣🔥+کانال+سرور+رایگان+@FarahVPN
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@142.202.49.119:6679#🟣🔥+کانال+سرور+رایگان+@FarahVPN
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@69.50.95.218:8090#🟣🔥+کانال+سرور+رایگان+@FarahVPN
 trojan://NISHIKUITAN222@172.67.147.1:443?#🟣🔥+کانال+سرور+رایگان+@FarahVPN
 trojan://auto@104.20.22.7:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🟣🔥+کانال+سرور+رایگان+@FarahVPN
 trojan://cb1f26aa437d4bfa9b841d28503ce8cc@198.41.220.5:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=6b777a91#🟣🔥+کانال+سرور+رایگان+@FarahVPN
