@@ -1,3 +1,6 @@
+vmess://eyJhZGQiOiAiMTg4LjExNC45Ny4zIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImFmcmhtczE2di5iZXN0eHJheS5idXp6IiwgImlkIjogImY1ODRkZTE1LTIwMzQtNDE3MC1hNzIzLWY0OGMyYmFlNWUwZiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3dzIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIlx1ZDgzZFx1ZGZlM1x1ZDgzZFx1ZGQyNStcdTA2YTlcdTA2MjdcdTA2NDZcdTA2MjdcdTA2NDQrXHUwNjMzXHUwNjMxXHUwNjQ4XHUwNjMxK1x1MDYzMVx1MDYyN1x1MDZjY1x1MDZhZlx1MDYyN1x1MDY0NitARmFyYWhWUE4iLCAic2N5IjogImF1dG8iLCAic25pIjogImFmcmhtczE2di5iZXN0eHJheS5idXp6IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
+vmess://eyJhZGQiOiAiMTg4LjExNC45Ny4zIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogImNocm9tZSIsICJob3N0IjogImFmcmhtczE2di5iZXN0eHJheS5idXp6IiwgImlkIjogImY1ODRkZTE1LTIwMzQtNDE3MC1hNzIzLWY0OGMyYmFlNWUwZiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3dzIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIlx1ZDgzZFx1ZGZlM1x1ZDgzZFx1ZGQyNStcdTA2YTlcdTA2MjdcdTA2NDZcdTA2MjdcdTA2NDQrXHUwNjMzXHUwNjMxXHUwNjQ4XHUwNjMxK1x1MDYzMVx1MDYyN1x1MDZjY1x1MDZhZlx1MDYyN1x1MDY0NitARmFyYWhWUE4iLCAic2N5IjogImF1dG8iLCAic25pIjogImFmcmhtczE2di5iZXN0eHJheS5idXp6IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
+vmess://eyJhZGQiOiAiMTg4LjExNC45Ny42IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImxpbmRlMDYuaW5kaWF2aWRlby5zYnMiLCAiaWQiOiAiZWRiYjEwNTktMTYzMy00MjcxLWI2NmUtZWQ0ZmJhNDdhMWJmIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNkXHVkZmUzXHVkODNkXHVkZDI1K1x1MDZhOVx1MDYyN1x1MDY0Nlx1MDYyN1x1MDY0NCtcdTA2MzNcdTA2MzFcdTA2NDhcdTA2MzErXHUwNjMxXHUwNjI3XHUwNmNjXHUwNmFmXHUwNjI3XHUwNjQ2K0BGYXJhaFZQTiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
 vmess://eyJhZGQiOiAiMTg4LjExNC45Ny43IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImxpbmRlMDYuaW5kaWF2aWRlby5zYnMiLCAiaWQiOiAiZWRiYjEwNTktMTYzMy00MjcxLWI2NmUtZWQ0ZmJhNDdhMWJmIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNkXHVkZmUzXHVkODNkXHVkZDI1K1x1MDZhOVx1MDYyN1x1MDY0Nlx1MDYyN1x1MDY0NCtcdTA2MzNcdTA2MzFcdTA2NDhcdTA2MzErXHUwNjMxXHUwNjI3XHUwNmNjXHUwNmFmXHUwNjI3XHUwNjQ2K0BGYXJhaFZQTiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
 vmess://eyJhZGQiOiAiMTg4LjExNC45OS4xODMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsICJpZCI6ICJlZGJiMTA1OS0xNjMzLTQyNzEtYjY2ZS1lZDRmYmE0N2ExYmYiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt3cyIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdWQ4M2RcdWRmZTNcdWQ4M2RcdWRkMjUrXHUwNmE5XHUwNjI3XHUwNjQ2XHUwNjI3XHUwNjQ0K1x1MDYzM1x1MDYzMVx1MDY0OFx1MDYzMStcdTA2MzFcdTA2MjdcdTA2Y2NcdTA2YWZcdTA2MjdcdTA2NDYrQEZhcmFoVlBOIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJsaW5kZTA2LmluZGlhdmlkZW8uc2JzIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
 vmess://eyJhZGQiOiAiMTg4LjM0LjE5NC4xNjUiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIkZpbHRlci1TaGNhbiIsICJuZXQiOiAic3BsaXRodHRwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjIwODMiLCAicHMiOiAiXHVkODNkXHVkZmUzXHVkODNkXHVkZDI1K1x1MDZhOVx1MDYyN1x1MDY0Nlx1MDYyN1x1MDY0NCtcdTA2MzNcdTA2MzFcdTA2NDhcdTA2MzErXHUwNjMxXHUwNjI3XHUwNmNjXHUwNmFmXHUwNjI3XHUwNjQ2K0BGYXJhaFZQTiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
@@ -112,6 +115,9 @@ vless://8155d2bb-0eb4-40ff-ba1d-95df410a672a@172.67.191.234:8443?security=tls&sn
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.6.53:443?security=tls&sni=Sanjeshp.Ir&type=ws&host=Sanjeshp.Ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🟣🔥+کانال+سرور+رایگان+@FarahVPN
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.78:443?security=tls&sni=behdasht.hrtc.ir&encryption=none@ShadowsocksM79&type=ws&host=behdasht.hrtc.ir&path=/H?ed%3D2560&fp=randomized&alpn=h2,http/1.1#🟣🔥+کانال+سرور+رایگان+@FarahVPN
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.69:443?security=tls&sni=ln.ylks.us.kg&type=ws&host=ln.ylks.us.kg&path=%2F%3Fed%3D2560#🟣🔥+کانال+سرور+رایگان+@FarahVPN
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.236.249.109:443?security=tls&sni=dc.ylks.xyz&type=ws&host=dc.ylks.xyz&path=%2Fblue#🟣🔥+کانال+سرور+رایگان+@FarahVPN
+vless://00e52b4c-343e-48f9-fae3-f877dfb87816@104.21.44.116:80?security=none&type=httpupgrade&host=sHop.gkAlabar.iR&path=/TELEGRAM-@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray%3Fed%3D2048#🟣🔥+کانال+سرور+رایگان+@FarahVPN
+vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.18.131:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#🟣🔥+کانال+سرور+رایگان+@FarahVPN
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.95.53:5498#🟣🔥+کانال+سرور+رایگان+@FarahVPN
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.157.40.89:9102#🟣🔥+کانال+سرور+رایگان+@FarahVPN
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.169.139.18:443#🟣🔥+کانال+سرور+رایگان+@FarahVPN
@@ -160,6 +166,10 @@ ss://SVNTEAM=@104.17.234.128:8080#🟣🔥+کانال+سرور+رایگان+@Far
 ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg==@80.92.204.106:9094#🟣🔥+کانال+سرور+رایگان+@FarahVPN
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.121.43.142:5004#🟣🔥+کانال+سرور+رایگان+@FarahVPN
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.75.136.33:7306#🟣🔥+کانال+سرور+رایگان+@FarahVPN
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.68.134.202:7306#🟣🔥+کانال+سرور+رایگان+@FarahVPN
+ss://YWVzLTEyOC1nY206NjkwMzczMDItMDA1MC00M2FlLWFiZjMtZjhlNjI3NDBhZmYx@91.199.84.195:25203#🟣🔥+کانال+سرور+رایگان+@FarahVPN
+ss://bm9uZTphYmNhYWJjLWFhY2ItYmFjYS1iY2RhLWJjY2JhYWFhYmNjYg==@127.0.0.1:8080#🟣🔥+کانال+سرور+رایگان+@FarahVPN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXZm14S1gyRkJKUlUwSWU5VkxJWURM@141.98.234.93:20012#🟣🔥+کانال+سرور+رایگان+@FarahVPN
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@169.197.141.84:9090#🟣🔥+کانال+سرور+رایگان+@FarahVPN
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.57:54345#🟣🔥+کانال+سرور+رایگان+@FarahVPN
 ss://YWVzLTI1Ni1nY206T0JZS1IyTUJTQ1ZTUkRHMg==@120.241.45.50:15007#🟣🔥+کانال+سرور+رایگان+@FarahVPN
@@ -168,7 +178,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YTJmNTU3MC1mNDY5LTQ1NDktOTI3My01NDlhNWM4NWZ
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.36.91.32:8388#🟣🔥+کانال+سرور+رایگان+@FarahVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZDEyZjc5ZS0zMjA5LTQ5NzAtODNjZC01ZTFmMzUyNmZmNTE=@lsjd.yunxiang8.mom:39782#🟣🔥+کانال+سرور+رایگان+@FarahVPN
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.79.56.225:443#🟣🔥+کانال+سرور+رایگان+@FarahVPN
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.125.37.249:443#🟣🔥+کانال+سرور+رایگان+@FarahVPN
 trojan://d4ff43e1-3131-4c32-e41b-716303c8ee49@104.17.148.22:8880?security=none&type=ws&host=ch.我的名字伊斯梅洛.site.&path=/melo/#🟣🔥+کانال+سرور+رایگان+@FarahVPN
 trojan://NISHIKUITAN222@188.114.97.152:443?security=tls&sni=im.ylks.xyz&type=ws&host=im.ylks.xyz&path=%2F#🟣🔥+کانال+سرور+رایگان+@FarahVPN
 trojan://NISHIKUITAN222@162.159.5.129:443?#🟣🔥+کانال+سرور+رایگان+@FarahVPN
@@ -226,3 +235,6 @@ trojan://auto@104.20.22.2:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev
 trojan://NISHIKUITAN222@162.159.133.206:443?#🟣🔥+کانال+سرور+رایگان+@FarahVPN
 trojan://NISHIKUITAN222@104.24.159.236:443?#🟣🔥+کانال+سرور+رایگان+@FarahVPN
 trojan://NISHIKUITAN222@104.20.169.147:443?#🟣🔥+کانال+سرور+رایگان+@FarahVPN
+trojan://auto@172.67.165.101:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🟣🔥+کانال+سرور+رایگان+@FarahVPN
+trojan://NISHIKUITAN222@188.114.96.11:443?security=tls&sni=im.ylks.xyz&type=ws&host=im.ylks.xyz&path=%2F#🟣🔥+کانال+سرور+رایگان+@FarahVPN
+trojan://NISHIKUITAN222@104.16.151.253:443?allowInsecure=1#🟣🔥+کانال+سرور+رایگان+@FarahVPN
