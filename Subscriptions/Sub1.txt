@@ -74,3 +74,6 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@104.27.13.105:443?security=tls&sni=
 vless://1c5aa689-b879-4cf2-953a-d3bff35db893@172.67.139.111:443?security=tls&sni=www.felafel.org&type=grpc&serviceName=t.me/entryNET&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🟣🔥+کانال+سرور+رایگان+@FarahVPN
 vless://a446ef35-6c74-40d9-910c-f63d60197d9b@de-08.pezesh-kian.com:2095?path=%2Fenglish.tgju.org%2Fde-08.pezesh-kian.com%3Fed%3D2095&security=none&encryption=none&type=httpupgrade#🟣🔥+کانال+سرور+رایگان+@FarahVPN
 vless://f4fffd3b-32ff-4d54-b232-0de299a7553b@uae.jjavaher.ir:8811?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🟣🔥+کانال+سرور+رایگان+@FarahVPN
+vless://5d29638e-3073-4eaf-9a42-fc2adba14207@104.18.189.218:443?security=tls&sni=Bia-dAIly-coNfIGS.pAgEs.deV&type=ws&host=bia-daily-configs.pages.dev&path=%2FTELEGRAM-Persianelon%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🟣🔥+کانال+سرور+رایگان+@FarahVPN
+vless://01a02f23-2b46-5456-9892-dd49a8d79ac2@151.101.2.219:80?security=none&type=ws&host=EleNa-PuTin.cOm&path=%2F#🟣🔥+کانال+سرور+رایگان+@FarahVPN
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@38.22.233.47:587?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560&fp=chrome#🟣🔥+کانال+سرور+رایگان+@FarahVPN
