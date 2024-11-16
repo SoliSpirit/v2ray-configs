@@ -1,6 +1,6 @@
 ss://298df634-8e55-452e-8adf-72383f9cada2@45.83.143.251:16303?security=none&encryption=none&headerType=none&type=tcp#🟣🔥+کانال+سرور+رایگان+@FarahVPN
 vless://5f56a8fa-4b0d-4355-93eb-f1ec410d6982@213.108.23.243:26926/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=random&security=reality&pbk=V1Sm4pc5EuEHSwsfXDDLYPuiu3JZUESNifEkvm5ARn8&sid=435d625ae815#🟣🔥+کانال+سرور+رایگان+@FarahVPN
 vless://12f34fc2-b3f6-4422-a44d-37adcadca8f3@188.164.159.178:2053?security=tls&sni=flnewconect3.fragmentscan.xyz&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🟣🔥+کانال+سرور+رایگان+@FarahVPN
-vless://9cb0fadf-6999-4a6e-ac90-d22ff41586a7@188.164.158.246:2053?security=tls&sni=flnewconect3.fragmentscan.xyz&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🟣🔥+کانال+سرور+رایگان+@FarahVPN
-vless://5f56a8fa-4b0d-4355-93eb-f1ec410d6982@213.108.23.243:26926?security=reality&flow=xtls-rprx-vision&sni=google.com&type=tcp&fp=random&pbk=V1Sm4pc5EuEHSwsfXDDLYPuiu3JZUESNifEkvm5ARn8&sid=435d625ae815#🟣🔥+کانال+سرور+رایگان+@FarahVPN
 vless://298df634-8e55-452e-8adf-72383f9cada2@45.83.143.251:16303?security=none&encryption=none&headerType=none&type=tcp#🟣🔥+کانال+سرور+رایگان+@FarahVPN
+vless://5f56a8fa-4b0d-4355-93eb-f1ec410d6982@213.108.23.243:26926?security=reality&flow=xtls-rprx-vision&sni=google.com&type=tcp&fp=random&pbk=V1Sm4pc5EuEHSwsfXDDLYPuiu3JZUESNifEkvm5ARn8&sid=435d625ae815#🟣🔥+کانال+سرور+رایگان+@FarahVPN
+vless://9cb0fadf-6999-4a6e-ac90-d22ff41586a7@188.164.158.246:2053?security=tls&sni=flnewconect3.fragmentscan.xyz&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🟣🔥+کانال+سرور+رایگان+@FarahVPN
