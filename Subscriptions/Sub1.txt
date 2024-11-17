@@ -55,3 +55,5 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.109.168:22222?path=/telegram-
 trojan://telegram-id-privatevpns@35.181.179.111:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟣🔥+کانال+سرور+رایگان+@FarahVPN
 trojan://telegram-id-directvpn@3.147.134.163:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟣🔥+کانال+سرور+رایگان+@FarahVPN
 vless://TELEGRAM-NUFiLTER@151.101.3.8:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=dachibodoberim.net&type=ws#🟣🔥+کانال+سرور+رایگان+@FarahVPN
+vless://0feee21f-3ddc-42df-e5b0-14e3ebb4c642@62.60.178.138:2053?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🟣🔥+کانال+سرور+رایگان+@FarahVPN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.96.30:443#🟣🔥+کانال+سرور+رایگان+@FarahVPN
