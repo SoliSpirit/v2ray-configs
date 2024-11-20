@@ -5,19 +5,19 @@
 ## 🔗 لینک‌های مفید
 
 - **پروتکل‌های V2Ray**: مجموعه‌ای از پروتکل‌ها برای استفاده با V2Ray:
-  - [پروتکل SS](https://raw.githubusercontent.com/Drakwyn/v2ray-configs/refs/heads/main/Protocols/ss.txt)
-  - [پروتکل Trojan](https://raw.githubusercontent.com/Drakwyn/v2ray-configs/refs/heads/main/Protocols/trojan.txt)
-  - [پروتکل VLESS](https://raw.githubusercontent.com/Drakwyn/v2ray-configs/refs/heads/main/Protocols/vless.txt)
-  - [پروتکل VMess](https://raw.githubusercontent.com/Drakwyn/v2ray-configs/refs/heads/main/Protocols/vmess.txt)
+  - [پروتکل SS](https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/Protocols/ss.txt)
+  - [پروتکل Trojan](https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/Protocols/trojan.txt)
+  - [پروتکل VLESS](https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/Protocols/vless.txt)
+  - [پروتکل VMess](https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/Protocols/vmess.txt)
 
 - **کشورها**: کانفیگ‌های V2Ray برای کشورهای مختلف:
-  - [کانفیگ کشورهای مختلف](https://github.com/Drakwyn/v2ray-configs/tree/main/Countries)
+  - [کانفیگ کشورهای مختلف](https://github.com/SoliSpirit/v2ray-configs/tree/main/Countries)
 
 - **تمام کانفیگ‌ها**: مشاهده و دانلود تمام کانفیگ‌ها:
-  - [تمام کانفیگ‌ها](https://raw.githubusercontent.com/Drakwyn/v2ray-configs/refs/heads/main/all_configs.txt)
+  - [تمام کانفیگ‌ها](https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/all_configs.txt)
 
 - **لینک‌های اشتراک**: دسترسی به لینک‌های بروزرسانی شده اشتراک V2Ray:
-  - [لینک‌های اشتراک](https://github.com/Drakwyn/v2ray-configs/tree/main/Subscriptions)
+  - [لینک‌های اشتراک](https://github.com/SoliSpirit/v2ray-configs/tree/main/Subscriptions)
 
 ## ⚙️ نحوه استفاده
 
@@ -42,4 +42,4 @@
 
 برای تغییر زبان این صفحه، روی لینک‌های زیر کلیک کنید:
 
-- [English](https://github.com/Drakwyn/v2ray-configs/blob/main/README.md)
+- [English](https://github.com/SoliSpirit/v2ray-configs/blob/main/README.md)
