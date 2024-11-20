@@ -5,19 +5,19 @@ Bu depo, farklı protokoller (VMess, VLESS, SS, Trojan) ve ülkeler için V2Ray 
 ## 🔗 Faydalı Bağlantılar
 
 - **V2Ray Protokolleri**: V2Ray ile kullanılabilecek protokoller koleksiyonu:
-  - [SS Protokolü](https://raw.githubusercontent.com/MrDaRkFoRcE/v2ray-configs/refs/heads/main/Protocols/ss.txt)
-  - [Trojan Protokolü](https://raw.githubusercontent.com/MrDaRkFoRcE/v2ray-configs/refs/heads/main/Protocols/trojan.txt)
-  - [VLESS Protokolü](https://raw.githubusercontent.com/MrDaRkFoRcE/v2ray-configs/refs/heads/main/Protocols/vless.txt)
-  - [VMess Protokolü](https://raw.githubusercontent.com/MrDaRkFoRcE/v2ray-configs/refs/heads/main/Protocols/vmess.txt)
+  - [SS Protokolü](https://raw.githubusercontent.com/Drakwyn/v2ray-configs/refs/heads/main/Protocols/ss.txt)
+  - [Trojan Protokolü](https://raw.githubusercontent.com/Drakwyn/v2ray-configs/refs/heads/main/Protocols/trojan.txt)
+  - [VLESS Protokolü](https://raw.githubusercontent.com/Drakwyn/v2ray-configs/refs/heads/main/Protocols/vless.txt)
+  - [VMess Protokolü](https://raw.githubusercontent.com/Drakwyn/v2ray-configs/refs/heads/main/Protocols/vmess.txt)
 
 - **Ülkeler**: Farklı ülkeler için V2Ray konfigürasyonları:
-  - [Ülke Konfigürasyonları](https://github.com/MrDaRkFoRcE/v2ray-configs/tree/main/Countries)
+  - [Ülke Konfigürasyonları](https://github.com/Drakwyn/v2ray-configs/tree/main/Countries)
 
 - **Tüm Konfigürasyonlar**: Tüm mevcut konfigürasyonları görüntüleyin ve indirin:
-  - [Tüm Konfigürasyonlar](https://raw.githubusercontent.com/MrDaRkFoRcE/v2ray-configs/refs/heads/main/all_configs.txt)
+  - [Tüm Konfigürasyonlar](https://raw.githubusercontent.com/Drakwyn/v2ray-configs/refs/heads/main/all_configs.txt)
 
 - **Abonelikler**: Güncellenmiş V2Ray abonelik bağlantılarına erişin:
-  - [Abonelikler](https://github.com/MrDaRkFoRcE/v2ray-configs/tree/main/Subscriptions)
+  - [Abonelikler](https://github.com/Drakwyn/v2ray-configs/tree/main/Subscriptions)
 
 ## ⚙️ Kullanım Talimatları
 
@@ -42,4 +42,4 @@ Bu depo, kullanıcıların en hızlı ve en iyi sunuculara her zaman erişebilme
 
 Sayfanın dilini aşağıdaki bağlantılara tıklayarak değiştirebilirsiniz:
 
-- [English](https://github.com/MrDaRkFoRcE/v2ray-configs/blob/main/README.md)
+- [English](https://github.com/Drakwyn/v2ray-configs/blob/main/README.md)
