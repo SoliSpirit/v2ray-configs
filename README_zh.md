@@ -5,19 +5,19 @@
 ## 🔗 有用的链接
 
 - **V2Ray协议**：可用于V2Ray的协议合集：
-  - [SS协议](https://raw.githubusercontent.com/MrDaRkFoRcE/v2ray-configs/refs/heads/main/Protocols/ss.txt)
-  - [Trojan协议](https://raw.githubusercontent.com/MrDaRkFoRcE/v2ray-configs/refs/heads/main/Protocols/trojan.txt)
-  - [VLESS协议](https://raw.githubusercontent.com/MrDaRkFoRcE/v2ray-configs/refs/heads/main/Protocols/vless.txt)
-  - [VMess协议](https://raw.githubusercontent.com/MrDaRkFoRcE/v2ray-configs/refs/heads/main/Protocols/vmess.txt)
+  - [SS协议](https://raw.githubusercontent.com/Drakwyn/v2ray-configs/refs/heads/main/Protocols/ss.txt)
+  - [Trojan协议](https://raw.githubusercontent.com/Drakwyn/v2ray-configs/refs/heads/main/Protocols/trojan.txt)
+  - [VLESS协议](https://raw.githubusercontent.com/Drakwyn/v2ray-configs/refs/heads/main/Protocols/vless.txt)
+  - [VMess协议](https://raw.githubusercontent.com/Drakwyn/v2ray-configs/refs/heads/main/Protocols/vmess.txt)
 
 - **国家**：不同国家的V2Ray配置：
-  - [国家配置](https://github.com/MrDaRkFoRcE/v2ray-configs/tree/main/Countries)
+  - [国家配置](https://github.com/Drakwyn/v2ray-configs/tree/main/Countries)
 
 - **所有配置**：查看并下载所有配置：
-  - [所有配置](https://raw.githubusercontent.com/MrDaRkFoRcE/v2ray-configs/refs/heads/main/all_configs.txt)
+  - [所有配置](https://raw.githubusercontent.com/Drakwyn/v2ray-configs/refs/heads/main/all_configs.txt)
 
 - **订阅链接**：访问最新的V2Ray订阅链接：
-  - [订阅链接](https://github.com/MrDaRkFoRcE/v2ray-configs/tree/main/Subscriptions)
+  - [订阅链接](https://github.com/Drakwyn/v2ray-configs/tree/main/Subscriptions)
 
 ## ⚙️ 如何使用
 
@@ -42,4 +42,4 @@
 
 点击以下链接更改页面语言：
 
-- [English](https://github.com/MrDaRkFoRcE/v2ray-configs/blob/main/README.md)
+- [English](https://github.com/Drakwyn/v2ray-configs/blob/main/README.md)
