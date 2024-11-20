@@ -5,19 +5,19 @@
 ## 🔗 Полезные ссылки
 
 - **Протоколы V2Ray**: Сборник протоколов для использования с V2Ray:
-  - [Протокол SS](https://raw.githubusercontent.com/Drakwyn/v2ray-configs/refs/heads/main/Protocols/ss.txt)
-  - [Протокол Trojan](https://raw.githubusercontent.com/Drakwyn/v2ray-configs/refs/heads/main/Protocols/trojan.txt)
-  - [Протокол VLESS](https://raw.githubusercontent.com/Drakwyn/v2ray-configs/refs/heads/main/Protocols/vless.txt)
-  - [Протокол VMess](https://raw.githubusercontent.com/Drakwyn/v2ray-configs/refs/heads/main/Protocols/vmess.txt)
+  - [Протокол SS](https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/Protocols/ss.txt)
+  - [Протокол Trojan](https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/Protocols/trojan.txt)
+  - [Протокол VLESS](https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/Protocols/vless.txt)
+  - [Протокол VMess](https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/Protocols/vmess.txt)
 
 - **Страны**: Конфигурации V2Ray для разных стран.
-  - [Конфигурации стран](https://github.com/Drakwyn/v2ray-configs/tree/main/Countries)
+  - [Конфигурации стран](https://github.com/SoliSpirit/v2ray-configs/tree/main/Countries)
 
 - **Все конфигурации**: Просмотр и загрузка всех доступных конфигураций:
-  - [Все конфигурации](https://raw.githubusercontent.com/Drakwyn/v2ray-configs/refs/heads/main/all_configs.txt)
+  - [Все конфигурации](https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/all_configs.txt)
 
 - **Подписки**: Доступ к обновленным ссылкам на подписки V2Ray:
-  - [Подписки](https://github.com/Drakwyn/v2ray-configs/tree/main/Subscriptions)
+  - [Подписки](https://github.com/SoliSpirit/v2ray-configs/tree/main/Subscriptions)
 
 ## ⚙️ Как использовать
 
@@ -42,4 +42,4 @@
 
 Вы можете изменить язык этой страницы, кликнув по одному из следующих ссылок:
 
-- [English](https://github.com/Drakwyn/v2ray-configs/blob/main/README.md)
+- [English](https://github.com/SoliSpirit/v2ray-configs/blob/main/README.md)
