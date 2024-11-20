@@ -5,19 +5,19 @@ This repository contains V2Ray configurations for various protocols (VMess, VLES
 ## 🔗 Useful Links
 
 - **V2Ray Protocols**: A collection of protocols to use with V2Ray:
-  - [SS Protocol](https://raw.githubusercontent.com/Drakwyn/v2ray-configs/refs/heads/main/Protocols/ss.txt)
-  - [Trojan Protocol](https://raw.githubusercontent.com/Drakwyn/v2ray-configs/refs/heads/main/Protocols/trojan.txt)
-  - [VLESS Protocol](https://raw.githubusercontent.com/Drakwyn/v2ray-configs/refs/heads/main/Protocols/vless.txt)
-  - [VMess Protocol](https://raw.githubusercontent.com/Drakwyn/v2ray-configs/refs/heads/main/Protocols/vmess.txt)
+  - [SS Protocol](https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/Protocols/ss.txt)
+  - [Trojan Protocol](https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/Protocols/trojan.txt)
+  - [VLESS Protocol](https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/Protocols/vless.txt)
+  - [VMess Protocol](https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/Protocols/vmess.txt)
 
 - **Countries**: V2Ray configurations for different countries.
-  - [Countries Configs](https://github.com/Drakwyn/v2ray-configs/tree/main/Countries)
+  - [Countries Configs](https://github.com/SoliSpirit/v2ray-configs/tree/main/Countries)
 
 - **All Configurations**: View and download all available configurations:
-  - [All Configs](https://raw.githubusercontent.com/Drakwyn/v2ray-configs/refs/heads/main/all_configs.txt)
+  - [All Configs](https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/all_configs.txt)
 
 - **Subscriptions**: Access updated V2Ray subscription links:
-  - [Subscriptions](https://github.com/Drakwyn/v2ray-configs/tree/main/Subscriptions)
+  - [Subscriptions](https://github.com/SoliSpirit/v2ray-configs/tree/main/Subscriptions)
 
 ## ⚙️ How to Use
 
@@ -42,7 +42,7 @@ This repository is regularly updated with new proxies, so users who utilize V2Ra
 
 You can change the language of this page by clicking below:
 
-- [فارسی](https://github.com/Drakwyn/v2ray-configs/blob/main/README_fa.md)
-- [Русский](https://github.com/Drakwyn/v2ray-configs/blob/main/README_ru.md)
-- [Türkçe](https://github.com/Drakwyn/v2ray-configs/blob/main/README_tr.md)
-- [中文](https://github.com/Drakwyn/v2ray-configs/blob/main/README_zh.md)
+- [فارسی](https://github.com/SoliSpirit/v2ray-configs/blob/main/README_fa.md)
+- [Русский](https://github.com/SoliSpirit/v2ray-configs/blob/main/README_ru.md)
+- [Türkçe](https://github.com/SoliSpirit/v2ray-configs/blob/main/README_tr.md)
+- [中文](https://github.com/SoliSpirit/v2ray-configs/blob/main/README_zh.md)
