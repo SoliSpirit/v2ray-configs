@@ -1,3 +1,4 @@
+vmess://eyJhZGQiOiAiMjMuMTYyLjIwMC4xODIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMjIzMjQiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhWUE5cdWQ4M2RcdWRmZTMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
 vmess://eyJhZGQiOiAiMjQuMTQ0Ljc3LjkzIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJkZjJlZmE0ZC1jMjc1LTQxMGItYWZkZi1hYWUyZDcwNzc3Y2MiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjg5OCIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaFZQTlx1ZDgzZFx1ZGZlMyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 vmess://eyJhZGQiOiAiMmEwNTo1NDE6MTEwOjQzOjoxIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImZ0cC5kZWJpYW4ub3JnIiwgImlkIjogIjgzODc2MjIyLTY0YTQtNDkxMi1hYTE4LWI3ZDlkMzQ5NTlkZSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjIwOTgiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhWUE5cdWQ4M2RcdWRmZTMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiaHR0cCIsICJ2IjogIjIifQ==
 vmess://eyJhZGQiOiAidHJhZGVnZHQuYWkiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAieWVsYW4udGhlbGFzdHJvbmluLmNsb3VkbnMub3JnIiwgImlkIjogIjM5Y2VjMThmLWE0MzktNDI3Yy05YTRlLWFlYjZmY2RmNmY1MyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3dzL2xpbmphMDUuaHdjYXIuc2JzIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIlx1ZDgzZFx1ZGQyNUpvaW4rVGVsZWdyYW06QEZhcmFoVlBOXHVkODNkXHVkZmUzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJ5aDI1aHc1ajV3ZWxhbi50aGVsYXN0cm9uaW4uY2xvdWRucy5vcmciLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
@@ -120,6 +121,7 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.114.97.27:443?security=tls&sni=
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.247:443?security=tls&sni=du.ylks.xyz&type=ws&host=du.ylks.xyz&path=%2FProxyIP%3DProxyIP.US.fxxk.dedyn.io#🔥Join+Telegram:@FarahVPN🟣
 vless://9cbdc595-1d8d-4443-af07-99149153d025@172.64.150.28:443?security=tls&sni=e06b778c572b455fb3ea.gym-aij.info&type=ws&host=e06b778c572b455fb3ea.gym-aij.info&path=%2Fabcdews&fp=chrome#🔥Join+Telegram:@FarahVPN🟣
 vless://575543f3-f08e-426d-9230-1ddca047de30@188.245.60.248:2020?security=none&type=tcp&host=playstation.com&headerType=http#🔥Join+Telegram:@FarahVPN🟣
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@216.24.57.98:443?security=tls&sni=au.ylks.xyz&type=ws&host=au.ylks.xyz&path=%2FProxyIP%3DProxyIP.US.fxxk.dedyn.io#🔥Join+Telegram:@FarahVPN🟣
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@43.254.132.220:989#🔥Join+Telegram:@FarahVPN🟣
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.252.5.234:989#🔥Join+Telegram:@FarahVPN🟣
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.52.112:989#🔥Join+Telegram:@FarahVPN🟣
@@ -181,6 +183,7 @@ ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@3.249.52.148:50007#🔥Join+Telegram:@FarahV
 ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@193.108.118.154:50007#🔥Join+Telegram:@FarahVPN🟣
 ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@185.219.134.52:50007#🔥Join+Telegram:@FarahVPN🟣
 ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@135.125.236.229:50007#🔥Join+Telegram:@FarahVPN🟣
+ss://YWVzLTI1Ni1jZmI6NDQxNTkzNDI5NQ@92.38.171.103:50004#🔥Join+Telegram:@FarahVPN🟣
 trojan://fuck@42.236.73.72:443?sni=www.zitian.cn&alpn=http/1.1#🔥Join+Telegram:@FarahVPN🟣
 trojan://f0eb8c92ce8946aaba856569cff1a16b@104.17.61.6:443?path=6b777a91&security=tls&host=jobscareerforstudent.com&type=ws&sni=jobscareerforstudent.com#🔥Join+Telegram:@FarahVPN🟣
 trojan://eb0c0b71-20d5-43b3-8c44-3e63e3fdd1a6@yxkrvol.yuwenle.vip:3333?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@FarahVPN🟣
@@ -242,3 +245,4 @@ trojan://user@s15.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&
 trojan://user@s16.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s16.mynameismahsa.info#🔥Join+Telegram:@FarahVPN🟣
 trojan://user@s17.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s17.mynameismahsa.info#🔥Join+Telegram:@FarahVPN🟣
 trojan://user@s18.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s18.mynameismahsa.info#🔥Join+Telegram:@FarahVPN🟣
+trojan://user@s19.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s19.mynameismahsa.info#🔥Join+Telegram:@FarahVPN🟣
