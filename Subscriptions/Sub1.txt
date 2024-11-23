@@ -48,3 +48,5 @@ vmess://eyJhZGQiOiAiZXMucHVsYXUub3JnIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjog
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.192:8080#🔥Join+Telegram:@FarahVPN🟣N
 vless://ffd3906e-60c9-451e-8ed1-7114107e102c@104.18.12.229:8443?path=%2F&security=tls&encryption=none&host=pardazeshvpn-tg70.pages.dev&type=ws&sni=pardazeshvpn-tg70.pages.dev#🔥Join+Telegram:@FarahVPN🟣N
 vless://d6b6ea41-0950-4611-8246-224583e4ed1e@pscresearch.faculty.ucdavis.edu:443?path=ws%2F%3Fed%3D2048&security=tls&encryption=none&host=uhc6rhiubu.com&type=ws&sni=pscresearch.faculty.ucdavis.edu#🔥Join+Telegram:@FarahVPN🟣N
+trojan://telegram-id-directvpn@13.59.82.89:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣N
+trojan://telegram-id-privatevpns@3.125.56.135:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣N
