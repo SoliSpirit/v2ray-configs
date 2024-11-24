@@ -28,3 +28,5 @@ trojan://telegram-id-privatevpns@52.30.54.77:22222?security=tls&alpn=http/1.1&he
 vless://3aa78f08-e345-4d83-bda0-f34eebc5fcc8@95.164.117.40:22161?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@FarahVPN🟣N
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@157.241.8.144:443#🔥Join+Telegram:@FarahVPN🟣N
 trojan://telegram-id-directvpn@18.168.232.214:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣N
+vless://cbf90e43-a743-433c-9658-9266addebab3@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=api.nhl4.ir&type=ws#🔥Join+Telegram:@FarahVPN🟣N
+vless://6d497885-c02c-4af3-99dd-8668bbd462a9@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=api.nhl5.ir&type=ws#🔥Join+Telegram:@FarahVPN🟣N
