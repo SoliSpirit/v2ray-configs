@@ -22,3 +22,5 @@ vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80?path=%2Fhttp&security
 vless://3474e816-6b50-434f-bad6-8b9a2d5c74d6@104.21.69.44:443?path=mehdi%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=i-sn-83.pages.dev&fp=chrome&type=ws&sni=i-sn-83.pages.dev#🔥Join+Telegram:@FarahVPN🟣N
 vless://01842c9c-d03c-4765-a950-5da4b096ee74@104.17.214.22:443?path=%2FTelegram-%40proxy_mtm-Telegram-%40proxy_mtm-Telegram-%40proxy_mtm%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=SaEED-9j2.paGes.deV&fp=randomized&type=ws&sni=SAEEd-9j2.pAGEs.dEV#🔥Join+Telegram:@FarahVPN🟣N
 trojan://dns68@199.68.156.69:443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=trojan.putata.us.kg&fp=randomized&type=ws&sni=trojan.putata.us.kg#🔥Join+Telegram:@FarahVPN🟣N
+vless://3474e816-6b50-434f-bad6-8b9a2d5c74d6@151.101.66.228:443?security=tls&sni=pscresearch.faculty.ucdavis.edu&type=ws&host=vip-programs.tv&path=%2F&fp=chrome&alpn=http%2F1.1#🔥Join+Telegram:@FarahVPN🟣N
+trojan://telegram-id-privatevpns@34.243.138.35:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣N
