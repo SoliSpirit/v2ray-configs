@@ -57,3 +57,14 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.169.219.24:22222?path=/telegram-
 vless://213d6337-7e90-43cb-b515-e392c946b371@cpanel.com:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell&sni=WWW.felafel.org.#🔥Join+Telegram:@FarahVPN🟣N
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.164:443#🔥Join+Telegram:@FarahVPN🟣N
 vless://f4311364-42a0-4751-a21f-80f2740a59db@www.speedtest.net:443?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=eg-v2ray-x.pages.dev&fp=firefox&type=ws&sni=pAgeS.dev.#🔥Join+Telegram:@FarahVPN🟣N
+trojan://telegram-id-directvpn@13.51.98.136:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣N
+trojan://auto@104.20.20.111:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#🔥Join+Telegram:@FarahVPN🟣N
+trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@77.91.72.197:443?security=tls&type=tcp&sni=customer-77-91-72-197.stark-industries.solutions#🔥Join+Telegram:@FarahVPN🟣N
+trojan://a64f0cea-ca89-40e6-b316-b3badff1eb90@104.18.5.250:443?security=tls&type=ws&sni=iSaa1.PAGeS.DeV&path=/Telegram@V2ray_Alpha/?ed=2560&host=iSAA1.paGEs.DEV#🔥Join+Telegram:@FarahVPN🟣N
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.114.114.69:8118#🔥Join+Telegram:@FarahVPN🟣N
+trojan://86484d9e-c2ac-4d67-af6e-31dc1f98619c@hk1.1.vpn.ong:4438/?type=tcp&security=tls#🔥Join+Telegram:@FarahVPN🟣N
+trojan://86484d9e-c2ac-4d67-af6e-31dc1f98619c@hk3.vpn.ong:4438/?type=tcp&security=tls#🔥Join+Telegram:@FarahVPN🟣N
+trojan://86484d9e-c2ac-4d67-af6e-31dc1f98619c@sgp2.vpn.ong:4438/?type=tcp&security=tls#🔥Join+Telegram:@FarahVPN🟣N
+trojan://86484d9e-c2ac-4d67-af6e-31dc1f98619c@us1.vpn.ong:4438/?type=tcp&security=tls#🔥Join+Telegram:@FarahVPN🟣N
+trojan://86484d9e-c2ac-4d67-af6e-31dc1f98619c@us2.vpn.ong:4438/?type=tcp&security=tls#🔥Join+Telegram:@FarahVPN🟣N
+trojan://86484d9e-c2ac-4d67-af6e-31dc1f98619c@jp2.vpn.ong:4438/?type=tcp&security=tls#🔥Join+Telegram:@FarahVPN🟣N
