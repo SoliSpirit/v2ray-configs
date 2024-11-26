@@ -29,3 +29,4 @@ trojan://bpb-trojan@172.66.44.141:2083?security=tls&type=ws&sni=fB0887ca.BPB-Wor
 vless://26721978-890e-4946-bafa-cb03c9ff7f4a@212.237.218.123:38142?security=none&type=tcp#🔥Join+Telegram:@FarahVPN🟣N
 trojan://telegram-id-directvpn@18.132.173.102:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@FarahVPN🟣N
 trojan://telegram-id-directvpn@51.21.13.0:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣N
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@54.36.174.181:8882#🔥Join+Telegram:@FarahVPN🟣N
