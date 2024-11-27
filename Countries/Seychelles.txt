@@ -1,4 +1,4 @@
-trojan://86484d9e-c2ac-4d67-af6e-31dc1f98619c@154.197.26.220:4438?security=tls&sni=hk1.1.vpn.ong&type=tcp&allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
 trojan://86484d9e-c2ac-4d67-af6e-31dc1f98619c@154.197.26.52:4438?security=tls&sni=hk3.vpn.ong&type=tcp&allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
-vless://fe962226-fe1c-4391-a5ba-7b7c62adda19@154.83.2.200:443?security=tls&sni=am-tunnel-6fs.pages.dev&type=ws&host=am-tunnel-6fs.pages.dev&path=%2F&fp=chrome#🔥Join+Telegram:@FarahVPN🟣
+trojan://86484d9e-c2ac-4d67-af6e-31dc1f98619c@154.197.26.220:4438?security=tls&sni=hk1.1.vpn.ong&type=tcp&allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
 vless://fe962226-fe1c-4391-a5ba-7b7c62adda19@154.83.2.54:2096?security=tls&sni=am-tunnel-6fs.pages.dev&type=ws&host=am-tunnel-6fs.pages.dev&path=%2F&fp=chrome#🔥Join+Telegram:@FarahVPN🟣
+vless://fe962226-fe1c-4391-a5ba-7b7c62adda19@154.83.2.200:443?security=tls&sni=am-tunnel-6fs.pages.dev&type=ws&host=am-tunnel-6fs.pages.dev&path=%2F&fp=chrome#🔥Join+Telegram:@FarahVPN🟣
