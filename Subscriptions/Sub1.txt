@@ -18,3 +18,8 @@ vless://8377b431-2239-42b1-abd8-d4d32cf65862@62.60.246.193:21875?type=tcp#🔥Jo
 trojan://telegram-id-privatevpns@35.178.19.42:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@FarahVPN🟣N
 vless://V2RAXX@www.speedtest.net:8443?path=%2FTelegram%2CV2RAXX%3Fed%3D2480&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=join-bede-V2RAXX-www-speedtest-net.amalfatm.ir&fp=chrome&type=ws&sni=join-bede-V2RAXX-www-speedtest-net.amalfatm.ir#🔥Join+Telegram:@FarahVPN🟣N
 vless://V2RAXX@funnelytics.io:8443?path=%2FTelegram%2CV2RAXX%3Fed%3D2480&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=join-bede-V2RAXX-www-speedtest-net.amalfatm.ir&fp=chrome&type=ws&sni=join-bede-V2RAXX-www-speedtest-net.amalfatm.ir#🔥Join+Telegram:@FarahVPN🟣N
+vless://043d66f3-2147-4e62-8503-5fd9626acb5f@104.17.147.22:80?security=none&type=ws&host=www.speedtest.net.soft98.ir.nobitex.com.vigilantecollection.com&path=%2F%40Daily_Cofnigs%2C%40Daily_Cofnigs%2C%40Daily_Cofnigs%3Fed%3D2560#🔥Join+Telegram:@FarahVPN🟣N
+trojan://telegram-id-directvpn@13.61.84.136:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@FarahVPN🟣N
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:3306#🔥Join+Telegram:@FarahVPN🟣N
+vless://263497fb-9ae2-4f7b-94c6-b0179e480448@172.65.90.52:2096?security=tls&sni=mOOn-AZaDNet.PAgeS.DeV&type=ws&host=moon-azadnet.pages.dev&path=%2FgyUbkW525zXZfMgC%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔥Join+Telegram:@FarahVPN🟣N
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZWQ2NmNiMy03MzRkLTRjYzktOTE4Zi04OGIzZjllMjgyNDk@61.172.235.22:11002#🔥Join+Telegram:@FarahVPN🟣N
