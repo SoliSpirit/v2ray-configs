@@ -291,6 +291,7 @@ trojan://telegram-id-directvpn@54.247.141.10:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@35.181.13.21:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-directvpn@52.16.85.104:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-privatevpns@18.130.53.220:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@13.41.83.158:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.16.192.1:443?path=/6b777a91&security=tls&host=sherasheba.com&type=ws&sni=sherasheba.com#🔥Join+Telegram:@FarahVPN🟣
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.17.147.11:443?path=/6b777a91&security=tls&host=jobscareerfortoday.com&type=ws&sni=jobscareerfortoday.com#🔥Join+Telegram:@FarahVPN🟣
 trojan://0e81a9cd-d849-4101-8d64-574c283207de@172.67.204.84:2083?path=/websocket&security=tls&host=de1.trojanvpn.de&type=ws&sni=de1.trojanvpn.de#🔥Join+Telegram:@FarahVPN🟣
@@ -321,4 +322,3 @@ trojan://bpb-trojan@188.114.96.245:443?path=/tr?ed&security=tls&host=fcspring.gg
 trojan://bpb-trojan@190.93.244.202:443?path=/tr?ed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#🔥Join+Telegram:@FarahVPN🟣
 trojan://bpb-trojan@190.93.244.2:443?path=/tr?ed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#🔥Join+Telegram:@FarahVPN🟣
 trojan://bpb-trojan@190.93.245.12:443?path=/tr?ed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#🔥Join+Telegram:@FarahVPN🟣
-trojan://bpb-trojan@www.speedtest.net:443?path=/tr?ed=@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi&security=tls&alpn=h2,http/1.1&host=fcspring.ggff.net&fp=chrome&type=ws&sni=fcspring.ggff.net#🔥Join+Telegram:@FarahVPN🟣
