@@ -328,7 +328,6 @@ trojan://telegram-id-privatevpns@54.217.125.105:22222?security=tls&alpn=http/1.1
 trojan://telegram-id-directvpn@18.135.189.173:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-directvpn@3.97.211.20:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-privatevpns@13.61.120.41:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
-trojan://4732adfa16c6450bbef87264e41332db@104.16.159.7:443?encryption=none&security=tls&sni=bangladeshipatri.com&fp=chrome&type=ws&host=bangladeshipatri.com&path=%2F6b777a91#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-directvpn@3.97.121.189:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-privatevpns@16.170.93.221:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.16.192.1:443?path=/6b777a91&security=tls&host=sherasheba.com&type=ws&sni=sherasheba.com#🔥Join+Telegram:@FarahVPN🟣
@@ -362,3 +361,4 @@ trojan://bpb-trojan@190.93.244.2:443?path=/tr?ed&security=tls&host=fcspring.ggff
 trojan://bpb-trojan@190.93.245.12:443?path=/tr?ed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#🔥Join+Telegram:@FarahVPN🟣
 trojan://bpb-trojan@www.speedtest.net:443?path=/tr?ed=@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi&security=tls&alpn=h2,http/1.1&host=fcspring.ggff.net&fp=chrome&type=ws&sni=fcspring.ggff.net#🔥Join+Telegram:@FarahVPN🟣
 trojan://dTaXAtuoQF@nginx-4561f180e2-anssdsfsdf.apps.ir-northwest1.arvancaas.ir:443?path=/downloadgame&security=tls&host=nginx-4561f180e2-anssdsfsdf.apps.ir-northwest1.arvancaas.ir&type=ws&sni=nginx-4561f180e2-anssdsfsdf.apps.ir-northwest1.arvancaas.ir#🔥Join+Telegram:@FarahVPN🟣
+trojan://dTaXAtuoQF@nginx-4561f180e2-anssdsfsdf.apps.ir-northwest1.arvancaas.ir:443?security=tls&type=ws&path=/downloadgame&host=nginx-4561f180e2-anssdsfsdf.apps.ir-northwest1.arvancaas.ir#🔥Join+Telegram:@FarahVPN🟣
