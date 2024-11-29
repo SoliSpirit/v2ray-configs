@@ -74,3 +74,8 @@ vless://1aebd4e5-4abb-4525-ad34-564fa6966d71@151.101.192.155:80?security=none&ty
 trojan://5c7dbef8-0fb5-4e88-bb84-24cafeb73f8d@13.114.186.177:20230?sni=421421.xyz#🔥Join+Telegram:@FarahVPN🟣
 vless://3fedbd26-b4da-440e-9f7c-004d2463caec@medium.com:443?path=%2F---------DisVpn---------DisVpn---------DisVpn&security=tls&encryption=none&alpn=h2,http/1.1&host=DisVpn.us.kg&fp=randomized&type=ws&sni=DisVpn.us.kg#🔥Join+Telegram:@FarahVPN🟣
 vless://3fedbd26-b4da-440e-9f7c-004d2463caec@zula.ir:443?path=%2F---------DisVpn---------DisVpn---------DisVpn&security=tls&encryption=none&alpn=h2,http/1.1&host=DisVpn.us.kg&fp=randomized&type=ws&sni=DisVpn.us.kg#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@18.224.36.9:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@FarahVPN🟣
+vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@162.159.255.111:443?security=tls&sni=Tp050KvBgB.eHsAnDnS10.iR&type=grpc#🔥Join+Telegram:@FarahVPN🟣
+vless://fb76ae39-f97e-5a9f-9beb-0e7100166f69@104.21.21.218:2096?security=tls&sni=6-vpnkenzo.tgsqd.WoRKErs.deV&type=ws&host=6-vpnkenzo.tgsqd.WoRKErs.deV&path=vless-ws%2F%3Fed%3D2048&fp=edge&alpn=http/1.1#🔥Join+Telegram:@FarahVPN🟣
+vless://1a1eff5f-97b8-4a4e-910d-6415441b371a@172.66.46.224:443?security=tls&sni=trojanyu.pages.dev&type=ws&host=trojanyu.pages.dev&path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#🔥Join+Telegram:@FarahVPN🟣
+trojan://ncIhZ5kjCF@62.60.246.193:38036?security=none&type=tcp#🔥Join+Telegram:@FarahVPN🟣
