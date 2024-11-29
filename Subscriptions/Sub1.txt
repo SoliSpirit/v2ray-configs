@@ -62,3 +62,5 @@ vmess://eyJhZGQiOiAiMi4xODkuNTkuNyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIi
 trojan://telegram-id-directvpn@63.176.111.249:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@FarahVPN🟣
 vless://fadd6ae8-5c67-4b9f-8f9b-bd2232639c91@188.245.90.214:1633?security=reality&flow=xtls-rprx-vision&sni=stackoverflow.com&type=tcp&fp=chrome&pbk=ANlgAsYC8HmKfJnc5SFvru822urkxG1PzW1Zw4Vbm0Q&sid=9bc0a55a5379c0ed#🔥Join+Telegram:@FarahVPN🟣
 vless://028caef1-1852-4074-884b-993e8baf4fd7@156.146.53.32:80?security=none&type=splithttp&path=%2Fadmin#🔥Join+Telegram:@FarahVPN🟣
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@95.164.22.239:2003?security=tls&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=%2F%3Fed%3D2560&fp=chrome#🔥Join+Telegram:@FarahVPN🟣
+trojan://blue2024@104.18.152.170:443?sni=ha.lii2010.us.kg&allowInsecure=0#🔥Join+Telegram:@FarahVPN🟣
