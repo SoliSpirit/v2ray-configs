@@ -20,3 +20,5 @@ vless://1a1eff5f-97b8-4a4e-910d-6415441b371a@172.66.46.224:443/?type=ws&encrypti
 vless://1a1eff5f-97b8-4a4e-910d-6415441b371a@172.66.46.224:8443/?type=ws&encryption=none&host=trojanyu.pages.dev&path=%2F%3Fed%3D2560&security=tls&sni=trojanyu.pages.dev&alpn=http%2F1.1&fp=randomized#🔥Join+Telegram:@FarahVPN🟣
 trojan://984e400bf5d541b7b0815913fe0c432a@104.16.159.5:443/?type=ws&host=bangladeshipatri.com&path=6b777a91&security=tls&sni=bangladeshipatri.com#🔥Join+Telegram:@FarahVPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@13.43.133.210:443#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@18.198.118.67:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@35.180.224.101:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
