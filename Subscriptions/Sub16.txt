@@ -146,9 +146,6 @@ vless://4d63e415-9e34-431a-eaae-32a941c18bfe@104.17.147.22:2083?security=tls&sni
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@150.230.42.80:443?security=tls&sni=pvg.aghabeiki.homes&type=ws&host=pvg.aghabeiki.homes&path=%3Fed%3D2744#🔥Join+Telegram:@FarahVPN🟣
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.27:443?security=tls&sni=ad.ylks.xyz&type=ws&host=ad.ylks.xyz&path=%2Fblue#🔥Join+Telegram:@FarahVPN🟣
 vless://d3a12e79-ef42-4268-b367-42eeb3494e60@172.67.73.163:2083?security=tls&sni=hagh.pages.dev&type=ws&host=hagh.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&fp=random#🔥Join+Telegram:@FarahVPN🟣
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@149.202.82.172:7306#🔥Join+Telegram:@FarahVPN🟣
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.120:8080#🔥Join+Telegram:@FarahVPN🟣
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@69.50.95.53:7306#🔥Join+Telegram:@FarahVPN🟣
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.143.66.87:6697#🔥Join+Telegram:@FarahVPN🟣
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#🔥Join+Telegram:@FarahVPN🟣
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@139.64.164.15:8118#🔥Join+Telegram:@FarahVPN🟣
@@ -220,6 +217,9 @@ ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@5.188.181.201:9041#🔥Join+Telegr
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.113:5004#🔥Join+Telegram:@FarahVPN🟣
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.75.136.21:8080#🔥Join+Telegram:@FarahVPN🟣
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@213.156.137.67:989#🔥Join+Telegram:@FarahVPN🟣
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@51.77.53.200:9101#🔥Join+Telegram:@FarahVPN🟣
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@54.37.12.70:8090#🔥Join+Telegram:@FarahVPN🟣
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.77.53.200:8080#🔥Join+Telegram:@FarahVPN🟣
 trojan://bpb-trojan@45.131.211.23:443?allowInsecure=1&sni=bpb.my79801.com#🔥Join+Telegram:@FarahVPN🟣
 trojan://bpb-trojan@45.8.211.242:443?allowInsecure=1&sni=bpb.my79801.com#🔥Join+Telegram:@FarahVPN🟣
 trojan://NISHIKUITAN111@104.27.18.180:443?allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
