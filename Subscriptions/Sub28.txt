@@ -88,6 +88,8 @@ vless://1af8b2d6-213d-49ce-9bc9-ffbdc5830c35@104.18.8.209:2053?security=tls&sni=
 vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@185.170.166.220:443?security=tls&sni=Tp050KvBgB.eHsAnDnS10.iR&type=grpc#🔥Join+Telegram:@FarahVPN🟣
 vless://ca4e46f9-be28-4fae-8ba1-40c4522a4f49@172.66.47.74:2053?security=tls&sni=androidyt.androidyteuorg.workers.dev&type=ws&host=androidyt.androidyteuorg.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=android&alpn=h2%2Chttp%2F1.1#🔥Join+Telegram:@FarahVPN🟣
 vless://85b94f20-e563-498b-9d4b-a75438a51101@104.18.5.2:2096?security=tls&sni=VFIvE-teLeGram.PAGEs.Dev&type=ws&host=VFIvE-teLeGram.PAGEs.Dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560#🔥Join+Telegram:@FarahVPN🟣
+ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFwQDE0Ni43MC4yNy4xMjo0MDA5Mw==#🔥Join+Telegram:@FarahVPN🟣
+ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@37.120.236.147:40093#🔥Join+Telegram:@FarahVPN🟣
 ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@37.120.218.253:40093#🔥Join+Telegram:@FarahVPN🟣
 ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@194.110.115.83:40093#🔥Join+Telegram:@FarahVPN🟣
 ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@188.95.55.125:40093#🔥Join+Telegram:@FarahVPN🟣
@@ -131,8 +133,6 @@ ss://YWVzLTI1Ni1nY206Z3F0d0d1OWJWcmVKcUwzRlRIU1ZLR3p5@138.199.19.169:50695#🔥J
 ss://YWVzLTI1Ni1nY206YjJqRFBIVVF4Q05hMkttR0haank3QzRC@64.44.42.195:50024#🔥Join+Telegram:@FarahVPN🟣
 ss://YWVzLTI1Ni1nY206YjJqRFBIVVF4Q05hMkttR0haank3QzRC@212.102.46.71:50024#🔥Join+Telegram:@FarahVPN🟣
 ss://YWVzLTI1Ni1nY206YjJqRFBIVVF4Q05hMkttR0haank3QzRC@154.16.168.186:50024#🔥Join+Telegram:@FarahVPN🟣
-ss://YWVzLTI1Ni1nY206YjJqRFBIVVF4Q05hMkttR0haank3QzRC@138.199.19.167:50024#🔥Join+Telegram:@FarahVPN🟣
-ss://YWVzLTI1Ni1nY206YjJqRFBIVVF4Q05hMkttR0haank3QzRC@107.150.94.27:50024#🔥Join+Telegram:@FarahVPN🟣
 trojan://blue2024@172.64.35.207:443?sni=tb.promote.icu&type=ws&host=tb.promote.icu#🔥Join+Telegram:@FarahVPN🟣
 trojan://blue2024@104.25.235.162:443?sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg&allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
 trojan://NISHIKUITAN111@188.114.96.219:443?#🔥Join+Telegram:@FarahVPN🟣
