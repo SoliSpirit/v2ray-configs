@@ -158,3 +158,6 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.43.169:443?path=%2F%3Fed%3D2
 vless://7835948c-ac97-5c9b-ab20-ce5941ff96b5@speedtest.net:80?path=%2F&security=none&encryption=none&host=MOSI-MOSIV2.COM&type=ws#🔥Join+Telegram:@FarahVPN🟣
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ%3D@54.36.174.181:8009#🔥Join+Telegram:@FarahVPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5ZVJDVFk4T0VCWG1jaHI1cnpENXBK@81.19.141.45:52873#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@52.47.210.239:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.156.106.60:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔥Join+Telegram:@FarahVPN🟣
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.236.180.126:443#🔥Join+Telegram:@FarahVPN🟣
