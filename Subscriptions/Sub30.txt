@@ -1,3 +1,4 @@
+vmess://eyJhZGQiOiAiMTg4LjExNC45OS4xODMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsICJpZCI6ICJlZGJiMTA1OS0xNjMzLTQyNzEtYjY2ZS1lZDRmYmE0N2ExYmYiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt3cyIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaFZQTlx1ZDgzZFx1ZGZlMyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
 vmess://eyJhZGQiOiAiMTg4LjM0LjE5NC4xNjUiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIkZpbHRlci1TaGNhbiIsICJuZXQiOiAic3BsaXRodHRwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjIwODMiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhWUE5cdWQ4M2RcdWRmZTMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
 vmess://eyJhZGQiOiAiMTk0LjUuNTQuMTY0IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI0YjgxNWY0NC1hMDYyLTRkOWQtOWZlNi0xYjAxMzA0NDg1YzAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi9AQ29uZmlnUG9zaXRpdmVAQ29uZmlnUG9zaXRpdmVAQ29uZmlnUG9zaXRpdmUiLCAicG9ydCI6ICIxMjMiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhWUE5cdWQ4M2RcdWRmZTMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiaHR0cCIsICJ2IjogIjIifQ==
 vmess://eyJhZGQiOiAiMi4xODkuNTkuNyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJvYmRpaS5jZmQiLCAiaWQiOiAiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhWUE5cdWQ4M2RcdWRmZTMiLCAic2N5IjogImF1dG8iLCAic25pIjogIm9iZGlpLmNmZCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
@@ -114,6 +115,8 @@ vless://b0a63ba3-6cb0-48de-a19d-12babdb0ba4d@172.64.155.187:8880?type=ws&host=23
 vless://921c3e7a-35b5-4499-aef5-363fd050bb29@160.153.0.8:443?security=tls&sni=s1.digikala-iranian.org&type=grpc#🔥Join+Telegram:@FarahVPN🟣
 vless://60b301b0-60c0-41a1-a03e-f8660a54303e@104.17.147.22:2052?security=none&type=httpupgrade&host=https.www.dash.cloudflare.com.www.zula.ir.www.soft98.ir.www.speedtest.net.iranstars-shop.ir&path=%2FStop%3Fed%3D2560----join.JOKERRVPN----join.JOKERRVPN----join.JOKERRVPN----join.JOKERRVPN----join.JOKERRVPN----join.JOKERRVPN----join.JOKERRVPN----join.JOKERRVPN----join.JOKERRVPN----join.JOKERRVPN&alpn=null#🔥Join+Telegram:@FarahVPN🟣
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.178:443?security=tls&sni=as.ylks.xyz&type=ws&path=%2Fblue#🔥Join+Telegram:@FarahVPN🟣
+vless://29419d2e-5475-42a9-a615-996608ce0a46@172.67.145.239:443?security=tls&sni=parsairon.ironnettt.workers.dev&type=ws&host=parsairon.ironnettt.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔥Join+Telegram:@FarahVPN🟣
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@172.105.244.165:443#🔥Join+Telegram:@FarahVPN🟣
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@139.162.58.13:443#🔥Join+Telegram:@FarahVPN🟣
 ss://YWVzLTI1Ni1nY206c3V1Y1NlVkxtdDZQUUtBUDc3TnRHdzl4@91.250.240.148:49339#🔥Join+Telegram:@FarahVPN🟣
 ss://YWVzLTI1Ni1nY206c3V1Y1NlVkxtdDZQUUtBUDc3TnRHdzl4@185.212.111.59:49339#🔥Join+Telegram:@FarahVPN🟣
@@ -230,3 +233,4 @@ trojan://NISHIKUITAN111@154.197.75.248:443?#🔥Join+Telegram:@FarahVPN🟣
 trojan://NISHIKUITAN111@104.16.37.91:443?#🔥Join+Telegram:@FarahVPN🟣
 trojan://NISHIKUITAN111@104.18.215.15:443?#🔥Join+Telegram:@FarahVPN🟣
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@112.3.28.12:46002?#🔥Join+Telegram:@FarahVPN🟣
+trojan://NISHIKUITAN111@104.17.85.90:443?#🔥Join+Telegram:@FarahVPN🟣
