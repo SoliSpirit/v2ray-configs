@@ -181,3 +181,4 @@ vless://cf7b1a0e-8f65-4c33-92a9-b0461beaea31@150.241.102.95:10799?security=reali
 vless://448a100d-daf2-4a95-a2e1-1c49252443cf@192.200.160.20:443?security=tls&sni=sigewinne.unlockedworllderen.cloudns.org&type=ws&host=sigewinne.unlockedworllderen.cloudns.org&path=%2F&fp=randomized&alpn=h3#🔥Join+Telegram:@FarahVPN🟣
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@185.214.103.210:29862?allowInsecure=0&sni=v2.yunchun.top&type=ws&host=v2.yunchun.top&path=/?ed=2048&Telegram🇨🇳+@WangCai2security=tls#🔥Join+Telegram:@FarahVPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOdHpjYmxyUWJGUzFYZkpMTFlwdC1R@188.245.163.79:1723#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@52.47.82.11:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
