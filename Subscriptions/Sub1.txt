@@ -77,3 +77,5 @@ trojan://telegram-id-privatevpns@13.61.84.111:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-directvpn@13.61.113.47:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 vless://telegram__________v2rayng_76@Zula.ir:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=bo2bo2.bia2bax.shoP.&type=ws#🔥Join+Telegram:@FarahVPN🟣
 vless://telegram__________v2rayng_76@baby.bia2bax.shop:443?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+vless://e8cfc69c-f9a4-40ed-b48d-d5da257f5c7c@107.172.57.21:443?security=reality&encryption=none&pbk=f12r3TyZUUckM-XWQ7w63kcF19eZVvWdgZqqk4ry3Ss&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=osxapps.itunes.apple.com&sid=5b6fd34e#🔥Join+Telegram:@FarahVPN🟣
+trojan://bpb-trojan@198.41.204.23:443?path=%2Ftr&security=tls&host=bpb.my79801.com&type=ws&sni=bpb.my79801.com#🔥Join+Telegram:@FarahVPN🟣
