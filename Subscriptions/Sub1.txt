@@ -152,3 +152,10 @@ vless://73078e76-c7cf-4b47-aafc-80683741aa4a@hajlab.ucdavis.edu:443?security=tls
 vless://9cbdc595-1d8d-4443-af07-99149153d025@104.19.222.79:443?security=tls&sni=993c0d8f73a1454d8f14.newway-newroue.rest&type=ws&host=993c0d8f73a1454d8f14.newway-newroue.rest&path=%2Fabcdews&fp=chrome#🔥Join+Telegram:@FarahVPN🟣
 vless://166c1478-621a-4ab1-bad8-2fc523330f2a@104.17.147.22:8080?security=none&type=httpupgrade&host=2.www.speedtest.net.Mact.iR.#🔥Join+Telegram:@FarahVPN🟣
 vless://e4c82c2f-f154-4272-bcc8-6380a84cddb5@62.60.218.126:5782?security=none&encryption=none&host=virgool.io&headerType=http&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.135.79.31:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@18.169.37.120:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.91.100.211:2375#🔥Join+Telegram:@FarahVPN🟣
+vmess://eyJhZGQiOiAiMTA0LjI1LjIxMC41NSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJrbG9vcC5cdTdhMGJcdTVmMGZcdThhMmRcdThhMDhcdThhOWVcdThhMDAud2Vic2l0ZS4iLCAiaWQiOiAiY2Y3YTdmZTAtZGVhMy00NDNkLTkyNmMtNThiMWI5NTY5NmIyIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8_ZWQ9ODA4MCIsICJwb3J0IjogIjgwODAiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhWUE5cdWQ4M2RcdWRmZTMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.80.209.129:990#🔥Join+Telegram:@FarahVPN🟣
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.91.100.211:7002#🔥Join+Telegram:@FarahVPN🟣
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@54.37.12.70:7306#🔥Join+Telegram:@FarahVPN🟣
