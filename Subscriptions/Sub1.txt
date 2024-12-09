@@ -79,3 +79,11 @@ trojan://telegram-id-privatevpns@16.170.4.71:22222?security=tls&alpn=http/1.1&he
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.21.68.60:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔥Join+Telegram:@FarahVPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#🔥Join+Telegram:@FarahVPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.199:8080#🔥Join+Telegram:@FarahVPN🟣
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.19.130.18:2053/?type=ws&encryption=none&host=v2.yunchun.top&path=%2FEIoLkN7aqclDu6kP%2FYnBiLnlvdXNlZi5pc2VnYXJvLmNvbQ%3D%3D%3Fed%3D2560&security=tls&sni=V2.yUNCHuN.TOp#🔥Join+Telegram:@FarahVPN🟣
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.19.130.18:2087/?type=ws&encryption=none&host=V2.YUnCHUn.tOp&path=%2Fdzc7zir9eo038lmk%2Fynbilnlvdxnlzi5pc2vnyxjvlmnvbq%3D%3D%3Fed%3D2560&security=tls&sni=V2.YUnCHUn.tOp#🔥Join+Telegram:@FarahVPN🟣
+trojan://QwwHvrnN@36.151.192.198:31071?allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
+vless://8c3fbf41-0454-4256-a120-9f381c1f0a44@150.241.102.95:10799/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=random&security=reality&pbk=yw374OPQfpF0KpnFYX2zYnO8-NC7RkgGbbiMzmZYvDU&sid=330602658f0ade#🔥Join+Telegram:@FarahVPN🟣
+vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@104.26.13.101:80/?type=ws&encryption=none&host=csgo.mozilla.5.0.xn--2b5baaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.127.0.0.1.offlinespeedtest.netdown.user.xn--2b5baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.0.2.1.xn--j9h1028mqmaoytii00aha21hfjrd.xn--m39h.tor.rubika.cloudns.ch.&path=%2Fxmlrpc.php%3Fed%3D1080%26id%3Ddfc1a9ab-6241-4b73-92f7-b299fc6b7751#🔥Join+Telegram:@FarahVPN🟣
+trojan://blue2024@198.41.221.124:443/?type=ws&host=td.promote.icu&path=%2F%3Fed%3D2560&security=tls&sni=td.promote.icu#🔥Join+Telegram:@FarahVPN🟣
+trojan://blue2024@173.245.59.6:443/?type=ws&host=td.promote.icu&path=%2F%3Fed%3D2560&security=tls&sni=td.promote.icu#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@51.21.20.64:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
