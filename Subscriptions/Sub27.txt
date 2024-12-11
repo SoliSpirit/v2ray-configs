@@ -274,15 +274,6 @@ ss://user@s1.mynameismahsa.info:443?type=ws&amp;security=tls&amp;path=%2F&amp;sn
 ss://user@s2.mynameismahsa.info:443?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s2.mynameismahsa.info#🔥Join+Telegram:@FarahVPN🟣
 ss://user@s3.mynameismahsa.info:443?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s3.mynameismahsa.info#🔥Join+Telegram:@FarahVPN🟣
 ss://user@s4.mynameismahsa.info:443?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s4.mynameismahsa.info#🔥Join+Telegram:@FarahVPN🟣
-trojan://telegram-id-directvpn@3.97.224.153:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
-trojan://telegram-id-directvpn@35.180.180.21:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
-trojan://telegram-id-directvpn@51.21.14.124:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
-trojan://telegram-id-directvpn@52.209.217.189:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
-trojan://telegram-id-directvpn@54.75.151.138:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
-trojan://telegram-id-privatevpns@13.39.181.56:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
-trojan://telegram-id-privatevpns@13.39.194.196:22222?security=tls&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
-trojan://telegram-id-privatevpns@13.39.214.66:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
-trojan://telegram-id-privatevpns@13.39.41.84:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-privatevpns@13.42.82.229:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-privatevpns@13.61.134.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-privatevpns@13.61.55.73:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
