@@ -48,3 +48,6 @@ trojan://telegram-id-privatevpns@35.176.84.242:22222?security=tls&alpn=http/1.1&
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.175.95.23:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔥Join+Telegram:@FarahVPN🟣
 trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@18.162.145.241:49089?security=tls&sni=jp12.bilibili.com&type=tcp#🔥Join+Telegram:@FarahVPN🟣
 vless://96bb4985-ef9a-45dd-9127-386516c64169@151.101.66.228:80?security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v05.TzZLiMitTNeWz.NeT&type=ws#🔥Join+Telegram:@FarahVPN🟣
+vless://1f77f427-62f1-4ff6-a085-21278eb04472@victor1.safeunity.shop:45495?encryption=none&security=none&type=ws&path=%2F#🔥Join+Telegram:@FarahVPN🟣
+vless://0bf64a11-649e-49e8-8caa-6feb8e13773d@144.126.245.90:10080?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#🔥Join+Telegram:@FarahVPN🟣
+vless://f988794c-cdb2-4842-b604-06e65cf6d040@104.21.46.162:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=%40iMrV2ray&sni=societshaia7rysv.aminho3ien.ir#🔥Join+Telegram:@FarahVPN🟣
