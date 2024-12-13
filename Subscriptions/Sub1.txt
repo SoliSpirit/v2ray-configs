@@ -187,3 +187,6 @@ trojan://f0eb8c92ce8946aaba856569cff1a16b@134.195.196.138:443?security=tls&sni=a
 vless://ab99638d-1d04-451c-92a4-89364d0570f4@151.101.64.155:80?security=none&type=ws&host=join-bede-CONFIGT.OrG&path=%2FlW0tvTq4oSbHyKeRM%3Fed%3D2560#🔥Join+Telegram:@FarahVPN🟣
 vless://782efefc-aac2-a7f2-6e2b-e42f7bc5d75a@172.67.184.7:443?security=tls&sni=wwwd7e1909f3a7e4477.jostar-data.nl&type=httpupgrade&host=d7e1909f3a7e4477.jostar-data.nl&path=%2Fquran%2Fdeam_net301.67+GB%2F%3Fed%3D2560&fp=firefox&alpn=h3#🔥Join+Telegram:@FarahVPN🟣
 vless://0dd5a4f8-b442-4f2b-b134-6ea57bb14dcc@172.67.204.84:8443?security=tls&sni=birdxraywow.pages.dev&type=ws&host=birdxraywow.pages.dev&path=%2FuhTbsponEnSNnlWU%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#🔥Join+Telegram:@FarahVPN🟣
+vless://f988794c-cdb2-4842-b604-06e65cf6d040@45.149.12.39:8443?security=tls&sni=societshaia7rysv.aminho3ien.ir&type=grpc&serviceName=@iMrV2ray#🔥Join+Telegram:@FarahVPN🟣
+trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@18.162.123.249:48539?sni=hk12.bilibili.com&allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
+trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@218.190.230.207:49364?sni=hk12.bilibili.com&allowInsecure=0#🔥Join+Telegram:@FarahVPN🟣
