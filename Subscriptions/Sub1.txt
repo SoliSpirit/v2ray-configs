@@ -138,3 +138,7 @@ vless://40794205-2963-43ef-9f32-9808513b78b5@pscresearch.faculty.ucdavis.edu:443
 trojan://telegram-id-directvpn@63.34.34.0:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-privatevpns@51.24.53.35:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTombG1PaExKdy0w@150.241.95.62:54314#🔥Join+Telegram:@FarahVPN🟣
+vless://ef4def1d-a5e3-4f4a-86fc-6de8505514e4@185.146.173.58:8080?path=%2F&security=none&Telegram#🔥Join+Telegram:@FarahVPN🟣
+vless://cb05adeb-550d-4f59-bf11-d4a0e8f05a8e@1.gpairnetwork369.ir:420?mode=gun&security=none&encryption=none&authority=Telegram#🔥Join+Telegram:@FarahVPN🟣
+vless://6c64357e-a5f0-483e-a55a-bae80ae9c2f8@live.skornorth.com:443?path=%2F%40%63%75%73%74%6f%6d%5f%63%6f%6e%66%69%67%3Fed%3D2048Telegram#🔥Join+Telegram:@FarahVPN🟣
+vless://e0448dfd-7bf4-4e1c-a5cc-4d0f8b6c5899@1.gpairnetwork369.ir:420?mode=gun&security=none&encryption=none&authority=Telegram#🔥Join+Telegram:@FarahVPN🟣
