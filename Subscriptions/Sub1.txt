@@ -127,3 +127,10 @@ ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@167.88.61.111:7306#🔥Join+Telegram:@
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ%3D@54.36.174.181:8009#🔥Join+Telegram:@FarahVPN🟣
 vless://0d546eac-dd84-4422-9260-826e08b827f8@89.169.53.222:33718?type=tcp&security=none#🔥Join+Telegram:@FarahVPN🟣
 vless://198f7af1-8047-4893-800a-5c074fd0e8fc@live.skornorth.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=cdnfastlyde.com&type=ws&sni=live.skornorth.com#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@3.10.166.41:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://219d848d-60f2-4321-8275-72b9b575b37e@104.25.21.207:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@18.133.211.22:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@FarahVPN🟣
+vless://9cf268f2-1855-4c42-8f19-b6f9c7e58729@93.126.50.231:51234?security=none&type=tcp&host=telewebion.com&headerType=http#🔥Join+Telegram:@FarahVPN🟣
+vless://ca68a029-971c-4ea4-8c1d-411cb7adc474@104.24.9.204:80?security=none&type=ws&host=patient-sunset-f000-ppal03.cijej53213.workers.dev&path=%2F%3Fed%3D2560#🔥Join+Telegram:@FarahVPN🟣
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.72:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔥Join+Telegram:@FarahVPN🟣
+vless://219d848d-60f2-4321-8275-72b9b575b37e@172.67.201.198:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔥Join+Telegram:@FarahVPN🟣
