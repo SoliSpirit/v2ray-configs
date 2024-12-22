@@ -122,3 +122,8 @@ trojan://telegram-id-privatevpns@35.178.133.146:22222?security=tls&alpn=http/1.1
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.175.26.234:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔥Join+Telegram:@FarahVPN🟣
 vless://061277e0-aea4-449c-bbeb-05a55fa825df@TLS.zeoaeriedo-saioesrio.ir:2000/?type=grpc&serviceName=/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray&authority=&security=none#🔥Join+Telegram:@FarahVPN🟣
 vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&security=none&encryption=none&host=kazemi11zerofun.coM&type=ws#🔥Join+Telegram:@FarahVPN🟣
+vless://29c873af-98eb-44b4-b46f-600dd67cea73@91.107.147.12:11334?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.yahoo.com&fp=chrome&pbk=KAE1bBZdpkkbQvtvEIcJtspg_gPIodJfJ98OiXMhuFM&sid=d03cac31&type=tcp&headerType=none#🔥Join+Telegram:@FarahVPN🟣
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@167.88.61.111:7306#🔥Join+Telegram:@FarahVPN🟣
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ%3D@54.36.174.181:8009#🔥Join+Telegram:@FarahVPN🟣
+vless://0d546eac-dd84-4422-9260-826e08b827f8@89.169.53.222:33718?type=tcp&security=none#🔥Join+Telegram:@FarahVPN🟣
+vless://198f7af1-8047-4893-800a-5c074fd0e8fc@live.skornorth.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=cdnfastlyde.com&type=ws&sni=live.skornorth.com#🔥Join+Telegram:@FarahVPN🟣
