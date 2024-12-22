@@ -143,3 +143,6 @@ vless://Bia--%5aED%4d%4fDE%4f%4e@zmaoz.faculty.ucdavis.edu:443?type=grpc&service
 vless://45dc809a-6a7a-4037-819c-8497dfa4a058@138.199.146.71:17244?security=reality&encryption=none&pbk=Dg7zMsLq5I45oDtE4HwOVaWn5UDqhOxM4fD0u33_81k&headerType=none&fp=random&spx=%2Froshdcollection&type=tcp&sni=yahoo.com&sid=fc3acf#🔥Join+Telegram:@FarahVPN🟣
 vless://8f6f8193-0f0b-5933-9346-718542befff9@151.101.194.219:80?security=none&encryption=none&host=ELiV2--ELENA.COM&type=ws#🔥Join+Telegram:@FarahVPN🟣
 vless://475429b6-5012-4ede-9cde-a049d5372f7f@151.101.194.228:80?security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v25.drlimit.net&type=ws#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@13.49.114.114:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.53.65.81:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@51.21.123.8:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
