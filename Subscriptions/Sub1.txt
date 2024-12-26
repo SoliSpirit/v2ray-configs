@@ -108,3 +108,6 @@ vless://0269d59c-ac16-4fb3-a440-04873738c4bf@s14.fastly80-2.hosting-ip.com:80?pa
 vless://0269d59c-ac16-4fb3-a440-04873738c4bf@mmd.fast.hosting-ip.com:80?path=%2FPROXY_MTM---PROXY_MTM---PROXY_MTM---PROXY_MTM---PROXY_MTM---PROXY_MTM---PROXY_MTM---PROXY_MTM%3Fed%3D2048&security=none&encryption=none&host=mmd.ir&type=ws#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-directvpn@3.96.240.107:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 vless://telegram-ArV2ray@151.101.2.216:80?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry&security=none&encryption=none&host=v2.fxpw5ls.ir&type=ws#🔥Join+Telegram:@FarahVPN🟣
+vless://473ca7ab-9fb1-4428-aae8-7870101f74b0@94.154.32.251:2052?security=&encryption=none&type=grpc&serviceName=8880vless#🔥Join+Telegram:@FarahVPN🟣
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.86.135.141:8882#🔥Join+Telegram:@FarahVPN🟣
+vless://2f760a0a-9b80-4097-9598-b2e8cba38d4b@pscresearch.faculty.ucdavis.edu:443?path=ws%2F%3Fed%3D2048&security=tls&encryption=none&host=uivtfybyi.com&type=ws&sni=pscresearch.faculty.ucdavis.edu#🔥Join+Telegram:@FarahVPN🟣
