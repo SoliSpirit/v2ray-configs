@@ -57,3 +57,8 @@ trojan://telegram-id-privatevpns@13.36.181.149:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-directvpn@13.41.145.5:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 vless://b8d6fe66-50ec-4339-9cfb-843f4bdeb956@sub.bluevpn.site:1182?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🔥Join+Telegram:@FarahVPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmcXlVMVUyZGkyUVdnRkdyT2U4YUQ0@77.221.157.56:51279#🔥Join+Telegram:@FarahVPN🟣
+vless://TELEGRAM-NUFiLTER@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=6.fidsxss1x.iR&fp=chrome&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu#🔥Join+Telegram:@FarahVPN🟣
+vless://04c924c7-551e-4c67-b3fa-9cca9e8cdc78@pscresearch.faculty.ucdavis.edu:443?path=ws%2F%3Fed%3D2048&security=tls&encryption=none&host=ihrcxextyuj.com&type=ws&sni=pscresearch.faculty.ucdavis.edu#🔥Join+Telegram:@FarahVPN🟣
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@51.77.53.200:2375#🔥Join+Telegram:@FarahVPN🟣
+ss://YWVzLTI1Ni1nY206YW1hem9uc2tyMDU%3D@52.194.212.235:443#🔥Join+Telegram:@FarahVPN🟣
+vless://2add6241-8fe8-3922-8347-da25e8ced601@twb.doubledou.icu:443?security=reality&encryption=none&pbk=zRZhlkKjUeqtIk9j6yy95aX-2krqQVyWORLv5tQkQGM&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=tesla.com#🔥Join+Telegram:@FarahVPN🟣
