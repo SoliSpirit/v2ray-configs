@@ -112,3 +112,9 @@ vless://3b1e2c98-6025-41df-b82d-b539757f903f@live.skornorth.com:443?path=%2Fvles
 vless://3b1e2c98-6025-41df-b82d-b539757f903f@live.skornorth.com:80?path=%2Fvless%2F&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=7707.dev&fp=chrome&type=ws&sni=plex.com#🔥Join+Telegram:@FarahVPN🟣
 vless://ea286109-d20f-415e-849e-4af20ab04b65@147.135.1.195:443?security=tls&sni=147135001195.sec22org.com&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpidEYydUNCbjJDejExa0lB@40.172.19.51:443#🔥Join+Telegram:@FarahVPN🟣
+vless://33dc6301-e4bf-4612-94f5-7006fe062892@138.124.25.81:5757?security=reality&encryption=none&pbk=Km5SzQsIFMRVl4TlxVFAdhih7C6CnjMvUrtf38gTyQM&headerType=none&fp=chrome&type=tcp&sni=refersion.com#🔥Join+Telegram:@FarahVPN🟣
+vless://813e1424-c68d-4e56-ac6f-e7b6dfe79606@slate.com:443?path=%2F&security=tls&encryption=none&host=vpngaming.ir&type=ws&sni=slate.com#🔥Join+Telegram:@FarahVPN🟣
+vless://014f140d-3a8e-46e6-ab69-a199bdeebf5e@www.visa.com:2086?path=%2F%3Fed%3D2560&security=none&encryption=none&host=1228.908m1pni.workers.dev&type=ws#🔥Join+Telegram:@FarahVPN🟣
+vless://3f344bc8-01b4-4b08-82ab-c906525ce8b3@198.41.209.2:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=firefox&type=grpc&serviceName=%40metavpnn&sni=com.barandldl.ir#🔥Join+Telegram:@FarahVPN🟣
+vless://33dc6301-e4bf-4612-94f5-7006fe062892@138.124.25.81:9090?security=reality&encryption=none&pbk=7wMxPQE_dDnSTme4_LlmiMQp28_B0ovKf53KyvRm4BQ&headerType=none&fp=chrome&type=tcp&sni=refersion.com#🔥Join+Telegram:@FarahVPN🟣
+vless://014f140d-3a8e-46e6-ab69-a199bdeebf5e@www.visa.com:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=1228.908m1pni.workers.dev&type=ws#🔥Join+Telegram:@FarahVPN🟣
