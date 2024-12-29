@@ -112,3 +112,6 @@ vless://c42986d6-f602-41a1-85f3-6b8e48358791@spd.fastly80-3.hosting-ip.com:80?en
 vless://6a3a0a2c-e038-47a9-afd0-ab9d188624e9@162.159.1.20:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔥Join+Telegram:@FarahVPN🟣
 ss://086d9b25-cd5f-4185-bcf9-e0ed000a7a5a@151.101.194.165:80?type=ws&host=api.nhl111.ir&path=%2F%3Fed%3D2048#🔥Join+Telegram:@FarahVPN🟣
 vless://d51963a2-cd73-4564-894c-bdbb91775900@104.18.14.19:2082?type=ws&host=wz1226.9si685h0.workers.dev&path=%2F%3Fed%3D2560#🔥Join+Telegram:@FarahVPN🟣
+vless://fa590a45-02ee-4ebc-af6d-de5c5db93619@stupid.viewdns.net:666?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.166:8080#🔥Join+Telegram:@FarahVPN🟣
+vless://ed93fd56-8b30-4a55-8a8d-234cfa5287af@188.245.228.234:2000?mode=gun&security=none&encryption=none&type=grpc&serviceName=%2F%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray#🔥Join+Telegram:@FarahVPN🟣
