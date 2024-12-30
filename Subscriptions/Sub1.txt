@@ -163,3 +163,5 @@ vless://5c5b78fc-55b8-45f3-ee98-e4ef71345517@151.101.194.228:443?security=tls&sn
 trojan://telegram-id-privatevpns@13.37.159.235:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@91.225.219.71:2198?type=tcp#🔥Join+Telegram:@FarahVPN🟣
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.179.186.199:443#🔥Join+Telegram:@FarahVPN🟣
+vless://venom-servers@www.speedtest.net:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=VenomServers&sni=im.cringe.ir#🔥Join+Telegram:@FarahVPN🟣
+vless://21198c21-c659-4f27-8531-4a616c509a3b@iri.ginuerzht.ir:2053?security=none=/%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO&encryption=none&host=speedtest.net&headerType=http&type=tcp#🔥Join+Telegram:@FarahVPN🟣
