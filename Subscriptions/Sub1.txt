@@ -184,3 +184,7 @@ vless://8b269721-714f-4bb8-a18e-76038fbec1ec@199.232.112.11:443?security=tls&sni
 vless://9fcdf14d-5e70-426d-a377-3e5a35b72a31@198.244.141.210:18764?security=none&type=tcp&host=telewebion.com&headerType=http#🔥Join+Telegram:@FarahVPN🟣
 vless://c797aa8a-c03d-48da-9ad4-c9774b14bed2@27.50.48.204:443?security=tls&sni=nvl.esslh.filegear-sg.me&type=ws&host=nvl.esslh.filegear-sg.me&path=%2F%3Fed%3D2560&fp=chrome#🔥Join+Telegram:@FarahVPN🟣
 trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@bz02.ssr.ee:443?allowInsecure=1&sni=bz02.ssr.ee#🔥Join+Telegram:@FarahVPN🟣
+vless://c2118e6d-22c4-4e3d-b65d-06fb37de4a97@joinpersianvpn69byamirfbi.seyhello.news:80?type=tcp&security=reality&pbk=SHyqlTBEGRaRNzHU2aCxUVSwRcc_YjLiAO9t6qF8aB0&fp=firefox&sni=yahoo.com&sid=0b6a&spx=%2F4374d295a4f9dd83%2C%40amiir_FBI%3Fed%3D2048&flow=xtls-rprx-vision#🔥Join+Telegram:@FarahVPN🟣
+vless://637b63cf-d97b-45cf-a5ea-2743c37601c5@Wedbaz.flashwrite.ir:8443?security=reality&encryption=none&pbk=snecvGb4VGcY1DESJROf6xOoLBYTZqQivnKkuH4nVW4&headerType=none&fp=chrome&type=tcp&sni=www.stackoverflow.com&sid=155dfc38ced3ba72#🔥Join+Telegram:@FarahVPN🟣
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.183.228.11:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@63.176.126.186:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
