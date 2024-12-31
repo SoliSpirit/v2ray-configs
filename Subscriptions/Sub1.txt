@@ -159,3 +159,6 @@ vless://42900b02-8348-50a5-9ace-be0899b0e541@live.skornorth.com:443?encryption=n
 vless://42900b02-8348-50a5-9ace-be0899b0e541@speedtest.net:80?encryption=none&security=none&type=ws&host=0-MO-SI-V2.COM&path=%2F#🔥Join+Telegram:@FarahVPN🟣
 vless://285fb420-b3d0-4af7-94b4-87d3e02e7271@hajlab.ucdavis.edu:443?path=@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2048&security=tls&encryption=none&host=joinbedemaznettel.ir&type=ws&sni=hajlab.ucdavis.edu#🔥Join+Telegram:@FarahVPN🟣
 vless://ea71eeed-dbe8-4b46-b35e-ccfddaf44d7a@hajlab.ucdavis.edu:443?path=@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2560&security=tls&encryption=none&host=loye.ir&type=ws&sni=hajlab.ucdavis.edu#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@13.53.196.53:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@13.60.136.199:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://f4cf5881-2770-4106-add0-4fcd9fc3c01f@188.245.198.226:564/?type=grpc&encryption=none&sni=canva.com&fp=chrome&security=reality&pbk=HNxUFbdt218ojBsCv9V5rRsJk2rFQLY_8QjaKuIMrys&sid=69#🔥Join+Telegram:@FarahVPN🟣
