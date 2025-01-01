@@ -167,3 +167,9 @@ trojan://trojan@172.64.155.16:2053?path=%2F%3Fed%3D2560&security=tls&host=ana-se
 vless://9ba4385a-9b14-4e40-b28e-9704df495225@151.101.0.155:80?type=ws#🔥Join+Telegram:@FarahVPN🟣
 trojan://trojan@104.18.4.250:2053?path=%2F%3Fed%3D2560&security=tls&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&type=ws&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev#🔥Join+Telegram:@FarahVPN🟣
 trojan://Julius@66.59.197.211:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+trojan://vzhXXZVw@36.150.215.222:48544/?type=tcp&security=tls&allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@p237.panda004.net:6416#🔥Join+Telegram:@FarahVPN🟣
+trojan://a3060692-2ac4-4410-883b-7b5730531535@tj-hk-2.aikunapp.com:6002/?type=tcp&security=tls&sni=H8u8zMGd2OAMuF6S.apple.com.akadns.net&allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@51.44.118.98:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.169.4.66:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@63.33.77.210:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
