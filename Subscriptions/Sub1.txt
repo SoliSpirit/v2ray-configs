@@ -173,3 +173,4 @@ trojan://a3060692-2ac4-4410-883b-7b5730531535@tj-hk-2.aikunapp.com:6002/?type=tc
 trojan://telegram-id-privatevpns@51.44.118.98:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.169.4.66:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-directvpn@63.33.77.210:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://5030cac9-830d-4c7e-9deb-ad26d18bb82e@95.181.162.108:8880?type=tcp&security=none#🔥Join+Telegram:@FarahVPN🟣
