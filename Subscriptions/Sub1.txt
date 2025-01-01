@@ -141,3 +141,10 @@ vless://47e83886-4deb-465f-99e2-e622dc41e67c@pscresearch.faculty.ucdavis.edu:443
 trojan://telegram-id-privatevpns@63.177.35.90:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 vless://afdbecef-a23d-4900-9a1b-da854dad1a97@151.101.130.133:443?security=tls&type=ws&headerType=&path=%2F---@External_Net---@External_Net---@External_Net---@External_Net---%External_Net---@External_Net---@External_Net---@External_Net---@External_Net%3Fed%3D2048&host=externalch.org&sni=www.sunshinecity.co.jp&fp=firefox#🔥Join+Telegram:@FarahVPN🟣
 vless://afdbecef-a23d-4900-9a1b-da854dad1a97@151.101.3.8:80?security=none&type=ws&headerType=&path=%3F%3D9090&host=External_Net.org#🔥Join+Telegram:@FarahVPN🟣
+vless://c0e7d787-4162-41fe-b5c8-c73d0d728d97@91.107.156.225:7869?security=reality&encryption=none&pbk=6LvV2B0l_OISYEHxe7p_KgGBZwJb9lzSYlXEvOzOvwc&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=mega.de&sid=5af5c37f#🔥Join+Telegram:@FarahVPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxYlk2PXpHdUZs@150.241.95.63:37774#🔥Join+Telegram:@FarahVPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.42.57:443#🔥Join+Telegram:@FarahVPN🟣
+vless://1efdef9d-31e6-4273-b64e-de6451a85b62@188.245.125.19:32578?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+vless://367baaa1-79ce-429a-8362-c2bb46fca44d@VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE%3Fed%3D2560&security=&encryption=none&host=JoinBedeeeeee--VPNCUSTOMIZE.ir.&type=ws#🔥Join+Telegram:@FarahVPN🟣
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@185.236.233.136:2198/?type=tcp&encryption=none#🔥Join+Telegram:@FarahVPN🟣
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@171.22.124.195:2198/?type=tcp&encryption=none#🔥Join+Telegram:@FarahVPN🟣
