@@ -107,3 +107,11 @@ vless://42a19d06-e21d-4f90-8f62-2679b7edfb13@hajlab.ucdavis.edu:443?path=%2F%40S
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@69.50.95.115:8091#🔥Join+Telegram:@FarahVPN🟣
 vless://0069b36c-ba6c-4c70-ae39-71be514b9820@79.127.70.103:443?security=none&encryption=none&host=archlinux.org&headerType=http&type=tcp#🔥Join+Telegram:@FarahVPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@52.56.167.243:443#🔥Join+Telegram:@FarahVPN🟣
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.43.238.62:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@52.215.144.11:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@3.8.108.119:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vmess://eyJhZGQiOiAiMTUxLjEwMS4yLjE2OCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJhbWQuYWwiLCAiaWQiOiAiYmViN2QwOTgtNDhiYS00YmU4LWE0N2EtNzU4YmYzYzQ3MGI4IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8_ZWQ9MjA0OCIsICJwb3J0IjogIjgwIiwgInBzIjogIlx1ZDgzZFx1ZGQyNUpvaW4rVGVsZWdyYW06QEZhcmFoVlBOXHVkODNkXHVkZmUzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==
+vless://7cc88852-6c8c-4ddc-9211-5628824b223d@p3.vixsm.ir:45147?security=none&encryption=none&host=archlinux.org&headerType=http&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+vless://b5e3d701-3b7e-4fc6-a107-5c82a3f8b414@v5.vixsm.ir:443?security=none&encryption=none&host=archlinux.org&headerType=http&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+vless://0069b36c-ba6c-4c70-ae39-71be514b9820@v4.vixsm.ir:443?security=none&encryption=none&host=archlinux.org&headerType=http&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+vless://7b3bc85d-d91b-4160-9bc6-d314a4dd487d@fbi.gov:2053?path=%2FRGKhaXxhf5yBzxDV%2FbmltYS5uc2NsLmly&security=tls&alpn=http%2F1.1&encryption=none&host=hamedp71-usa.pages.dev&fp=randomized&type=ws&sni=HAmEdP71-uSa.PaGeS.dEV#🔥Join+Telegram:@FarahVPN🟣
