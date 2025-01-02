@@ -145,3 +145,13 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@99.81.138.24:22222?path=/telegram-c
 trojan://telegram-id-privatevpns@54.228.153.22:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 vless://626e5631-2928-4725-8d74-8eef698aabb1@188.245.81.145:30339?security=none&encryption=none&type=tcp&headerType=none#🔥Join+Telegram:@FarahVPN🟣
 ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA@192.3.81.194:16899#🔥Join+Telegram:@FarahVPN🟣
+vless://c830c3a2-760e-4f0a-9716-e02d1b93b7e0@s14.fastly80-2.hosting-ip.com:80/?type=ws&encryption=none&host=mmd2.ir&path=%2FKANAL-TELEGRAM-PROXY_MTM-KANAL-TELEGRAM-PROXY_MTM-KANAL-TELEGRAM-PROXY_MTM-TELEGRAM-PROXY_MTM%3Fed%3D2048#🔥Join+Telegram:@FarahVPN🟣
+vless://46153d1a-ebe7-4218-9155-19618285a286@ir.bamtech.site:1720/?encryption=none&host=speedtest.net&type=tcp&headerType=http#🔥Join+Telegram:@FarahVPN🟣
+vless://3b157c80-51ac-4a8e-bef9-37d8963c00cb@vpncustomize.fastly80-3.hosting-ip.com:80/?type=ws&encryption=none&host=JoinBedeeeeee--VPNCUSTOMIZE.ir.&path=%2Ftelegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE%3Fed%3D2560#🔥Join+Telegram:@FarahVPN🟣
+trojan://3723507166611775488@fleet-weevil.boa152.lol:443/?type=tcp&security=tls&sni=fleet-weevil.boa152.lol#🔥Join+Telegram:@FarahVPN🟣
+vless://50c9500c-b290-4129-8dbc-b9758d4b3acf@151.101.194.133:443?path=%2F%40custom_config%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=leader-of-www.com&fp=chrome&type=ws&sni=mio.splashthat.com#🔥Join+Telegram:@FarahVPN🟣
+vless://f5dfeede-e4bb-4af1-9a68-7bbbb8d1b96b@fishlab.ucdavis.edu:80/?type=ws&encryption=none&host=Pizza-vpnx1x.com&path=%2Ftelegram-vpnx1x%2Ctelegram-vpnx1x%2Ctelegram-vpnx1x%2Ctelegram-vpnx1x%2Ctelegram-vpnx1x%2Ctelegram-vpnx1x%2Ctelegram-vpnx1x%2Ctelegram-vpnx1x%3Fed%3D80#🔥Join+Telegram:@FarahVPN🟣
+vless://50c9500c-b290-4129-8dbc-b9758d4b3acf@151.101.2.216:80?path=%2F%40custom_config%3Fed%3D2048&security=none&encryption=none&host=leader-of-www.com&type=ws#🔥Join+Telegram:@FarahVPN🟣
+vless://Telegram-channel-proxy_mtm@mmd.1.dragonspeed.ir:2087/?type=grpc&encryption=none&security=tls&sni=mmd.1.dragonspeed.ir.&alpn=h2%2Chttp%2F1.1&fp=chrome#🔥Join+Telegram:@FarahVPN🟣
+vless://tel--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443/?type=ws&encryption=none&host=isipo.ir&path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&sni=zmaoz.faculty.ucdavis.edu#🔥Join+Telegram:@FarahVPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMdXh5TmV0Qm90@apple.slumbo.com:443#🔥Join+Telegram:@FarahVPN🟣
