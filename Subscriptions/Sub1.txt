@@ -38,3 +38,8 @@ trojan://telegram-id-directvpn@15.188.214.186:22222?security=tls&alpn=http/1.1&h
 vless://2255f6cd-d843-452b-a5de-9d2c2934f52f@150.241.102.95:10799/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=random&security=reality&pbk=yw374OPQfpF0KpnFYX2zYnO8-NC7RkgGbbiMzmZYvDU&sid=330602658f0ade#🔥Join+Telegram:@FarahVPN🟣
 vless://2a02a9a8-c952-401d-bb45-2c12c4c056ac@151.101.3.8:80?path=%3F%3D9090&security=none&encryption=none&host=External_Net.org&type=ws#🔥Join+Telegram:@FarahVPN🟣
 vless://122042c8-4f2a-4265-985e-3a3e6bc1cfd2@turksshop1.farshdastbafan.ir:2060?mode=gun&security=reality&encryption=none&pbk=h64jDxauUagF90N59BEKz5NzinfuHieilx0XuXOkAwQ&fp=chrome&type=grpc&serviceName=2060vless&sni=www.stackoverflow.com&sid=0ede823b93853771#🔥Join+Telegram:@FarahVPN🟣
+vless://55520747-311e-4015-83ce-be46e2060ce3@104.21.70.27:443?security=tls&sni=uxb.vs2024.us.kg&type=ws&host=uxb.vs2024.us.kg&path=%2F%3Fed%3D2560#🔥Join+Telegram:@FarahVPN🟣
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.30.5:80?type=ws#🔥Join+Telegram:@FarahVPN🟣
+vless://50c9500c-b290-4129-8dbc-b9758d4b3acf@151.101.2.216:80?security=tls&type=ws&path=/@custom_config?ed%3D2048&host=leader-of-www.com#🔥Join+Telegram:@FarahVPN🟣
+vless://50c9500c-b290-4129-8dbc-b9758d4b3acf@151.101.194.133:443?sni=mio.splashthat.com&security=tls&type=ws&path=/@custom_config?ed%3D2048&host=leader-of-www.com#🔥Join+Telegram:@FarahVPN🟣
+trojan://3555@link.5557.run:443?allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
