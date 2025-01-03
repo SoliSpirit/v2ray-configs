@@ -120,3 +120,8 @@ trojan://3723507166611775488@195.133.93.10:443?type=tcp&security=tls&sni=social-
 vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@15.204.153.78:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=randomized&type=tcp&sni=147135010103.sec19org.com#🔥Join+Telegram:@FarahVPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YjY5NWE0NS01MDA3LTQ2MWItOTQ5Yi1iNmZjMWIxNzRiNWI%3D@upload-pro.nemava.com:2095#🔥Join+Telegram:@FarahVPN🟣
 trojan://3723507166611775488@5.189.203.50:443?security=tls&headerType=&type=tcp&sni=devoted-starfish.boa152.lol#🔥Join+Telegram:@FarahVPN🟣
+vless://e3eec9d9-ab70-4617-9e19-60860112c634@client.bluwave.ir:80?security=none&encryption=none&type=ws#🔥Join+Telegram:@FarahVPN🟣
+vless://e3eec9d9-ab70-4617-9e19-60860112c634@client.bluwave.ir:80?type=ws&host=Bluewave.ai&path=/?ed%3D1861&security=none#🔥Join+Telegram:@FarahVPN🟣
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@171.22.125.183:2198?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@95.164.3.165:2198?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+vless://8167f943-0513-5c93-bda3-2ec02522cd8a@fastly.net:80?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@FarahVPN🟣
