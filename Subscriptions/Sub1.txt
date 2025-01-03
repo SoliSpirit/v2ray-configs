@@ -117,3 +117,6 @@ vless://87d29644-5273-404a-a2f0-ce1e5fc21464@hajlab.ucdavis.edu:443?security=tls
 vless://47c959e8-33cd-471a-b232-35ae909956e8@89.235.118.122:19624?type=tcp&path=%2F&host=Speedtest.net&headerType=http&security=none#🔥Join+Telegram:@FarahVPN🟣
 vless://c34d7010-fea9-473d-90a0-50efd5034a64@vippro.mispd.ir:443?security=reality&encryption=none&pbk=-e-Py1tk4hBqFmmL-p_1l7imBS6eGWx1lVqbHWwA2yo&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=6d49a78191f4d90f#🔥Join+Telegram:@FarahVPN🟣
 trojan://3723507166611775488@195.133.93.10:443?type=tcp&security=tls&sni=social-bream.boa152.lol&allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
+vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@15.204.153.78:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=randomized&type=tcp&sni=147135010103.sec19org.com#🔥Join+Telegram:@FarahVPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YjY5NWE0NS01MDA3LTQ2MWItOTQ5Yi1iNmZjMWIxNzRiNWI%3D@upload-pro.nemava.com:2095#🔥Join+Telegram:@FarahVPN🟣
+trojan://3723507166611775488@5.189.203.50:443?security=tls&headerType=&type=tcp&sni=devoted-starfish.boa152.lol#🔥Join+Telegram:@FarahVPN🟣
