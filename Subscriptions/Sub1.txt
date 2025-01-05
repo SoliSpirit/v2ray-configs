@@ -188,3 +188,8 @@ vless://3e92c450-e23d-4826-e952-9cbe5a508e73@151.101.194.219:80?path=%2Folem%2Fw
 trojan://telegram-id-directvpn@51.21.93.63:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-privatevpns@13.50.185.104:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.50.142.236:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://a01634d7-4070-5586-970e-bdd5e4d17b93@45.89.55.188:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=vless-grpc#🔥Join+Telegram:@FarahVPN🟣
+vless://0a44145f-59dc-4e5b-a233-677b97f5114c@51.81.36.78:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&type=tcp&sni=147135011033.sec21org.com#🔥Join+Telegram:@FarahVPN🟣
+vless://3e92c450-e23d-4826-e952-9cbe5a508e73@speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024%40bluerhymes----%40bluerhymes&security=none&encryption=none&host=foffmelo.com&type=ws#🔥Join+Telegram:@FarahVPN🟣
+vless://6c89998c-82b7-4570-e460-96c098e84eb3@zmaoz.faculty.ucdavis.edu:443?path=%2Folem%2Fws%3Fed%3D4096%40bluerhymes----%40bluerhymes----%40bluerhymes----%40bluerhymes&security=tls&encryption=none&alpn=h2,http/1.1&host=fonmelo.com&fp=chrome&type=ws&sni=zmaoz.faculty.ucdavis.edu.#🔥Join+Telegram:@FarahVPN🟣
+vless://V2RAXX--@speedtest.net:80?type=ws&host=V2RAXX.ir&path=/Telegram,V2RAXX,Telegram,?ed%3D2048&security=none#🔥Join+Telegram:@FarahVPN🟣
