@@ -86,3 +86,8 @@ vless://d603cba7-4ec4-4744-a1df-1fcbec323066@cdnjs.com:2083?path=%2F9tE1lXpBmCQD
 trojan://telegram-id-privatevpns@51.24.52.49:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 vless://26721978-890e-4946-bafa-cb03c9ff7f4a@212.237.218.123:38142?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@FarahVPN🟣
 vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@15.204.153.78:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=randomized&type=tcp&sni=147135010103.sec19org.com#🔥Join+Telegram:@FarahVPN🟣
+trojan://SSorg@206.238.236.16:443?allowInsecure=1&sni=ssjj.esslh.filegear-sg.me#🔥Join+Telegram:@FarahVPN🟣
+vless://03595e26-baf6-41fc-995b-900a8b26e932@151.101.3.8:80?type=ws&host=VpnWedbaz-VpnWedbaz.SS&path=%2F%40VpnWedbaz-----%40VpnWedbaz%3Fed%3D2560#🔥Join+Telegram:@FarahVPN🟣
+vless://0b5fbb0c-fbc8-5260-a6dc-d536ba9f0e5d@151.101.130.228:443?security=tls&sni=faculty.ucdavis.edu&type=ws&host=PABLOO-MOSTAFA.COM&fp=chrome#🔥Join+Telegram:@FarahVPN🟣
+trojan://SSorg@154.211.8.155:443?allowInsecure=1&sni=ssjj.esslh.filegear-sg.me#🔥Join+Telegram:@FarahVPN🟣
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.122.212:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔥Join+Telegram:@FarahVPN🟣
