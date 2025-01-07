@@ -191,3 +191,7 @@ trojan://telegram-id-directvpn@3.146.93.242:22222?allowInsecure=0&sni=trojan.bur
 vless://41b90a23-29f6-4fa5-87e2-79bc90904366@46.202.153.192:2083?security=reality&sni=docker.com&type=xhttp&path=%2FTelegram-%40BugFreeNet-%40AB_841&fp=random&pbk=JC4ehCV8lp0kjSeolqKxFV7VM4VRp0BRegEIqY9sxF0&sid=2e96cc4471936f#🔥Join+Telegram:@FarahVPN🟣
 vless://2edc0637-6c9c-4b6c-bd3f-fdd4972f86ca@82.115.19.26:16065?security=reality&encryption=none&pbk=g6uvqlHDCGEbprGIN1fVsf04Uq81DiFwLcdM2gXihEI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=28cbd062243579#🔥Join+Telegram:@FarahVPN🟣
 vless://d20453a4-781f-4fca-8d95-2334a96de855@82.115.19.26:25620?path=%2F%3Fed%3D25620&security=none&encryption=none&host=Gm-Sonic.Ru&type=ws#🔥Join+Telegram:@FarahVPN🟣
+vless://73159dbd-e01e-4492-a234-e5d7c335b128@146.56.47.79:23258?security=reality&flow=xtls-rprx-vision&sni=microsoft.com&type=tcp&fp=chrome&pbk=p-g7A0RMBXZOUey2V-HjWsI-5j-EpNITj_JVqx_9OnI&sid=545abc6e#🔥Join+Telegram:@FarahVPN🟣
+vless://0b0c7802-123a-465e-aa30-78e5063dea89@185.161.251.211:1633?security=reality&flow=xtls-rprx-vision&sni=stackoverflow.com&type=tcp&fp=chrome&pbk=ANlgAsYC8HmKfJnc5SFvru822urkxG1PzW1Zw4Vbm0Q&sid=9bc0a55a5379c0ed#🔥Join+Telegram:@FarahVPN🟣
+vless://b7a03010-2481-4709-c0e8-a9d382f075d8@176.126.83.219:55848?security=reality&flow=xtls-rprx-vision&sni=google-analytics.com&type=tcp&fp=chrome&pbk=4comh-7Jm_wZXJQ5QiLSCbVGQIbMUzHUIBdb0aFtLzM#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@3.146.93.242:22222?allowInsecure=0#🔥Join+Telegram:@FarahVPN🟣
