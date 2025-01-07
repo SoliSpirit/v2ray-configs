@@ -107,3 +107,13 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.197.1:443?path=%2F%3Fd%3D256
 trojan://telegram-id-directvpn@16.170.70.116:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.64.147.50:443?path=%2F&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-privatevpns@51.20.200.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://SSorg@154.219.5.255:2087?allowInsecure=1&sni=ssjj.esslh.filegear-sg.me#🔥Join+Telegram:@FarahVPN🟣
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.61.168.61:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://SSorg@108.165.152.76:2096?allowInsecure=1&sni=ssjj.esslh.filegear-sg.me#🔥Join+Telegram:@FarahVPN🟣
+trojan://SSorg@108.165.152.18:2087?allowInsecure=1&sni=ssjj.esslh.filegear-sg.me#🔥Join+Telegram:@FarahVPN🟣
+trojan://SSorg@5.35.36.20:2053?allowInsecure=1&sni=ssjj.esslh.filegear-sg.me#🔥Join+Telegram:@FarahVPN🟣
+trojan://SSorg@154.219.5.55:443?allowInsecure=1&sni=ssjj.esslh.filegear-sg.me#🔥Join+Telegram:@FarahVPN🟣
+trojan://SSorg@154.197.64.252:443?allowInsecure=1&sni=ssjj.esslh.filegear-sg.me#🔥Join+Telegram:@FarahVPN🟣
+trojan://SSorg@206.238.237.212:443?allowInsecure=1&sni=ssjj.esslh.filegear-sg.me#🔥Join+Telegram:@FarahVPN🟣
+vless://d2093082-a38a-316b-adcb-71013e595bd0@154.17.236.102:443?security=reality&flow=xtls-rprx-vision&sni=tesla.com&type=tcp&fp=chrome&pbk=zRZhlkKjUeqtIk9j6yy95aX-2krqQVyWORLv5tQkQGM#🔥Join+Telegram:@FarahVPN🟣
+vless://7582e721-8c32-4fb1-8669-b3fae590f3eb@5.188.6.73:443?security=tls&encryption=none&headerType=none&type=tcp&sni=005188006073.sec1org.com#🔥Join+Telegram:@FarahVPN🟣
