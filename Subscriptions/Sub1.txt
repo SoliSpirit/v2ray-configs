@@ -45,3 +45,8 @@ trojan://SSorg@108.165.152.58:2087?allowInsecure=1&sni=ssjj.esslh.filegear-sg.me
 trojan://SSorg@173.245.59.202:2083?allowInsecure=1&sni=ssjj.esslh.filegear-sg.me#🔥Join+Telegram:@FarahVPN🟣
 vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.102:80?encryption=none&security=none&sni=teleirani.ir&alpn=h2%2Chttp%2F1.1&fp=random&type=ws&host=teleirani.ir&path=%2F%3Fed%3D2048#🔥Join+Telegram:@FarahVPN🟣
 vless://4d8426b2-0af1-4eb5-a231-b62152d7b9b9@cloud.xmsvx.com:443?encryption=none&security=tls&sni=live.989bull.com&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=aft.fi&path=%2FTorCippyy%3Fed%3D2048#🔥Join+Telegram:@FarahVPN🟣
+vless://9464608b-7b8a-4e4f-be17-0b3ba79280c5@fi1.my-watt.online:443?security=reality&encryption=none&pbk=DWijjOki8oB3N2-gv3e9JXVXPYrJiMEaQUVNVzdMtEQ&headerType=none&fp=chrome&spx=%2FNGUlLshcpcnHbqZ&type=tcp&flow=xtls-rprx-vision&sni=mirror.init7.net&sid=57#🔥Join+Telegram:@FarahVPN🟣
+vless://2d7c7aa5-364a-4dbb-937a-f8e4f5f73007@de4.connecton.surf:443?path=%2Fvless&security=tls&encryption=none&type=ws#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@13.61.123.70:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@3.97.73.14:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.242.40.231:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔥Join+Telegram:@FarahVPN🟣
