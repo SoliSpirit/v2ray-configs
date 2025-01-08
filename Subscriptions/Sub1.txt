@@ -95,3 +95,9 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WTJVNU1XWTBOMkl3TURBeFkyRXdNbVF6Tnpka00yUmh
 trojan://3e5cb4f5-8dcf-492a-b4c8-06bc06f158bb@6afce49908aacb7a6131d234fb03a9bd.v1.cac.node-is.green:47489/?type=tcp&security=tls&sni=hk12.bilibili.com&allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
 vless://a64a6131-0033-4eaa-bfcb-377394f943a4@pourya.tunnel.gpair7electronics.com:2005?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@FarahVPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.157:8080#🔥Join+Telegram:@FarahVPN🟣
+vless://683efd82-00f9-45f9-a43d-c1ba3f902e90@45.63.117.50:2053?path=%2Fws&security=tls&alpn=http%2F1.1&encryption=none&host=cpanel3.sassanidempire.com&type=ws&sni=cpanel3.sassanidempire.com#🔥Join+Telegram:@FarahVPN🟣
+vless://b2705a86-7b78-4f59-9205-3a16062b8018@65.108.152.13:45908?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=m-net.speedtestcustom.com&headerType=http&fp=chrome&type=tcp&sni=tunnel-pro.yoooka.lol#🔥Join+Telegram:@FarahVPN🟣
+vless://e1427c0c-ad74-46d4-b83b-8d6171ab7443@93.126.50.231:51234?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@18.156.93.5:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.222.76.140:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://18--id-VPNCUSTOMIZE@VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=/telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE%3Fed%3D2560&security=none&host=JoinBedeeeeee--VPNCUSTOMIZE.ir.&type=ws#🔥Join+Telegram:@FarahVPN🟣
