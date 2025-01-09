@@ -141,3 +141,11 @@ vless://telegram-ArV2ray@N29.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-ArV2r
 vless://3b2b6c6b-41bf-59f8-8159-2b633cfabdb2@amir.ovh:443?path=%2Fvless&security=tls&alpn=h2&encryption=none&host=marzban.com&fp=chrome&type=ws&sni=amir.ovh#🔥Join+Telegram:@FarahVPN🟣
 vless://3b2b6c6b-41bf-59f8-8159-2b633cfabdb2@amir.ovh:80?path=%2Fvless&security=none&encryption=none&host=marzban.com&type=ws#🔥Join+Telegram:@FarahVPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@151.236.29.225:990#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@18.171.111.235:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@13.50.187.181:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.133.94.61:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://6b9b4e56-2f01-4453-9224-88a87457e64e@188.227.84.54:8443?security=reality&sni=www.speedtest.net&type=grpc&serviceName=JoinBadeChannel@antimeli&fp=chrome&pbk=65J9uCAQfq2pnLYgUqxoAC2OR8z4LtdSj-Hfs0kIywc&sid=29940edb62#🔥Join+Telegram:@FarahVPN🟣
+vless://dc32d81e-08e4-4ffc-b7a9-d7d3dfc7cdc2@151.101.66.228:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&host=joinshhproxybedeeeee.ir&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048#🔥Join+Telegram:@FarahVPN🟣
+vless://4e2ef4e0-b0b3-46e0-a711-6f2271f952d7@fast.gambronservice.site:80?type=ws&security=none&host=&path=%2F#🔥Join+Telegram:@FarahVPN🟣
+vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@3.22.241.239:1212?security=reality&flow=xtls-rprx-vision&sni=stackoverflow.com&type=tcp&fp=chrome&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7#🔥Join+Telegram:@FarahVPN🟣
+vless://fcc65a17-2587-4af5-98ad-f1ea0471ac0f@151.101.66.228:80?security=none&type=ws&host=SeyyedMTtelegramChannel.net#🔥Join+Telegram:@FarahVPN🟣
