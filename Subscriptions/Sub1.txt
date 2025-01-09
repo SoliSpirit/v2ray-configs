@@ -156,3 +156,8 @@ vless://d85b1cd2-6997-40e8-905a-d16c3178e321@ali2.mr-karimi.fun:25623?security=n
 vless://6a48c263-6ea3-47bb-a4d3-29df92f99270@206.189.249.226:1286?security=none&type=tcp&host=speedtest.net&headerType=http#🔥Join+Telegram:@FarahVPN🟣
 vless://9ac3f6be-abc1-4f08-c0d2-7a9a256b0c16@172.245.156.147:29582?allowInsecure=0#🔥Join+Telegram:@FarahVPN🟣
 vless://d85b1cd2-6997-40e8-905a-d16c3178e321@ali2.mr-karimi.fun:25623?security=&encryption=none&host=lg.com&headerType=http&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@52.51.122.236:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vmess://eyJhZGQiOiAidGUud29yZGNsYXNzLnRvcCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJURS53b3JkY2xhc3MudG9wIiwgImlkIjogIjA2M2UxMzFjLTI2MGMtNDczOS1iNGEyLTRjZGRkOTM1OGRiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3Nwcm90b2NvbC12bWVzc3Byb3RvY29sLXZtZXNzcHJvdG9jb2wtdm1lc3Nwcm90b2NvbCIsICJwb3J0IjogIjgwIiwgInBzIjogIlx1ZDgzZFx1ZGQyNUpvaW4rVGVsZWdyYW06QEZhcmFoVlBOXHVkODNkXHVkZmUzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==
+vless://37171662-ff30-47cc-9997-7252c0abf515@ali2.mr-karimi.fun:41006?security=&encryption=none&host=sony.com&headerType=http&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+vless://95089f63-c732-4594-bfcb-c8180bd09a1c@65.21.149.150:443?path=%2F&security=none&encryption=none&host=5h5.golabkashaniz.info&type=ws#🔥Join+Telegram:@FarahVPN🟣
+vless://d85b1cd2-6997-40e8-905a-d16c3178e321@92.114.50.70:25623?security=&encryption=none&host=lg.com&headerType=http&type=tcp#🔥Join+Telegram:@FarahVPN🟣
