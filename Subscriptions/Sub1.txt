@@ -155,3 +155,4 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.128.253:443?security=tls&sni
 vless://d85b1cd2-6997-40e8-905a-d16c3178e321@ali2.mr-karimi.fun:25623?security=none&encryption=none&host=lg.com&headerType=http&type=tcp#🔥Join+Telegram:@FarahVPN🟣
 vless://6a48c263-6ea3-47bb-a4d3-29df92f99270@206.189.249.226:1286?security=none&type=tcp&host=speedtest.net&headerType=http#🔥Join+Telegram:@FarahVPN🟣
 vless://9ac3f6be-abc1-4f08-c0d2-7a9a256b0c16@172.245.156.147:29582?allowInsecure=0#🔥Join+Telegram:@FarahVPN🟣
+vless://d85b1cd2-6997-40e8-905a-d16c3178e321@ali2.mr-karimi.fun:25623?security=&encryption=none&host=lg.com&headerType=http&type=tcp#🔥Join+Telegram:@FarahVPN🟣
