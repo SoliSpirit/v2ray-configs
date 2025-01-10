@@ -89,3 +89,6 @@ trojan://telegram-id-directvpn@35.177.215.121:22222?security=tls&alpn=http/1.1&h
 vless://62290a74-3b17-462d-9518-7974e91af455@ns6.esfahansiman.com:2030/?type=grpc&encryption=none&serviceName=%40%40jet_config-%40jet_config-%40jet_config&sni=refersion.com&fp=chrome&security=reality&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=7fe29733#🔥Join+Telegram:@FarahVPN🟣
 vless://62290a74-3b17-462d-9518-7974e91af455@ns4.esfahansiman.com:443/?type=ws&encryption=none&host=WWW.EsfahAnsimaN.infO.&security=tls&sni=WWW.EsfahAnsimaN.infO.&alpn=h2%2Chttp%2F1.1&fp=chrome#🔥Join+Telegram:@FarahVPN🟣
 vless://62290a74-3b17-462d-9518-7974e91af455@ns4.esfahansiman.com:443/?type=ws&encryption=none&host=WWW.pegAh-Esfahan.De.&security=tls&sni=WWW.pegAh-Esfahan.De.&alpn=h2%2Chttp%2F1.1&fp=chrome#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@52.47.157.138:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://aeb84b67-3b57-4f61-949e-3db252ce58c9@iri.ginuerzht.ir:2053?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+vless://V2RAXX--V2RAXX--@speedtest.net:80?type=ws&host=V2RAXX.ir&path=/Telegram,V2RAXX,Telegram,?ed%3D2048&security=none#🔥Join+Telegram:@FarahVPN🟣
