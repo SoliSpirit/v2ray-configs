@@ -116,3 +116,5 @@ trojan://telegram-id-directvpn@34.242.88.55:22222?security=tls&alpn=http/1.1&hea
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.192:8080#🔥Join+Telegram:@FarahVPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.166:8080#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-privatevpns@18.171.28.57:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.41.74.240:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://cf0c4ca4-f8bd-4238-a167-35cbbdbcd674@zmaoz.faculty.ucdavis.edu:443?encryption=none&security=tls&sni=zmaoz.faculty.ucdavis.edu&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=kosherporkon.com&path=ws%2F%3Fed%3D2048#🔥Join+Telegram:@FarahVPN🟣
