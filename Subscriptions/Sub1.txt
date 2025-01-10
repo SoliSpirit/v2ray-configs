@@ -127,3 +127,5 @@ vless://d4de7d61-7edf-408d-aa40-558bf34baa6b@45.14.50.91:8443?security=reality&s
 vless://e1d3a347-d380-4ef6-8145-ae76318002d1@104.18.14.19:2086?type=ws&host=0110.wdpkomyt.workers.dev&path=%2F%3Fed%3D2560#🔥Join+Telegram:@FarahVPN🟣
 vless://b69f3e77-cdf1-4b84-851a-4b7ebede5433@91.184.241.49:1300?security=reality&sni=rosbalt.ru&type=grpc&serviceName=1300vless&fp=chrome&pbk=AZSptdvlWvvmKWEDTY56UsIcnTP8nGCafvPEQOozrxw&sid=765e8e700426816c#🔥Join+Telegram:@FarahVPN🟣
 vless://b69f3e77-cdf1-4b84-851a-4b7ebede5433@91.184.241.49:1300?security=reality&sni=rosbalt.ru&type=grpc&serviceName=t.me/entryNET&fp=chrome&pbk=AZSptdvlWvvmKWEDTY56UsIcnTP8nGCafvPEQOozrxw&sid=765e8e700426816c#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@18.203.49.103:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://68601963-27c2-4253-c784-914782ce09ef@speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#🔥Join+Telegram:@FarahVPN🟣
