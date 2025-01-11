@@ -51,3 +51,11 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.43.155.196:22222?path=/telegram-
 trojan://telegram-id-privatevpns@51.44.129.184:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-directvpn@34.253.153.48:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 vmess://eyJhZGQiOiAiYmV5b25kZGJjLnNicyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJiZXlvbmRkYmMuc2JzIiwgImlkIjogIjhkOTBjMTI5LTQxNTYtNGQ2Yy05MTE1LTI0ZGYyNWYyNmEwMiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3dzIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIlx1ZDgzZFx1ZGQyNUpvaW4rVGVsZWdyYW06QEZhcmFoVlBOXHVkODNkXHVkZmUzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJiZXlvbmRkYmMuc2JzIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=
+vless://c797aa8a-c03d-48da-9ad4-c9774b14bed2@154.211.8.98:2087?security=tls&sni=ssvvl.esslh.filegear-sg.me&type=ws&host=ssvvl.esslh.filegear-sg.me&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔥Join+Telegram:@FarahVPN🟣
+vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.119:80?type=ws#🔥Join+Telegram:@FarahVPN🟣
+vless://c797aa8a-c03d-48da-9ad4-c9774b14bed2@103.116.7.103:2083?security=tls&sni=ssvvl.esslh.filegear-sg.me&type=ws&host=ssvvl.esslh.filegear-sg.me&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔥Join+Telegram:@FarahVPN🟣
+vless://e042ac3d-6de5-49c6-984c-beaf976f8242@104.19.5.65:443?security=tls&sni=orsj1.1541241.xyz&type=ws&host=orsj1.1541241.xyz&path=%2Fymmzws#🔥Join+Telegram:@FarahVPN🟣
+vless://c797aa8a-c03d-48da-9ad4-c9774b14bed2@154.211.8.150:2096?security=tls&sni=ssvvl.esslh.filegear-sg.me&type=ws&host=ssvvl.esslh.filegear-sg.me&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔥Join+Telegram:@FarahVPN🟣
+vless://a607b7d4-57d9-4a63-99ee-5c6dcfaa54c4@162.159.38.232:443?security=tls&sni=6kyowl.isfshzist.com&type=ws&host=6kyowl.isfshzist.com&path=/wss&alpn=http/1.1#🔥Join+Telegram:@FarahVPN🟣
+vless://6c0ae1ed-7fcc-4706-a548-fe879b4902ec@151.101.194.133:80?type=ws&host=jetservices55.ir&path=%2F%3Fed%3D2560#🔥Join+Telegram:@FarahVPN🟣
+vless://6c0ae1ed-7fcc-4706-a548-fe879b4902ec@151.101.2.133:80?type=ws&host=jetservices55.ir&path=%2F%3Fed%3D2560#🔥Join+Telegram:@FarahVPN🟣
