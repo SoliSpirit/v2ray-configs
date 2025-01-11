@@ -107,3 +107,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptVEdGNGVRTUJwM3RXV2ww@3.29.49.154:443#🔥Jo
 trojan://telegram-id-privatevpns@34.255.251.132:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 vmess://eyJhZGQiOiAiYmlhLXZwbi13aGFsLmZhc3QuaG9zdGluZy1pcC5jb20iLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAia2hhbWVuZWktMzEzLklSLiIsICJpZCI6ICJkMTQwZmMyOC0xNmMzLTQwZWEtYjFhYS04NTgyOTY5ZWEyNDYiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLz9lZD04MC8jaWQtdGVsZWdyYW06LS0tPkB2cG5fd2hhbDwtLS0iLCAicG9ydCI6ICI4MCIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaFZQTlx1ZDgzZFx1ZGZlMyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=
 vless://44956c15-75bb-4e09-b5b8-d58af3c1f5cb@13.39.214.100:21464?type=tcp&security=none#🔥Join+Telegram:@FarahVPN🟣
+vless://8325ccd0-5714-4150-8152-c1fd1196f5e1@mci3.tan3.ir:36341?security=none&encryption=none&host=nobitex.ir&headerType=http&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+vless://8325ccd0-5714-4150-8152-c1fd1196f5e1@irc3.tan3.ir:36341?security=none&encryption=none&host=nobitex.ir&headerType=http&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+vless://6762f189-0c6a-45e4-831a-0363bc25f0c0@194.5.193.73:26469?path=%2F&security=none&encryption=none&type=ws#🔥Join+Telegram:@FarahVPN🟣
+vless://aa4f5b15-cc52-4ff7-988e-69da1d3c3f31@188.245.215.248:443?path=%2F&security=none&encryption=none&host=4h4.ghalikermaniz.info&type=ws#🔥Join+Telegram:@FarahVPN🟣
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.246.90.172:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@63.34.134.148:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
