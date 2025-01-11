@@ -71,3 +71,7 @@ vless://95089f63-c732-4594-bfcb-c8180bd09a1c@65.21.149.150:443?path=%2F&security
 trojan://telegram-id-directvpn@54.77.137.127:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-privatevpns@35.178.140.121:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.43.236.188:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://617d5079-9fae-494a-98ca-90da9e10cd70@64.23.242.209:80/?type=ws&encryption=none&host=arvancloud.com&path=%2F%3Fed%3D2048#🔥Join+Telegram:@FarahVPN🟣
+vless://c367af79-18dd-5ed0-9ce8-e1901663a03c@89.221.224.95:2052/?type=ws&encryption=none&host=www-domain.is1.v2vless.sitespeedtest.net&path=%2Fvless%23%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi#🔥Join+Telegram:@FarahVPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.188:8080#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@3.10.183.112:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
