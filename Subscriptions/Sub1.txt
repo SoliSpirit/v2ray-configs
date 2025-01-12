@@ -41,3 +41,7 @@ vless://83312918-9077-4ab5-95df-2974ff77e7aa@51.178.60.96:2087?security=reality&
 vless://f51aebe4-678e-41ac-96bf-fecd259e3616@141.227.128.218:1210?security=reality&sni=ubuntu.com&type=grpc&serviceName=%40%40jet_config-%40jet_config-%40jet_config&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=7fe29733#🔥Join+Telegram:@FarahVPN🟣
 vless://217f177e-34db-4d2e-a39c-8837e95446b3@188.245.184.26:1633?security=reality&flow=xtls-rprx-vision&sni=stackoverflow.com&type=tcp&host=Telegram%20%3A&fp=chrome&pbk=ANlgAsYC8HmKfJnc5SFvru822urkxG1PzW1Zw4Vbm0Q&sid=9bc0a55a5379c0ed#🔥Join+Telegram:@FarahVPN🟣
 vless://6b1d9fd7-af1b-4c17-ab5f-ea819c6e6c13@51.79.24.138:2087?security=reality&sni=sourceforge.net&type=tcp&fp=chrome&pbk=JUN-7HBeQ2lBDM-zUlzUyo3A8WK1AGzfbZLM9oqiwDA&sid=36c4ca7c13dc640f#🔥Join+Telegram:@FarahVPN🟣
+trojan://SSorg@154.197.64.67:443?allowInsecure=0&sni=sstjj.esslh.filegear-sg.me&ws=1&wspath=%2F#🔥Join+Telegram:@FarahVPN🟣
+trojan://SSorg@88.218.78.95:8443?allowInsecure=0&sni=sstjj.esslh.filegear-sg.me&ws=1&wspath=%2F#🔥Join+Telegram:@FarahVPN🟣
+vless://375b7b78-2b3f-434f-de19-2507aace8279@49.13.161.198:8443?security=none&type=ws&host=Upload.ir#🔥Join+Telegram:@FarahVPN🟣
+vless://d603cba7-4ec4-4744-a1df-1fcbec323066@172.67.204.84:2083?security=tls&sni=gErmaNHP.Pages.dEv&type=ws&host=germanhp.pages.dev&path=%2FsmTmVvYcksJTignq%2FMy4xMjYuMTU5LjEy&fp=randomized&alpn=http%2F1.1#🔥Join+Telegram:@FarahVPN🟣
