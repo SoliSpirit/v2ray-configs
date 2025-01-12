@@ -59,3 +59,4 @@ trojan://telegram-id-directvpn@54.75.49.245:22222?security=tls&alpn=http/1.1&hea
 vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.195.57:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#🔥Join+Telegram:@FarahVPN🟣
 vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@135.148.177.196:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135001178.sec22org.com#🔥Join+Telegram:@FarahVPN🟣
 vless://54dea376-b7fc-4651-8084-f6f439d66a25@m1cr0s0ft-uw1nd0ws-999.azpl3-m4c.ParsV2ray.Site:443?security=reality&encryption=none&pbk=QjlzHYXUjdcSmsQdDL3qdlte_Xh3d8w1Vf0gcBrgdAU&host=gstatic.com&headerType=http&fp=random&spx=%2F&type=tcp&sni=sToRaGe.goOglEaPis.com&sid=247ca7c473#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@51.24.47.187:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
