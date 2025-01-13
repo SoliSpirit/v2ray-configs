@@ -145,3 +145,11 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638723765344752513.amsterdam-blk-dr
 vless://64f18b9a-e1e7-435e-a3c1-bd77355048f8@51.91.144.205:443?type=tcp&security=reality&pbk=rTfR-BEdiTCoOXrHhheBl7Zp-iLo7B17smIsXpcMpUs&fp=chrome&sni=yahoo.com&sid=9d4201950f21a3&spx=%2F#🔥Join+Telegram:@FarahVPN🟣
 vless://779a90b8-70b2-48b2-98c1-841e1f57233c@cash.ns.cloudflare.com:443?encryption=none&security=tls&sni=6dkom5.allgums.com&type=ws&alpn=http/1.1&host=6dkom5.allgums.com&path=/wss#🔥Join+Telegram:@FarahVPN🟣
 vless://c1ddcc9c-d0d4-4e51-926c-6710527cfa20@64.176.68.239:8080?type=ws&security=none&path=%2F#🔥Join+Telegram:@FarahVPN🟣
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.48.228.139:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔥Join+Telegram:@FarahVPN🟣
+vless://84393285-46c3-4731-979c-b81ed83273e1@162.159.38.232:443?security=tls&sni=flgw3v.testsnew.com&type=ws&host=flgw3v.testsnew.com&path=/wss&alpn=http/1.1#🔥Join+Telegram:@FarahVPN🟣
+vless://06e0551f-b2a5-47f8-92bd-5d4a5832bdde@108.162.195.157:443?security=tls&sni=f1ft2u.parscodes.com&type=ws&host=f1ft2u.parscodes.com&path=/wss&alpn=http/1.1#🔥Join+Telegram:@FarahVPN🟣
+vless://b2705a86-7b78-4f59-9205-3a16062b8018@64.227.119.88:45908?security=tls&encryption=none&alpn=h3,h2,http/1.1&host=m-net.speedtestcustom.com&headerType=http&fp=chrome&type=tcp&sni=tunnel-pro.yoooka.lol#🔥Join+Telegram:@FarahVPN🟣
+vless://8938d63f-7dda-43be-9a1e-819adac28297@160.153.0.183:443?mode=gun&security=tls&encryption=none&alpn=h3&fp=chrome&type=grpc&serviceName=&sni=QcGpEeHn17.hAmDoLlAh-bAgHeRi.iNfO#🔥Join+Telegram:@FarahVPN🟣
+vless://ea286109-d20f-415e-849e-4af20ab04b65@15.204.151.80:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&type=tcp&sni=147135001195.sec22org.com#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@13.61.139.244:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@15.157.135.204:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
