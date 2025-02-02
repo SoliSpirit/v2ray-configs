@@ -45,3 +45,6 @@ vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.231.205.74:3237?encryption=none
 vless://d724758c-505b-43be-b313-717be1fddc8a@213.159.76.238:2052?encryption=none&security=none&type=ws&path=%2Fvless#🔥Join+Telegram:@FarahVPN🟣
 vless://a2ef1a8e-347e-4dc4-a1ff-de9b1ebeaf63@108.61.171.227:443?encryption=none&security=tls&sni=hdfyrplcpnl1.freeairlians.com&alpn=http%2F1.1&fp=chrome&type=ws&host=hdfyrplcpnl1.freeairlians.com&path=%2FPaavgVfC7wqXrfw3l#🔥Join+Telegram:@FarahVPN🟣
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.41:8880?encryption=none&security=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
+vless://7996d412-0b2a-4533-bba1-f7531861f1ec@85.237.211.219:8443?path=%2Fvless%2F&security=tls&encryption=none&type=ws&sni=ul-uae2.09vpn.com#🔥Join+Telegram:@FarahVPN🟣
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@108.162.192.154:2053?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=MoPrVjRx73.bRiGhTwAyE.OrG#🔥Join+Telegram:@FarahVPN🟣
+vless://a2ef1a8e-347e-4dc4-a1ff-de9b1ebeaf63@108.61.171.227:443?path=%2FPaavgVfC7wqXrfw3l&security=tls&alpn=http%2F1.1&encryption=none&host=hdfyrplcpnl1.freeairlians.com&fp=chrome&type=ws&sni=hdfyrplcpnl1.freeairlians.com#🔥Join+Telegram:@FarahVPN🟣
