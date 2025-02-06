@@ -182,3 +182,8 @@ vless://9e321fdf-ea8a-4a3a-a81d-38961f40e39f@103.240.6.21:32319?type=grpc&servic
 vless://b2b935ee-1430-479b-8705-9273b38af8c7@103.77.215.119:45070?type=grpc&serviceName=%40UCIRANIR%40U%40UCIRANIRCIRANIR%40UCIRANIR&authority=&security=none#🔥Join+Telegram:@FarahVPN🟣
 vless://5f6fbc8d-a346-4620-9610-992eb83200bf@160.191.214.101:11283?type=grpc&serviceName=%40UCIRANIR%40U%40UCIRANIRCIRANIR%40UCIRANIR&authority=&security=none#🔥Join+Telegram:@FarahVPN🟣
 vless://e6892923-ce95-447a-8973-f30e473cc96e@103.149.87.86:27773?type=grpc&serviceName=%40UCIRANIR%40U%40UCIRANIRCIRANIR%40UCIRANIR&authority=&security=none#🔥Join+Telegram:@FarahVPN🟣
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.160.22:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@15.236.107.102:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.218.195.161:3229?security=none&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.219.56.43:3229?security=none&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@3.148.56.233:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
