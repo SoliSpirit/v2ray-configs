@@ -139,3 +139,7 @@ vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.153.183.181:3237?encryption=non
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.231.205.38:3237?encryption=none&security=none&type=tcp&headerType=none#🔥Join+Telegram:@FarahVPN🟣
 vless://1d8fdd10-7c68-4e7f-8bc6-fc0f24288e6f@hajlab.ucdavis.edu:443?path=@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2560&security=tls&encryption=none&host=loye.ir&type=ws&sni=hajlab.ucdavis.edu#🔥Join+Telegram:@FarahVPN🟣
 vless://69f71e63-cea7-48b9-8c52-f877083cb743@hajlab.ucdavis.edu:443?path=@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2048&security=tls&encryption=none&host=joinbedemaznettel.ir&type=ws&sni=hajlab.ucdavis.edu#🔥Join+Telegram:@FarahVPN🟣
+trojan://d0cfea6c-2052-4add-aef5-501a4714d2f8@lbso.bnnodeservice.com:32037?allowInsecure=1&sni=cert.bitbyte.one#🔥Join+Telegram:@FarahVPN🟣
+trojan://bpb-trojan@172.67.180.227:443?security=tls&sni=qq.vvii.us.kg&type=ws&host=qq.vvii.us.kg&path=%2Ftr%3Fed%3D2560&fp=randomized&alpn=h3#🔥Join+Telegram:@FarahVPN🟣
+trojan://d0cfea6c-2052-4add-aef5-501a4714d2f8@lbso.bnnodeservice.com:32038?allowInsecure=1&sni=cert.bitbyte.one#🔥Join+Telegram:@FarahVPN🟣
+trojan://Aimer@43.154.34.74:1935?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔥Join+Telegram:@FarahVPN🟣
