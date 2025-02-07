@@ -149,3 +149,12 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.216.166.80:8880?mode=gun&securit
 vless://77434991-c0f1-503e-b5db-fea1e3e24585@95.164.46.39:2052?mode=gun&security=none&encryption=none&authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=grpc&serviceName=vless-grpc&sni=itvpnAndroid2.69.mu#🔥Join+Telegram:@FarahVPN🟣
 vless://54b48dfb-846d-561e-a1d0-77707b8dd9dc@95.164.34.105:8880?mode=gun&security=none&encryption=none&authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=grpc&serviceName=vless-grpc&sni=5exy.edurapp.tk#🔥Join+Telegram:@FarahVPN🟣
 vless://bbde5a0d-b2fa-5c2f-a642-f6a65976acf3@5.181.23.67:2052?mode=gun&security=none&encryption=none&authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=grpc&serviceName=vless-grpc&sni=Adjyd.69.mu#🔥Join+Telegram:@FarahVPN🟣
+vless://a8ee4d96-05f9-4012-807c-21b9d8f5fc67@buildingcollapselawfirm.com:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&host=armanpz1your-name.global.ssl.fastly.net&type=xhttp#🔥Join+Telegram:@FarahVPN🟣
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp&security=none&encryption=none&host=google.com&type=ws#🔥Join+Telegram:@FarahVPN🟣
+vless://tel%3Av2rayng_76@baby.bia2bax.shop:26909?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+vless://tel%3Av2rayng_76@upgrade.bia2bax.shop:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=upgrade.bia2bax.shop&type=ws#🔥Join+Telegram:@FarahVPN🟣
+vless://tel%3Av2rayng_76@upgrade.bia2bax.shop:8080?mode=gun&security=none&encryption=none&type=grpc&serviceName=upgrade.bia2bax.shop#🔥Join+Telegram:@FarahVPN🟣
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.47:8882#🔥Join+Telegram:@FarahVPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#🔥Join+Telegram:@FarahVPN🟣
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@99.79.8.53:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@3.79.78.214:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
