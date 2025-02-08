@@ -52,3 +52,5 @@ trojan://Aimer@172.64.35.82:443?security=tls&sni=ngepo.ambercc.filegear-sg.me&ty
 vless://3c778b88-670d-480e-af26-ef24acdab44c@151.101.3.8:80?type=grpc&serviceName=Telegram#🔥Join+Telegram:@FarahVPN🟣
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@104.18.123.117:2053?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed#🔥Join+Telegram:@FarahVPN🟣
 vless://2ccb5212-7516-4cd6-9409-21bc46a57b44@138.199.146.162:8443?security=reality&sni=www.speedtest.net&type=grpc&serviceName=xyz&fp=chrome&pbk=EjNC5AgOtOl4nZ_w-6XybYz-uOkyflyPXbyjs-rTj14#🔥Join+Telegram:@FarahVPN🟣
+vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.231.205.65:3237?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@147.135.125.117:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135010103.sec19org.com#🔥Join+Telegram:@FarahVPN🟣
