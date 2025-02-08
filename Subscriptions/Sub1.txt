@@ -171,3 +171,7 @@ vless://d8ca77c4-668c-44b8-a621-763b4067490d@91.134.11.180:2053?security=reality
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@15.185.48.207:443#🔥Join+Telegram:@FarahVPN🟣
 vless://e16df891-f6e8-42ed-af97-302769f78989@188.34.201.88:16072?type=grpc#🔥Join+Telegram:@FarahVPN🟣
 vless://d8ca77c4-668c-44b8-a621-763b4067490d@91.134.11.180:2053?security=reality&sni=sourceforge.net&type=grpc&serviceName=t.me/entryNET&fp=chrome&pbk=nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E&sid=5640288dca4f8519#🔥Join+Telegram:@FarahVPN🟣
+vless://59fecf58-155a-4238-980d-90c8d486bc93@149.56.95.142:443?security=tls&flow=xtls-rprx-vision&sni=tor5.vpntype.dev&type=tcp&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
+vless://99da041a-bdf9-4e24-88aa-3ee2912cb408@51.75.92.102:2053?security=reality&sni=sourceforge.net&type=grpc&serviceName=2053vless&fp=chrome&pbk=nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E&sid=5640288dca4f8519#🔥Join+Telegram:@FarahVPN🟣
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80?security=none&type=ws&host=a.xn--i-sx6a60i.us.kg.&path=%2F%3Fed%3D2560%2Ftelegram%40v2ray_alpha#🔥Join+Telegram:@FarahVPN🟣
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?type=ws&host=redw.pooriam.ir&path=%2FTelegram%40MTMVPN%2F%3Fed%3D2560#🔥Join+Telegram:@FarahVPN🟣
