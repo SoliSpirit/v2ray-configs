@@ -92,3 +92,5 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.12.56:22222?path=/telegram-ch
 trojan://telegram-id-privatevpns@3.67.115.207:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-directvpn@3.10.80.242:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.216.166.80:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
+vless://V2RAXX@speedtest.net:80?type=ws&host=V2RAXX.ir&path=/Telegram,V2RAXX,Telegram,?ed%3D2048&security=none#🔥Join+Telegram:@FarahVPN🟣
+vless://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@193.123.81.17:443?security=reality&encryption=none&pbk=0Vvc6EFXPQHWWqyhG4wek-MEh_q6a9CDMY7U-TSHGV4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=itunes.apple.com&sid=6ba85179e30d4fc2#🔥Join+Telegram:@FarahVPN🟣
