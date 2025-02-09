@@ -121,3 +121,8 @@ trojan://telegram-id-privatevpns@18.175.93.60:22222?security=tls&alpn=http/1.1&h
 ss://YWVzLTI1Ni1nY206ZHNndXVCNWUyNTZZQVBlbw%3D%3D@sto5.vpntype.dev:8388#🔥Join+Telegram:@FarahVPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3c2NBZDVqdlFyTWM3Y1U1bzdtVmpU@45.129.185.82:42750#🔥Join+Telegram:@FarahVPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjM0@54.248.54.190:1234#🔥Join+Telegram:@FarahVPN🟣
+vless://2ddbf9ee-6c29-468b-f108-b7f2057797a8@37.156.47.23:30583?path=%2F&security=none&encryption=none&type=ws#🔥Join+Telegram:@FarahVPN🟣
+vless://a626abcf-b56e-4d3f-9067-1a3e76ee489a@151.101.194.133:443?path=%2FVLESS%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none=telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn&host=Copy-Az-Chahnnel-ISVvpn-21.com&fp=chrome&type=ws&sni=mio.splashthat.com#🔥Join+Telegram:@FarahVPN🟣
+vless://a626abcf-b56e-4d3f-9067-1a3e76ee489a@join.ISVvpn.fastly80-3.hosting-ip.com:80?path=%2FVLESS%3Fed%3D80&security=none&encryption=none=telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn&host=Copy-Az-Chahnnel-ISVvpn-21.com&type=ws#🔥Join+Telegram:@FarahVPN🟣
+vless://90cadcb1-5955-4ddc-c846-a40f06cbed39@vpn.pnm1.com:23055?type=tcp&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=vpn.pnm1.com#🔥Join+Telegram:@FarahVPN🟣
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.32.1:2087?path=%2Ftelegram%40v2ray_alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=HaSti.fReEaIRlAineS.coM&fp=chrome&type=ws&sni=HASti.FReeAirlAINEs.cOm#🔥Join+Telegram:@FarahVPN🟣
