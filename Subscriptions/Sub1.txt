@@ -116,3 +116,6 @@ trojan://telegram-id-privatevpns@52.30.37.86:22222?security=tls&type=tcp&sni=tro
 trojan://er668@104.21.112.1:443?sni=kfjdi.pages.dev#🔥Join+Telegram:@FarahVPN🟣
 trojan://Aimer@211.57.90.42:50000?sni=ngepz.ambercc.filegear-sg.me#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-directvpn@52.60.91.153:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@45.90.97.249:44441/?type=tcp&encryption=none&sni=tile.openstreetmap.org&fp=chrome&security=reality&pbk=h-tx4d8yBKf5Cevu1bPJZwrSxT3kCkaMESHBIofaalo&sid=be4243#🔥Join+Telegram:@FarahVPN🟣
+vless://de2d2f01-5d81-4929-9941-9e32fc0b5d52@188.245.250.151:7022/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=refersion.com&fp=chrome&security=reality&pbk=Ty93FBT8aTnN7vuhzDqf313QBQf07X1DBcQNw9sbfEI&sid=#🔥Join+Telegram:@FarahVPN🟣
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.119.112.54:2501/?type=ws&encryption=none&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=a.xn--i-sx6a60i.us.kg#🔥Join+Telegram:@FarahVPN🟣
