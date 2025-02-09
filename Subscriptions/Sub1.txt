@@ -180,3 +180,6 @@ vless://c1659206-d827-41f6-9f73-f18ca30102d3@104.16.53.48:80?sni=still-forest-e3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@15.184.157.142:443#🔥Join+Telegram:@FarahVPN🟣
 vless://d35eba2f-7504-48ab-84ab-b6460a3f303f@172.66.44.241:2096?security=tls&sni=MaHDiSERveR-533.PAges.Dev&type=ws&host=mahdiserver-533.pages.dev&fp=chrome&alpn=h2,http/1.1#🔥Join+Telegram:@FarahVPN🟣
 vless://41b01981-7e05-472c-a618-e12b15ff5313@185.106.94.177:443?security=tls&sni=dd9.transitkala.com&type=ws&host=dd9.transitkala.com&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔥Join+Telegram:@FarahVPN🟣
+vless://aac1eaa3-00d0-5385-bafa-626f5739e6e1@gsmvpx.info:80?path=%2Fvless&security=none&encryption=none&host=bitcoinbest.com&type=ws#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@13.37.129.243:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://2d15e82e-8ffe-52df-8e0a-8a081fd82341@gsmvpx.info:80?path=%2Fvless&security=none&encryption=none&host=mortezatv.com&type=ws#🔥Join+Telegram:@FarahVPN🟣
