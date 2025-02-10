@@ -102,3 +102,6 @@ vless://2fb8567e-0c85-4950-9975-af714241b2db@join.vpncustomize.fastly80-3.hostin
 vless://d5a35da6-ad01-4d23-89c3-0566134b2051@sv34.tsdata4.top:34443?security=reality&encryption=none&pbk=Fvm8Nk9_xIHnKlrqywijuK6FDWP7zSyNV_ap8qH__EQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=cc024cc0b79b6bad#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-directvpn@35.181.252.13:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.157.97.251:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.219.115:8880?mode=gun&security=none&encryption=none&authority=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&type=grpc#🔥Join+Telegram:@FarahVPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBOVZyVmo1Z2RFMHl2Tlo1Q2c4RUVq@194.87.45.189:443#🔥Join+Telegram:@FarahVPN🟣
+vless://a65af0ef-ff96-412d-a6ff-477dd6809b85@cloud2.xmsvx.com:80?path=CANALTELEGRAM--%40jet_config--CANALTELEGRAM--%40jet_config&security=none&encryption=none&host=jetservices55.ir&type=ws#🔥Join+Telegram:@FarahVPN🟣
