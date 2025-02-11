@@ -17,3 +17,4 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80?path=%2F%3Fed%3DMA
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.231.205.38:3237?security=none&encryption=none&host=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&headerType=none&type=tcp#🔥Join+Telegram:@FarahVPN🟣
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#🔥Join+Telegram:@FarahVPN🟣
 vless://41b01981-7e05-472c-a618-e12b15ff5313@dd9.transitkala.com:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=dd9.transitkala.com&fp=chrome&type=ws&sni=dd9.transitkala.com#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@13.43.32.10:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
