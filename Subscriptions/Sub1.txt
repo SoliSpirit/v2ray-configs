@@ -19,3 +19,8 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?path=%2F%3Fed%3DMA
 vless://41b01981-7e05-472c-a618-e12b15ff5313@dd9.transitkala.com:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=dd9.transitkala.com&fp=chrome&type=ws&sni=dd9.transitkala.com#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-privatevpns@13.43.32.10:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.212.222.229:443#🔥Join+Telegram:@FarahVPN🟣
+vless://fb86599e-fc7d-4a6c-857f-3fb7694d2707@ZuLa.ir:8080?type=ws&host=seyyed.webdade.ip-ddns.com&path=/telegram---VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram----VPNCUSTOMIZE?ed%3D2048&security=none#🔥Join+Telegram:@FarahVPN🟣
+vless://1c94ed6e-7114-5190-a2f7-8645e0c68c7c@gsmvpx.info:80?path=%2Fvless&security=none&encryption=none&host=iranfastvpn.com&type=ws#🔥Join+Telegram:@FarahVPN🟣
+vless://V2RAXX@speedtest.net:80?type=ws&host=V2RAXX.ir&path=/Telegram,V2RAXX,Telegram,?ed%3D2048&security=none#🔥Join+Telegram:@FarahVPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443?type=tcp#🔥Join+Telegram:@FarahVPN🟣
+vless://telegram-id-ArV2ray@151.101.194.133:443?encryption=none&security=tls&sni=mio.splashthat.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=pholvu.ir&path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048#🔥Join+Telegram:@FarahVPN🟣
