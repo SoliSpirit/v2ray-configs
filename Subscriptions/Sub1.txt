@@ -13,3 +13,7 @@ trojan://3bcd9e33-8377-4b32-af33-217158577ff3@103.211.32.111:443?allowInsecure=0
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.143.103.137:443#🔥Join+Telegram:@FarahVPN🟣
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@47.128.14.130:443#🔥Join+Telegram:@FarahVPN🟣
 vless://8557a033-bb72-4ef6-9be8-2c8bc5f2b801@188.245.206.4:12711?path=%2F&security=none&encryption=none&type=ws#🔥Join+Telegram:@FarahVPN🟣
+vless://e4898cae-ae9c-4f9c-af17-eb34980b0f4b@85.208.139.32:443?security=reality&sni=google.com&type=tcp&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c#🔥Join+Telegram:@FarahVPN🟣
+vless://afa9fe4a-ed49-4778-9f24-e6f89e7b2dc5@167.235.70.79:6666?security=none&type=grpc&serviceName=%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy#🔥Join+Telegram:@FarahVPN🟣
+vless://3c7cd689-18cb-4cd2-f77f-610a3d2e1b7e@52.229.112.189:443?security=tls&flow=xtls-rprx-vision&sni=three.dilik.co&type=tcp&fp=chrome&alpn=h2,http/1.1#🔥Join+Telegram:@FarahVPN🟣
+vless://952670ec-a6e7-47e3-9fd6-3f95b2088ea2@154.205.154.81:443?security=reality&sni=vk.com&type=tcp&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c#🔥Join+Telegram:@FarahVPN🟣
