@@ -20,3 +20,6 @@ vless://009cccba-c0ec-4297-9898-5115898a7246@103.71.22.3:443?security=reality&en
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.41:8880?mode=gun&security=&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
 vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@freakconfigs13.usecharge.ir:443?security=tls&encryption=none&alpn=h2&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=mods.lnmarketplace.net#🔥Join+Telegram:@FarahVPN🟣
 vless://265797b2-a987-499f-8a6e-59bfb25c74ba@188.166.8.167:55799?security=reality&encryption=none&pbk=aWXzb0XBOZ9hLg0BAgUXN1gqml9_-dMRHb0dfUpl13o&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=refersion.com&sid=1007599f3ff56c#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@51.44.94.155:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.41:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
+vless://09e30204-6e54-5f5c-9fff-73328d9bb927@5.181.23.67:80?path=%2Fvless%23%40vpnAndroid2%2C%40vpnAndroid2%2C%40vpnAndroid2%2C%40vpnAndroid2&security=none&encryption=none&host=EevpnAndroid2.69.mu.&type=ws#🔥Join+Telegram:@FarahVPN🟣
