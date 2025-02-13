@@ -138,3 +138,4 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80?path=%2F%3Fed%3D256
 trojan://telegram-id-privatevpns@3.10.7.120:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 vless://34fde0f7-dd8a-4db7-f898-c28a78432a7e@151.101.158.204:80?encryption=none&security=none&sni=zmaoz.faculty.ucdavis.edu.&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=fatmelo.com&path=%2Folem%2Fws%3Fed%3D64#🔥Join+Telegram:@FarahVPN🟣
 vless://71669e41-17cf-4271-9a90-bf7598adeed8@zmaoz.faculty.ucdavis.edu:443?encryption=none&security=tls&sni=zmaoz.faculty.ucdavis.edu.&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=fonmelo.com&path=%2Folem%2Fws%3Fed%3D4096#🔥Join+Telegram:@FarahVPN🟣
+vless://TELEGRAM--V2RAXX@speedtest.net:80?type=ws&host=V2RAXX.ir&path=/Telegram,V2RAXX,Telegram,?ed%3D2048&security=none#🔥Join+Telegram:@FarahVPN🟣
