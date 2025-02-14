@@ -54,3 +54,7 @@ trojan://3747000103274291200@18.132.30.207:443?security=tls&sni=working-drake.ad
 trojan://3747000103274291200@185.67.125.160:443?security=tls&sni=star-bluegill.adder289.quest&type=tcp#🔥Join+Telegram:@FarahVPN🟣
 vless://edadc2f8-50b1-4049-9625-6fd5b4cb130a@108.162.195.168:443?security=tls&sni=agedw.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed#🔥Join+Telegram:@FarahVPN🟣
 vless://edadc2f8-50b1-4049-9625-6fd5b4cb130a@172.64.35.82:443?security=tls&sni=agedw.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@13.39.121.90:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.123.105.164:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://72aeacb0-49a3-41b0-a4f6-380d3be88a5e@151.101.2.133:443?path=%2Fws&security=tls&encryption=none&host=bale.ai&fp=randomized&type=ws&sni=live.wkrq.com#🔥Join+Telegram:@FarahVPN🟣
+vless://a93fc14d-9438-4f2f-9778-313e2c57031b@de.lunarmc.ir:465?type=tcp&security=none#🔥Join+Telegram:@FarahVPN🟣
