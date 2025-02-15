@@ -58,3 +58,12 @@ trojan://8d31967e-7af4-4ead-bf99-32b810dab193@138.124.183.89:443?mode=gun&securi
 trojan://da86c6b5-a130-4bb8-a6ef-00b77b85b9e7@94.131.122.157:8443?mode=gun&security=tls&type=grpc&serviceName=grpc&sni=uk2.safecdn.site#🔥Join+Telegram:@FarahVPN🟣
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.231.205.38:3237?security=none&encryption=none&host=JoinBadeChannel%40JOKERRVPN&headerType=none&type=tcp#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-privatevpns@54.217.200.220:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://0466bf43-b8a3-4ddb-eb1c-5bec6e1ae692@20.215.42.100:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=eleven.dilik.co#🔥Join+Telegram:@FarahVPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQdDJjWmRaOGRDUVpCV2VLVHhUa1NH@62.210.88.22:443#🔥Join+Telegram:@FarahVPN🟣
+vless://4f3aafc8-68d2-4d03-a5e5-e571484c16ab@s1mci.roshoping.ir:43802?security=none&encryption=none&host=nobitex.ir&headerType=http&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZWFhZDlGWXl5YVF6dGh3bFVyUHlM@62.210.88.22:443#🔥Join+Telegram:@FarahVPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxb25LRUJKVFNUbHA1V3pacGFoRlFz@62.210.88.22:443#🔥Join+Telegram:@FarahVPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqYTZTYjYxd1F0THNsOTFYdXlWdERH@78.129.140.11:443#🔥Join+Telegram:@FarahVPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5VlRvQjBBV21pUUQxMGJVRVI5U2hR@78.129.140.11:443#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@34.249.202.69:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-v2rayvpnchannel@18.169.40.227:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@FarahVPN🟣
