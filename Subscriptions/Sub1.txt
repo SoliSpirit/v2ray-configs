@@ -171,3 +171,6 @@ vless://8696f275-6e25-4ea0-886d-fa4f51ad6cdd@104.26.15.85:80?security=none&type=
 vless://fa06b45e-f7b8-4c13-968e-5a9251ccf009@104.21.32.1:2083?security=tls&sni=maHdIsERveR-33Y.pAGes.Dev&type=ws&host=mahdiserver-33y.pages.dev&fp=chrome&alpn=h2,http/1.1#🔥Join+Telegram:@FarahVPN🟣
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@38.121.43.6:8008#🔥Join+Telegram:@FarahVPN🟣
 vless://7db8133b-f6de-52e0-bc0a-15bf87599994@45.140.167.52:8880?security=none&type=grpc&serviceName=vless-grpc#🔥Join+Telegram:@FarahVPN🟣
+vless://8789c37d-2c32-460b-ac63-c677fbc9b47e@188.245.206.4:13831?type=tcp&security=none#🔥Join+Telegram:@FarahVPN🟣
+vless://%50%61%72%73%61%73%68%6F%6E%61%6D-174@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40%50%61%72%73%61%73%68%6F%6E%61%6D%2Fws%3Fed%3D2560&serviceName=@V2rayNGcloud-Telegram-v2rayNGcloud-@V2rayNGcloud-Telegram-@V2rayNGcloud-Telegram-@V2rayNGcloud&security=tls&encryption=none&alpn=h2,http/1.1&host=%50%61%72%73%61%73%68%6F%6E%61%6D-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#🔥Join+Telegram:@FarahVPN🟣
+vless://%50%61%72%73%61%73%68%6F%6E%61%6D-174@185.146.173.39:8880?path=%2F&serviceName=@V2rayNGcloud-Telegram-v2rayNGcloud-@V2rayNGcloud-Telegram-@V2rayNGcloud-Telegram-@V2rayNGcloud&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#🔥Join+Telegram:@FarahVPN🟣
