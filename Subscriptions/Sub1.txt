@@ -85,3 +85,5 @@ vless://68e5f04a-ddcf-42c2-95b1-405bde21fdec@147.182.183.207:443?encryption=none
 vless://1645c777-9b89-494b-908d-5531160b0faa@hajlab.ucdavis.edu:443?path=@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2048&security=tls&encryption=none&host=joinbedemaznettel.ir&type=ws&sni=hajlab.ucdavis.edu#🔥Join+Telegram:@FarahVPN🟣
 vless://fea0c0cb-3246-4ee7-9265-04717367a7e0@hajlab.ucdavis.edu:443?path=@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2560&security=tls&encryption=none&host=loye.ir&type=ws&sni=hajlab.ucdavis.edu#🔥Join+Telegram:@FarahVPN🟣
 ss://YWVzLTI1Ni1nY206WE8xU0c2WllFNUpQN0ZXMA@154.196.244.22:16012#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@13.50.28.15:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@13.51.230.56:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
