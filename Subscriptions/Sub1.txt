@@ -137,3 +137,9 @@ vless://4bd51efd-e46a-487c-a1fb-61c0d6b99e48@hajlab.ucdavis.edu:443?path=%2F%40S
 trojan://Aimer@77.74.228.4:2087?sni=agepw.ambercc.filegear-sg.me&allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
 trojan://PfE3MbyRzjb5VMOdPVyLYg@165.227.154.214:1000?security=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
 vless://9a243490-11c6-4a9f-8bdf-c5e3e2fe0c70@172.64.34.232:443?security=tls&sni=teopzh.iranlosangles.com&type=ws&host=teopzh.iranlosangles.com&path=/wss&alpn=http/1.1#🔥Join+Telegram:@FarahVPN🟣
+vless://850be2f4-1d90-4fa0-912d-f88087b17706@62.60.233.30:2053?mode=gun&security=none&encryption=none&type=grpc&serviceName=2096vless#🔥Join+Telegram:@FarahVPN🟣
+vless://2ddbf9ee-6c29-468b-f108-b7f2057797a8@37.156.47.23:30583?path=%2F&security=none&encryption=none&type=ws#🔥Join+Telegram:@FarahVPN🟣
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.35.89:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@13.41.103.104:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://6b594fae-e8a3-4f83-82cf-8f16045adfc0@104.21.16.1:2087?mode=gun&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=chrome&type=grpc&serviceName=%2F%3Fed%3D2048&sni=esna.twn24.ir#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@3.72.69.103:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
