@@ -143,3 +143,4 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.35.89:22222?path=/telegram-ch
 trojan://telegram-id-directvpn@13.41.103.104:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 vless://6b594fae-e8a3-4f83-82cf-8f16045adfc0@104.21.16.1:2087?mode=gun&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=chrome&type=grpc&serviceName=%2F%3Fed%3D2048&sni=esna.twn24.ir#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-privatevpns@3.72.69.103:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=redw.pooriam.ir&fp=chrome&type=ws&sni=REDw.pOOriam.Ir#🔥Join+Telegram:@FarahVPN🟣
