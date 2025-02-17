@@ -127,3 +127,5 @@ vless://9fcb535c-f0dc-42d2-869b-7e8a072a8ffc@172.64.35.157:443?security=tls&sni=
 trojan://telegram-id-privatevpns@15.236.76.183:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 vless://47532027-d24f-471e-b08d-dd825bb9d2c2@167.235.141.181:2087?security=tls&sni=karshenashamrah.ir&type=ws&host=karshenashamrah.ir&path=%2FasdasdsadA%23MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔥Join+Telegram:@FarahVPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-v2rayvpnchannel@18.159.177.132:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@FarahVPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#🔥Join+Telegram:@FarahVPN🟣
