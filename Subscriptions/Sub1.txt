@@ -75,3 +75,12 @@ vless://fbbb6667-4b54-4236-9d7d-2189819130a3@sharkpublic.fastly80-2.hosting-ip.c
 vless://a93fc14d-9438-4f2f-9778-313e2c57031b@de.lunarmc.ir:465?type=tcp&security=none#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-privatevpns@18.153.127.70:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-directvpn@15.236.250.123:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://b73f44c0-caaf-4654-c723-192b08f3e615@94.182.129.211:18231?security=&encryption=none&headerType=http&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.132:8080#🔥Join+Telegram:@FarahVPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.178.194:443#🔥Join+Telegram:@FarahVPN🟣
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@join.E-L-i-V-2-R-A-Y.fastly80-3.hosting-ip.com:80?path=%2Fchannel%2CELiV2RAY-channel%2CELiV2RAY-channel%2CELiV2RAY%3Fed%3D2560&security=none&encryption=none&host=Join--E-L-i-V-2-R-A-Y.net&type=ws#🔥Join+Telegram:@FarahVPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.151:8080#🔥Join+Telegram:@FarahVPN🟣
+vless://a93fc14d-9438-4f2f-9778-313e2c57031b@de.lunarmc.ir:465?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+vless://72996cf0-59da-4c97-8acd-4fdaf0c49407@95.142.37.48:23393?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+vless://5b75d93d-1e40-43a4-af3d-d6cb11fbafe8@172.64.162.60:80?path=%2F3Bc2FravWgXBrnlN%3Fed%3D2560&security=none&encryption=none&host=gozargah2.validbv7996.ir&type=ws#🔥Join+Telegram:@FarahVPN🟣
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@join.E-L-i-V-2-R-A-Y.fastly80-3.hosting-ip.com:80?path=/channel,ELiV2RAY-channel,ELiV2RAY-channel,ELiV2RAY%3Fed%3D2560&host=Join--E-L-i-V-2-R-A-Y.net&type=ws#🔥Join+Telegram:@FarahVPN🟣
