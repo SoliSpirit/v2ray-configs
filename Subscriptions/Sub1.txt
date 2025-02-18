@@ -74,3 +74,5 @@ trojan://Aimer@108.165.152.29:2096?allowInsecure=1&sni=agept.ambercc.filegear-sg
 trojan://Aimer@27.50.49.188:2096?allowInsecure=1&sni=agept.ambercc.filegear-sg.me#🔥Join+Telegram:@FarahVPN🟣
 vless://9037a9ff-e88e-40f8-8fea-6eb27e0fa9b8@95.164.35.169:32756?security=reality&flow=xtls-rprx-vision&sni=google.com&type=tcp&fp=chrome&pbk=0w3vKmbzpqRs-4Kz9W0ECUfFKRXfzR5Oy1tqXPZ6als&sid=8852e484a776#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-directvpn@13.39.144.121:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://0bb388e0-e5ee-416c-b4ae-b9c863475821@103.35.188.136:443?security=reality&encryption=none&pbk=itbKQaHRgxYdKPVpb9bbuU7h42xsmh7xelNZ93FuvkY&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=54b70038b2766783#🔥Join+Telegram:@FarahVPN🟣
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.74.106.46:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔥Join+Telegram:@FarahVPN🟣
