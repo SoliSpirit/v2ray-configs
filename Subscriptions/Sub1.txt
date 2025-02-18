@@ -162,3 +162,6 @@ vless://57147109-749f-4c9b-c6b3-2dce03f0466f@104.17.148.22:8880?type=httpupgrade
 trojan://telegram-id-privatevpns@51.20.13.202:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-directvpn@13.61.200.194:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 vless://0b87c849-c41e-514f-a3c6-80fb9d80a073@77.91.72.143:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#🔥Join+Telegram:@FarahVPN🟣
+vless://SharkPublicbot@sharkpublic.fastly80-2.hosting-ip.com:80?security=&type=ws&path=/shark/u/0/inbox&host=ramzarz.news&encryption=none#🔥Join+Telegram:@FarahVPN🟣
+vless://SharkPublicbot@sharkpublic.fastly80-2.hosting-ip.com:80?security=&type=ws&path=/shark/u/0/inbox?ed%3D443&host=shark.net&encryption=none#🔥Join+Telegram:@FarahVPN🟣
+vless://SharkPublicbot@sharkpublic.fastly80-2.hosting-ip.com:80?security=&type=ws&path=/shark/u/0/inbox?ed%3D2048&host=shark.co&encryption=none#🔥Join+Telegram:@FarahVPN🟣
