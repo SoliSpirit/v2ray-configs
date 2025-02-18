@@ -72,3 +72,6 @@ vless://telegram-ArV2ray@AC.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-ArV2ry
 vmess://eyJhZGQiOiAidmlwMS5yYWhhdG5ldC5jb20iLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjA2NWY0ZTcwLTZkMzctNDZjMi05MzliLWQ5NTQwNTY0NDk2MSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjQyNzAzIiwgInBzIjogIlx1ZDgzZFx1ZGQyNUpvaW4rVGVsZWdyYW06QEZhcmFoVlBOXHVkODNkXHVkZmUzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogImh0dHAiLCAidiI6ICIyIn0=
 trojan://telegram-id-privatevpns@3.66.62.219:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 vless://fbbb6667-4b54-4236-9d7d-2189819130a3@sharkpublic.fastly80-2.hosting-ip.com:80?security=&type=ws&path=/shark/u/0/inbox&host=ramzarz.news&encryption=none#🔥Join+Telegram:@FarahVPN🟣
+vless://a93fc14d-9438-4f2f-9778-313e2c57031b@de.lunarmc.ir:465?type=tcp&security=none#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@18.153.127.70:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@15.236.250.123:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
