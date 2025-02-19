@@ -37,3 +37,8 @@ vless://3fcfce54-f836-476f-a7f2-57371c8570d5@91.92.40.78:2070?type=tcp&security=
 vless://29058641-d1a3-4baa-a4c3-bb870384ef9a@free.tharuwa.cfd:3333?path=%2FFree%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=m.zoom.us&type=ws#🔥Join+Telegram:@FarahVPN🟣
 vless://fe27a1ea-68e4-4784-834e-b4dc239fa152@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#🔥Join+Telegram:@FarahVPN🟣
 vless://b1581e6d-9a6a-4572-8b03-fd8501c95979@zmaoz.faculty.ucdavis.edu:443?encryption=none&security=tls&sni=zmaoz.faculty.ucdavis.edu.&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=fonmelo.com&path=%2Folem%2Fws%3Fed%3D4096#🔥Join+Telegram:@FarahVPN🟣
+vless://caeb576d-bcb1-4aa8-8b97-2f3846a2968d@c3.tron2tron.ir:2087?path=%2FinboundsCWNeRzWFjgWHWZFw%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=dns.tron2tron.ir&fp=chrome&type=ws&sni=dns.tron2tron.ir#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@35.156.221.161:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@FarahVPN🟣
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.114.114.225:2375#🔥Join+Telegram:@FarahVPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@74.177.176.136:443#🔥Join+Telegram:@FarahVPN🟣
+vless://cdf893de-bf95-40f9-b2ea-fae31f2bc7fb@151.101.130.219:80?security=none&type=ws&host=Digikala.iranian.net&path=%2Ftelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%3Fed%3D8080#🔥Join+Telegram:@FarahVPN🟣
