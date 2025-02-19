@@ -68,3 +68,6 @@ vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@44.244.5.230:8443?security=reality&
 vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@35.94.191.169:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=zula.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#🔥Join+Telegram:@FarahVPN🟣
 vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@54.71.184.203:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=zula.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#🔥Join+Telegram:@FarahVPN🟣
 vless://0dbda19e-d3d3-4ef3-a47e-0c1f4d941cec@91.92.40.78:2070?type=tcp&security=none#🔥Join+Telegram:@FarahVPN🟣
+trojan://Aimer@209.94.90.87:2087?allowInsecure=1&sni=agepy.ambercc.filegear-sg.me#🔥Join+Telegram:@FarahVPN🟣
+vless://telegram:v2rayng_76@upgrade.bia2bax.shop:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=upgrade.bia2bax.shop&type=ws#🔥Join+Telegram:@FarahVPN🟣
+vless://telegram:v2rayng_76@upgrade.bia2bax.shop:8080?mode=gun&security=none&encryption=none&type=grpc&serviceName=upgrade.bia2bax.shop#🔥Join+Telegram:@FarahVPN🟣
