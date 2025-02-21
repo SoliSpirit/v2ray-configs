@@ -131,3 +131,11 @@ vless://9440a9f0-2e73-4b84-9619-7fc4b4c3f327@45.32.228.172:8080?path=%2F&securit
 trojan://telegram-id-privatevpns@13.61.115.195:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 vless://46bce027-2f79-4e5f-fc73-ca8fe3dd4d18@45.77.198.120:8080?path=%2F&security=none&encryption=none&type=ws#🔥Join+Telegram:@FarahVPN🟣
 vless://a54cdb5d-5934-4c0c-91bc-a71474e5f45c@149.28.194.210:8080?path=%2F&security=none&encryption=none&type=ws#🔥Join+Telegram:@FarahVPN🟣
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.16.113.12:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://8c65262b-5f3b-4476-bf5b-094f9817c21d@zula.ir:8443?encryption=none&security=tls&sni=foodrover.ir&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=foodrover.ir.&path=%2F#🔥Join+Telegram:@FarahVPN🟣
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.112.1:8443?encryption=none&security=tls&sni=hAsTI.FreEAIRlaiNES.COM&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=hasTI.freeAirlAineS.COm&path=%2Ftelegram%40v2ray_alpha%2F%3Fed%3D2560#🔥Join+Telegram:@FarahVPN🟣
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.75.172:80?encryption=none&security=none&type=ws&host=redw.pooriam.ir&path=%2F#🔥Join+Telegram:@FarahVPN🟣
+vless://bacff32b-48b5-5191-b222-33538e15c735@45.89.55.188:8880?encryption=none&security=none&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🔥Join+Telegram:@FarahVPN🟣
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2083?encryption=none&security=tls&sni=hAsTi.frEEairLainEs.Com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=HaSTI.fReeAIrLAINes.COm&path=%2FG9WiaAeAdacfio6X%3Fed%3D2560#🔥Join+Telegram:@FarahVPN🟣
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:443?encryption=none&security=tls&sni=REDw.pOOriam.Ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=redw.pooriam.ir&path=%2F#🔥Join+Telegram:@FarahVPN🟣
+vless://384d86c0-2f2c-5156-98b5-27bbc14f4315@join.mosiv2.fastly80-3.hosting-ip.com:80?encryption=none&security=none&type=ws&host=Join-Bede-MOSiv2.IR&path=%2F#🔥Join+Telegram:@FarahVPN🟣
