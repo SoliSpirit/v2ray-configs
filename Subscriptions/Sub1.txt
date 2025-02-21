@@ -49,3 +49,4 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.130.5.254:22222?path=/telegram-c
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowNjJ0dHJEdVJ2Ykc3MzBzYWJDdzdm@81.19.141.45:443#🔥Join+Telegram:@FarahVPN🟣
 vless://398045d4-f887-4967-8487-cbd8548d715f@134.209.200.103:8442?security=reality&encryption=none&pbk=FyCE8noOXv6ndH0Kc09cQv-H323izulVm17ae2_IrjA&headerType=none&fp=chrome&type=tcp&sni=ftp.debian.org#🔥Join+Telegram:@FarahVPN🟣
 vless://33c1bd18-ca92-f544-8c7e-105bc9d8cb93@5.181.3.146:443?security=reality&encryption=none&pbk=83nOCehIOZZFqH0TjezNRMlu_pu069x5ep9BhopvyWM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@16.16.135.9:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
