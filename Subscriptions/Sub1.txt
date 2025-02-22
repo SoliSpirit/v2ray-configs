@@ -55,3 +55,5 @@ trojan://telegram-id-directvpn@15.237.168.160:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@18.195.10.213:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 vless://MMD_Hell@speedtest.net:80?path=%2FTelegram%2CV2RAXX%2CTelegram%2C%3Fed%3D2048&security=none&encryption=none&host=V2RAXX.ir&type=ws#🔥Join+Telegram:@FarahVPN🟣
 vless://ad619b35-e90f-49a7-8851-a6fc9018c719@mehdi.vact.ir:443?mode=gun&security=reality&encryption=none&pbk=Aq5jw0I0Vtj6AOthjzuEMrMgzv9uqarSiK-S3qWJmQU&fp=chrome&spx=%2F&type=grpc&serviceName=MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN&sni=www.cdn77.com&sid=bae995654d#🔥Join+Telegram:@FarahVPN🟣
+trojan://3747000103274291200@artistic-flounder.treefrog761.one:443?allowInsecure=0&sni=artistic-flounder.treefrog761.one#🔥Join+Telegram:@FarahVPN🟣
+vless://8c65262b-5f3b-4476-bf5b-094f9817c21d@172.67.204.84:8443?security=tls&sni=foodrover.ir&type=ws&host=foodrover.ir.&path=/&fp=chrome&alpn=h2,http/1.1#🔥Join+Telegram:@FarahVPN🟣
