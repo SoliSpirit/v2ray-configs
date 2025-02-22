@@ -5,3 +5,6 @@ vless://354712c4-dab3-452c-89fd-0a2edd6999f9@l.alaba.cam:2060?mode=gun&security=
 vless://e66bf44c-4f43-432e-9ab2-9c1b73ec4f6a@81.28.12.12:80?security=none&encryption=none&host=bolak.com&type=ws#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-privatevpns@63.35.165.204:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 vless://e66bf44c-4f43-432e-9ab2-9c1b73ec4f6a@13dl.net:80?security=none&encryption=none&host=bolak.com&type=ws#🔥Join+Telegram:@FarahVPN🟣
+vless://e2f45773-e553-47d1-b495-4f6063a8d95f@188.245.126.124:44566?encryption=none&security=reality&sni=refersion.com&fp=randomized&pbk=1sDMgyhL5HPRAaRYJcAf21sWbSlq0kgitPVL2HQwB2M&type=tcp&headerType=none#🔥Join+Telegram:@FarahVPN🟣
+vless://354712c4-dab3-452c-89fd-0a2edd6999f9@62.60.233.196:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=2096vless#🔥Join+Telegram:@FarahVPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4aUM4OEhUVGs2Y0ZYTXBPeVB6cWZQ@77.83.246.74:443#🔥Join+Telegram:@FarahVPN🟣
