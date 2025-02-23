@@ -61,3 +61,5 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@188.245.114.143:8880?mode=gun&secur
 vless://1682dbc6-6b8b-487b-b63b-1f627c943535@s26.radnikmax.ir:8452?security=none&encryption=none&headerType=http&type=tcp#🔥Join+Telegram:@FarahVPN🟣
 vmess://eyJhZGQiOiAiODguMTk4LjE3Mi4yNSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZTdlYjQ3MmUtZGM4My00OWQ1LWJlNWUtODJhNzlhMjEyNGVlIiwgIm5ldCI6ICJncnBjIiwgInBhdGgiOiAiSmJpQjhWNjZWNzhIZjViaXZmc2lzOHZIIiwgInBvcnQiOiAiMTUxNDUiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhWUE5cdWQ4M2RcdWRmZTMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiZ3VuIiwgInYiOiAiMiJ9
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.211.49:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#🔥Join+Telegram:@FarahVPN🟣
+vless://764c0782-0e09-4204-9418-afddd544fcb2@www.zula.ir:2087?path=%2F&security=tls&encryption=none&host=hq5.NEwRetR432as.INFO&type=ws&sni=hq5.NEwRetR432as.INFO#🔥Join+Telegram:@FarahVPN🟣
+vless://49cf5550-d4ae-4ca6-9bb6-7aa5a10028ed@188.34.201.88:16072?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🔥Join+Telegram:@FarahVPN🟣
