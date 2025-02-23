@@ -143,3 +143,12 @@ vless://5d8eb0fb-a99e-43ea-bb60-cddca6a6e45b@45.131.209.53:80?security=&sni=cdn.
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.198.232:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
 vless://v2rayng__76@upgrade.bia2bax.shop:8080?mode=gun&security=none&encryption=none&type=grpc&serviceName=upgrade.bia2bax.shop#🔥Join+Telegram:@FarahVPN🟣
 vless://%74%65%6c%65%67%72%61%6d%2d%41%72%56%32%72%61%79@151.101.192.155:80?path=%2Ftelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%3Fed%3D2048&security=&encryption=none&host=atkmpbh.ir&type=ws#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-v2rayvpnchannel@51.20.24.67:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@FarahVPN🟣
+vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.98.5:443?security=tls&sni=147135010072.sec21org.com&type=tcp&allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@13.39.211.90:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.72.24.109:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://Aimer@61.80.135.3:15672?security=tls&sni=agept.ambercc.filegear-sg.me&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+trojan://Aimer@188.164.159.174:2053?security=tls&sni=agept.ambercc.filegear-sg.me&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+vless://c1d22711-2adf-4ffa-a5d8-439e665bb951@45.131.209.237:80?sni=656654647567245851483768538765962936476541237567854816545176587.11feea65a1d70a.workers.dev&type=ws&path=Telegram@WangCai2/?ed#🔥Join+Telegram:@FarahVPN🟣
+trojan://naEX%5Dg*qw%40MT%26lFz@104.21.32.1:2087?security=tls&sni=jOinMAhdIsErvEr-53k.pAGeS.Dev&type=ws&host=joinmahdiserver-53k.pages.dev#🔥Join+Telegram:@FarahVPN🟣
+vless://c646a78b-3a52-403e-a94d-c24704238d90@www.speedtest.net:2082?type=httpupgrade&path=yakuzaytarmin%3Fed%3D2082&host=yakuasubcha.poqpoq.shop.&security=none#🔥Join+Telegram:@FarahVPN🟣
