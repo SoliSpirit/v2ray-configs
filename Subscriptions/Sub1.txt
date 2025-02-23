@@ -141,3 +141,11 @@ trojan://telegram-id-directvpn@18.199.15.95:22222?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-privatevpns@52.213.69.197:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 vless://bb29c155-d55e-4c07-8403-0581e384f7a2@108.162.192.217:2087?mode=gun&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=chrome&type=grpc&sni=a1.mewface-smart.rest#🔥Join+Telegram:@FarahVPN🟣
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.252.50.232:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔥Join+Telegram:@FarahVPN🟣
+ss://YWVzLTI1Ni1nY206YW1hem9uc2tyMDU%3D@18.237.113.248:443#🔥Join+Telegram:@FarahVPN🟣
+vless://2429bee3-e0c1-47dd-b420-75e6512b184b@40.233.88.228:42557?security=reality&encryption=none&pbk=9pG_yCinyMylCDQVtADAZELH1vlb5PGz_MZw8dmYZxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=3139a260#🔥Join+Telegram:@FarahVPN🟣
+ss://YWVzLTI1Ni1nY206YW1hem9uc2tyMDU%3D@52.34.200.48:443#🔥Join+Telegram:@FarahVPN🟣
+vless://e1033eee-8a09-4bc5-cbd3-72dcd8fa8476@iri.ginuerzht.ir:2053?security=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&encryption=none&host=speedtest.net&headerType=http&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@15.204.165.202:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135010103.sec19org.com#🔥Join+Telegram:@FarahVPN🟣
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.211.86:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135004002.sec20org.com#🔥Join+Telegram:@FarahVPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#🔥Join+Telegram:@FarahVPN🟣
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@54.36.174.181:3306#🔥Join+Telegram:@FarahVPN🟣
