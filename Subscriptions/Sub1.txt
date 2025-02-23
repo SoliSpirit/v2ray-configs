@@ -104,3 +104,8 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.69.44:80?security=none&encry
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#🔥Join+Telegram:@FarahVPN🟣
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638752458298696066.amsterdam-lmn-dr.info:8880?security=none&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.177.251:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135004002.sec20org.com#🔥Join+Telegram:@FarahVPN🟣
+trojan://Aimer@156.251.180.181:21698?security=tls&sni=agept.ambercc.filegear-sg.me&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+vless://b529971c-f46a-4eb9-a02d-e39cc3e83cf5@144.24.243.207:443?security=tls&sni=dd8.transitkala.com&type=ws&path=/#🔥Join+Telegram:@FarahVPN🟣
+trojan://Aimer@121.128.254.108:34522?security=tls&sni=agept.ambercc.filegear-sg.me&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+vless://b06ea86b-1fa7-445f-8b7d-275a38b20a7e@maznet-join-bede.mahdijamkaran.online:8880?type=grpc&serviceName=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D1024&authority=&security=none#🔥Join+Telegram:@FarahVPN🟣
+vless://afea0c03-343a-466e-bbed-b9908e61853f@maznet-join-bede.mahdijamkaran.online:6669?type=grpc&serviceName=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2048&authority=&security=none#🔥Join+Telegram:@FarahVPN🟣
