@@ -109,3 +109,8 @@ trojan://Aimer@199.34.228.187:443?security=tls&type=ws&sni=ngepy.ambercc.filegea
 trojan://telegram-id-privatevpns@35.177.124.241:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.157:8080#🔥Join+Telegram:@FarahVPN🟣
 trojan://amclubs2024@198.62.62.156:443?security=tls&type=ws&sni=tr.amclub.us.kg&path=/?ed=2560&host=tr.amclub.us.kg#🔥Join+Telegram:@FarahVPN🟣
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.241.180:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
+vless://bd58bea4-c47e-5312-ab74-da275166c87e@104.17.147.22:2052?path=%2Fvless&security=none&encryption=none&host=sPeedtest2.sbs.lt2.vless.sitespeedtest.net&type=ws#🔥Join+Telegram:@FarahVPN🟣
+vless://ed8920ff-bc77-4ee5-9db0-c1038c57aa30@46.8.71.222:23856?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@91.107.139.138:443?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=mods.lnmarketplace.net#🔥Join+Telegram:@FarahVPN🟣
+vless://860caf12-878b-41fc-9517-2cb782f67054@128.140.53.9:16642?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@FarahVPN🟣
