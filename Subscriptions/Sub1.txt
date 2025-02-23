@@ -37,3 +37,6 @@ vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.109:443?security=tls&al
 vless://c023cfb7-08a0-448d-aaa8-18d0ee67dffc@162.159.44.250:443?security=tls&sni=kq7ilv.alligator27.com&type=ws&host=kq7ilv.alligator27.com&path=%2Fwss&alpn=http%2F1.1#🔥Join+Telegram:@FarahVPN🟣
 vless://60cb6fb3-ba54-471f-a9f7-ec0565c66520@172.67.163.103:8880?security=none&type=httpupgrade&host=Euueeu.flatocnx.com&path=%2FVpnmizban---------Vpnmizban---------Vpnmizban-------Vpnmizban#🔥Join+Telegram:@FarahVPN🟣
 trojan://IYd0HMG12j@104.21.96.1:443?security=tls&sni=esna.twn24.ir&type=httpupgrade&host=esna.twn24.ir&path=%2F16338%2Fmehdi&fp=random&allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
+vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.109:443?security=tls&sni=147135001195.sec22org.com&type=tcp&host=@V2rayNGcloud-Telegram-v2rayNGcloud-@V2rayNGcloud-Telegram-@V2rayNGcloud-Telegram-@V2rayNGcloud&alpn=h2%2Chttp%2F1.1#🔥Join+Telegram:@FarahVPN🟣
+trojan://3787016351714123776@35.77.146.185:443?sni=usable-toad.treefrog761.one&allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
+vless://bfa89852-b71a-4207-8f8a-8120288dcae8@188.121.117.161:80?security=none&type=ws#🔥Join+Telegram:@FarahVPN🟣
