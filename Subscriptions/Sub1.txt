@@ -110,3 +110,10 @@ vmess://eyJhZGQiOiAiMTA0LjE5LjE1MC4xMCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.132:8080#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-privatevpns@18.195.10.213:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Zjc3NWI3Ny03YjA3LTRiNTMtYWZkMS1hOTM3ZTVmMWFjMzQ@free.2apzhfa.xyz:31271#🔥Join+Telegram:@FarahVPN🟣
+vless://4d3e4850-83e4-4e9e-a4c1-0f11c43663e7@104.21.34.163:443?path=%2Ftelegram%40v2ray_alpha%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=crolinde.carlotta.cloudns.org&fp=random&type=ws&sni=crolinde.carlotta.cloudns.org#🔥Join+Telegram:@FarahVPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOMlZoTkRRMg%3D%3D@45.140.167.94:8388#🔥Join+Telegram:@FarahVPN🟣
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?path=%2Ftelegram%40v2ray_alpha%2F%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#🔥Join+Telegram:@FarahVPN🟣
+trojan://da86c6b5-a130-4bb8-a6ef-00b77b85b9e7@94.131.122.157:8443?mode=gun&security=tls&type=grpc&serviceName=grpc&sni=uk2.safecdn.site#🔥Join+Telegram:@FarahVPN🟣
+trojan://Pooria@104.17.148.22:443?path=trPyOrWMfkHd15oxiI%3Fed%3D1520%23%40v2ray_alpha&security=tls&alpn=h2%2Chttp%2F1.1&host=301.pooriam.ir&fp=randomized&type=ws&sni=301.pOORiAm.ir#🔥Join+Telegram:@FarahVPN🟣
+vless://860caf12-878b-41fc-9517-2cb782f67054@128.140.53.9:16642?type=tcp&security=none#🔥Join+Telegram:@FarahVPN🟣
+trojan://Pooria@104.17.148.22:443?path=%2FtrPyOrWMfkHd15oxiI%3Fed%3D1520%23FreeV2Alpha&security=tls&alpn=h2%2Chttp%2F1.1&host=301.pooriam.ir&fp=randomized&type=ws&sni=301.pOORiAm.ir#🔥Join+Telegram:@FarahVPN🟣
