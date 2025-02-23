@@ -196,3 +196,5 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:443?path=%2F&security=
 trojan://telegram-id-directvpn@15.237.79.111:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-privatevpns@3.79.164.46:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 vmess://eyJhZGQiOiAiYmlpaWEtZmUzMHguZmFzdC5ob3N0aW5nLWlwLmNvbSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJjYXQuSVIuIiwgImlkIjogImlkMy0tLUBmZTMweCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvP2VkPTIwNTYvI2lkLXRlbGVncmFtOi0tLT5AZmUzMHg8LS0tIiwgInBvcnQiOiAiODAiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhWUE5cdWQ4M2RcdWRmZTMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.30.179:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@52.16.180.238:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
