@@ -79,3 +79,9 @@ vless://50d78176-9dec-4c30-a9c6-99684d39fc2c@185.10.19.51:2083/?type=grpc&encryp
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.204.84:80/?type=ws&encryption=none&host=a.xn--i-sx6a60i.us.kg.&path=tmevpnAndroid2%2F%3Fed%3D2560#🔥Join+Telegram:@FarahVPN🟣
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.16.105.66:80/?type=ws&encryption=none&host=plain-thunder-a1d0-ppal03.dakox63637.workers.dev&path=%2F%3Fed%3D2560#🔥Join+Telegram:@FarahVPN🟣
 vless://c023cfb7-08a0-448d-aaa8-18d0ee67dffc@162.159.44.250:443?path=%2Fwss&security=tls&alpn=http%2F1.1&encryption=none&host=kq7ilv.alligator27.com&type=ws&sni=kq7ilv.alligator27.com#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-v2rayvpnchannel@13.53.79.247:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@FarahVPN🟣
+vless://5afe1b07-3d52-43c0-8e61-969a1d2531b0@g.soskom.ir:11045?mode=gun&security=reality&encryption=none&pbk=p-FNeH1T5de5nmwI7iT16MQKWspQ0b6C9GGSRwGtlnM&fp=chrome&spx=%2F&type=grpc&serviceName=Tel%20%3A%20%40NT_Safe&sni=yahoo.com&sid=20db1be5e1ab118a#🔥Join+Telegram:@FarahVPN🟣
+trojan://Aimer@152.70.245.66:12693?sni=agept.ambercc.filegear-sg.me#🔥Join+Telegram:@FarahVPN🟣
+vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.206.76:443?security=tls&sni=147135010072.sec21org.com&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-v2rayvpnchannel@13.60.146.125:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@FarahVPN🟣
+vless://fb5a6cc2-15a9-4525-ba7c-7727490ce336@65.109.209.201:7642?security=none&type=tcp#🔥Join+Telegram:@FarahVPN🟣
