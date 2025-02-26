@@ -180,3 +180,4 @@ trojan://telegram-id-directvpn@52.209.132.91:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@18.132.151.45:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8080#🔥Join+Telegram:@FarahVPN🟣
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.135.183.134:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://64768b60-88b8-4414-80e7-ac04b6223259@151.101.194.133:80?mode=auto&path=%2F%3Fed%3D2048--Telegram%40V2ray_Alpha&security=none&encryption=none&host=today-db-load.com&type=xhttp#🔥Join+Telegram:@FarahVPN🟣
