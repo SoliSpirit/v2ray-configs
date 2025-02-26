@@ -31,3 +31,7 @@ trojan://Aimer@91.107.253.14:8443?security=tls&type=ws&sni=ngepy.ambercc.filegea
 trojan://Aimer@108.165.152.241:2053?security=tls&type=tcp&sni=acepo.ambercc.filegear-sg.me#🔥Join+Telegram:@FarahVPN🟣
 vless://0f0b4653-cbad-47f9-ae69-29a15659c40a@c2.vact.ir:443?mode=gun&security=reality&encryption=none&pbk=1CpRSEFve_IetBB49fV4b8qN_UnyKqbNOr_tGSmXpQ8&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray&sni=www.cdn77.com&sid=55140942#🔥Join+Telegram:@FarahVPN🟣
 vless://ab943001-d1c1-484d-931c-fcbd3d1e80fa@c1.vact.ir:443?mode=gun&security=reality&encryption=none&pbk=k3RvLyFbObwUNc1ieWkDjdpszZ8dPp8VVw2A7JG1K1U&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray&sni=www.cdn77.com&sid=a604e123#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@13.49.247.59:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://defa5cc7-a72d-480b-896f-852405a046fd@wfxpmyjva5c9.librekit.com:56159?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+vless://ebffc618-f5c1-4ee4-8762-b1759e67b46c@turbo.esivip.online:13960?type=tcp&path=%2F&host=speedtest.net&headerType=http&security=none#🔥Join+Telegram:@FarahVPN🟣
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.4.12:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🔥Join+Telegram:@FarahVPN🟣
