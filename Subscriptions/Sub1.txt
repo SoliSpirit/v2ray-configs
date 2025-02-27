@@ -128,3 +128,4 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.132.131.9:22222?path=/telegram-c
 trojan://telegram-id-directvpn@54.75.14.8:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.107.226.238:2375#🔥Join+Telegram:@FarahVPN🟣
 vless://48cffefe-bb3a-4b67-9f9e-b78a2f15a88d@168.119.255.228:18637?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@135.181.194.175:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
