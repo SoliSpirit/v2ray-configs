@@ -55,3 +55,5 @@ trojan://telegram-id-directvpn@35.177.158.40:22222?security=tls&sni=trojan.burge
 vless://TELEGRAM-NUFiLTER-f4ce6e19a323@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=1.nufilter-telegram.ir&type=ws#🔥Join+Telegram:@FarahVPN🟣
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.199:8880?security=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.223:8880?security=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@13.53.106.5:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@16.170.179.13:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
