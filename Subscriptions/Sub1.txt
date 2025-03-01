@@ -162,3 +162,5 @@ trojan://telegram-id-v2rayvpnchannel@18.135.90.225:22222?security=tls&sni=trojan
 trojan://telegram-id-privatevpns@15.236.5.175:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@FarahVPN🟣
 vless://1d2e5ab1-1bbd-491c-9e24-4fc41c4bd3a3@162.159.152.2:80?security=none&type=httpupgrade&host=revolutiontime-dailyconfigs.vigilante.ir&path=%2F%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%3Fed%3D2048#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-privatevpns@3.126.210.12:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@FarahVPN🟣
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.129:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@16.170.85.144:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
