@@ -122,3 +122,13 @@ vless://3d6ca650-df5c-43fd-bd69-01a335e1376a@173.245.59.132:2053?path=%2F%23tele
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.16.153.222:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-privatevpns@13.50.72.34:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-directvpn@13.61.103.164:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.69.44:80?path=tmevpnAndroid2%2F%3Fed%3D2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#🔥Join+Telegram:@FarahVPN🟣
+vless://1077c841-97d9-45a4-8663-7876e6b0f053@151.101.158.204:80?encryption=none&security=none&type=ws&host=melodebot.net&path=%2Fmelo%2Fws%3Fed%3D2048#🔥Join+Telegram:@FarahVPN🟣
+vless://1077c841-97d9-45a4-8663-7876e6b0f053@speedtest.net:80?encryption=none&security=none&type=ws&host=melodebot.net&path=%2Fmelo%2Fws%3Fed%3D2048#🔥Join+Telegram:@FarahVPN🟣
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@139.64.165.153:6697#🔥Join+Telegram:@FarahVPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@16.24.190.75:443#🔥Join+Telegram:@FarahVPN🟣
+vless://1077c841-97d9-45a4-8663-7876e6b0f053@zmaoz.faculty.ucdavis.edu:443?encryption=none&security=tls&sni=Zmaoz.Faculty.UcdavIS.Edu.&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=melodebot.net&path=%2Fmelo%2Fws%3Fed%3D2048#🔥Join+Telegram:@FarahVPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.106.228.132:990#🔥Join+Telegram:@FarahVPN🟣
+vless://1077c841-97d9-45a4-8663-7876e6b0f053@146.75.8.88:80?encryption=none&security=none&type=ws&host=melodebot.net&path=%2Fmelo%2Fws%3Fed%3D2048#🔥Join+Telegram:@FarahVPN🟣
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.202.82.172:8090#🔥Join+Telegram:@FarahVPN🟣
+trojan://Aimer@5.182.84.52:2083?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#🔥Join+Telegram:@FarahVPN🟣
