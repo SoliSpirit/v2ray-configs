@@ -74,3 +74,4 @@ vless://a1ca79aa-718c-4903-8540-e1699d08031a@151.101.192.155:80?security=none&ty
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.224:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.127:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.149:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@13.50.103.79:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
