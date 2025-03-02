@@ -75,11 +75,9 @@ ss://42f36835-730c-4ecc-9daf-20121ae7ba47@190.93.244.221:443?path=%2F%3Fed%3DMAR
 ss://08ef1330-8ffb-4001-a15e-96befc065c06@104.17.147.22:443?security=tls&encryption=none&type=grpc&sni=hq3.newretr432as.info#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-directvpn@18.135.50.1:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 trojan://e53ecb38-1974-4cca-b640-039e1f310710@104.21.37.43:443?security=tls&sni=app.soft10.ir&type=ws&host=app.soft10.ir&path=%2FrIQYIUFzZ8PfAZpXO7Ci&fp=chrome&alpn=http%2F1.1#🔥Join+Telegram:@FarahVPN🟣
-trojan://telegram-id-privatevpns@63.176.228.199:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
-trojan://f08d6a6b-a0b3-410e-a0ba-eae71b521904@sg008.421421.xyz:20230?allowInsecure=0&sni=421421.xyz#🔥Join+Telegram:@FarahVPN🟣
-trojan://5a81db08-7af3-49a4-b089-b7a5b2c24c38@sg005.421421.xyz:20230?allowInsecure=0&sni=421421.xyz#🔥Join+Telegram:@FarahVPN🟣
-trojan://telegram-id-privatevpns@52.47.213.22:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
-trojan://telegram-id-privatevpns@54.77.81.247:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@35.178.110.241:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@54.72.213.32:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://5a81db08-7af3-49a4-b089-b7a5b2c24c38@sg008.421421.xyz:20230?allowInsecure=0&sni=421421.xyz#🔥Join+Telegram:@FarahVPN🟣
 trojan://1e63e585ab2fef3adcc9ea75a62abc23@104.251.227.182:443?allowInsecure=1&sni=hezijiasuqi.com#🔥Join+Telegram:@FarahVPN🟣
 trojan://Vad3.123a%29asd1234-asdasd.asdazzS.123@43.154.83.213:443?allowInsecure=0&sni=xx.tc.hk.go.107421.xyz#🔥Join+Telegram:@FarahVPN🟣
 trojan://1e1f22c7-9cbf-4c02-a1eb-b47c7a8a915c@wb.kaiqsz.com:48291?allowInsecure=1&sni=mmbiz1.redapricotcloud.com#🔥Join+Telegram:@FarahVPN🟣
@@ -92,9 +90,11 @@ trojan://2cba4104747d49d18319e5ade1b93ab5@yourjobnavigator.online:443?allowInsec
 trojan://Vad3.123a)asd1234-asdasd.asdazzS.123@43.154.83.213:443?allowInsecure=0#🔥Join+Telegram:@FarahVPN🟣
 trojan://Vad3.123a%29asd1234-asdasd.asdazzS.123@43.154.83.213:443?allowInsecure=0#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-privatevpns@3.9.142.131:22222?allowInsecure=0#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@54.77.81.247:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 trojan://Vad3.123a)asd1234-asdasd.asdazzS.123@43.154.83.213:443?allowInsecure=0&sni=xx.tc.hk.go.107421.xyz#🔥Join+Telegram:@FarahVPN🟣
 trojan://abbacac-baac-bcaa-bacd-cbbaacacabbc@127.0.0.1:1080?security=tls&type=tcp#🔥Join+Telegram:@FarahVPN🟣
 trojan://ccbaaba-abac-baca-abcd-cbbaacaccbba@127.0.0.1:2080?security=tls&type=tcp#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-privatevpns@34.255.135.245:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@FarahVPN🟣
 trojan://V8Ggxghv8Z@104.21.16.1:2096?security=tls&sni=esna.twn24.ir&type=httpupgrade&host=esna.twn24.ir&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔥Join+Telegram:@FarahVPN🟣
 trojan://Aimer@121.180.184.145:50000?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+trojan://Aimer@172.67.157.40:2096?sni=agepu.ambercc.filegear-sg.me#🔥Join+Telegram:@FarahVPN🟣
