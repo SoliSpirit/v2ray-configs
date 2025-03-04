@@ -100,3 +100,7 @@ vless://7d7560b9-e893-4a3b-f07a-df8857511c0c@104.17.148.22:8880?type=httpupgrade
 vless://2f1f42c7-a88b-b495-5aef-c3d50e0b13ae@soft98.cz1.ir:1801?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=Soft98.cz1.ir&pbk=NIkzrtFz12CEOCBMQSdlYyrnOEbGYK7WGUx71_Ag5y4&sid=bd1c62340e4882dc&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----#🔥Join+Telegram:@FarahVPN🟣
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@wd.s8573.ir:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
 vless://cb6b2a66-cfbf-4ce7-a971-0ab8d95f1867@FASTSHOVPNtelegram.fast.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=FastShoVpn.TelegramChannel.com&type=ws#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@63.177.2.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://a2675977-cafa-46c7-a0b2-eb28571d7028@172.64.34.232:443?security=tls&sni=mqe79y.ulavpnx1.work&type=ws&host=mqe79y.ulavpnx1.work&path=/wss&alpn=http/1.1#🔥Join+Telegram:@FarahVPN🟣
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.157.92.165:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@15.188.103.233:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
