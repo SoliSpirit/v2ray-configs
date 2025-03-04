@@ -74,3 +74,5 @@ vless://890c9650-809e-445b-a4b0-2cd883e0de62@104.21.235.115:443?security=tls&sni
 vless://c72db571-2c94-4bfa-e546-c6eca9e43b91@151.101.66.219:80?type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#🔥Join+Telegram:@FarahVPN🟣
 trojan://5a81db08-7af3-49a4-b089-b7a5b2c24c38@18.183.140.157:20230?security=tls&sni=jp008.421421.xyz&allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.177:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
+vless://7da3c13f-289c-4549-8151-90a413d1784a@172.66.44.203:2053?security=tls&sni=mahDISERVeR-Al9.pAGES.DeV&type=ws&host=mahdiserver-al9.pages.dev&fp=chrome&alpn=h2,http/1.1#🔥Join+Telegram:@FarahVPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@131.145.8.128:443#🔥Join+Telegram:@FarahVPN🟣
