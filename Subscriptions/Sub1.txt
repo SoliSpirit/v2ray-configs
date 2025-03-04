@@ -178,3 +178,5 @@ vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@147.135.125.114:443?security=tls&en
 trojan://telegram-id-directvpn@13.42.173.80:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-privatevpns@3.74.92.89:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.158.15:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://Parsashonam-169@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#🔥Join+Telegram:@FarahVPN🟣
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@JOIN.MOSIV2.fastly80-3.hosting-ip.com:80?path=/MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2%3Fed%3D2560&host=join-----bede---mosiv2.ir&type=ws#🔥Join+Telegram:@FarahVPN🟣
