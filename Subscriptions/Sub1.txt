@@ -148,3 +148,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.199:8880?type=grpc#🔥
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@183.240.139.234:8443?security=tls&sni=official.taipeicitygovernment.co.ua&allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
 vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@185.170.166.242:8880?security=none&type=ws&host=photographipictureai.ir&path=%2FTelegram%40V2ray_Alpha#🔥Join+Telegram:@FarahVPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMDYyYTVjYS1hMzRlLTQ3YmYtOTgxMC1kYjkxMTg1ZjA3ZmM=@35.92.147.172:59019#🔥Join+Telegram:@FarahVPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowenlEUloxWG1OWGFhQ0FON0tFQThh@45.151.62.54:28825#🔥Join+Telegram:@FarahVPN🟣
+vless://90f994ed-0589-4db7-ac64-7162204e9d3c@maznet-join-bede.mahdijamkaran.online:6669?type=grpc&serviceName=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2048&authority=&security=none#🔥Join+Telegram:@FarahVPN🟣
+vless://8982b975-b1eb-44c1-b25c-d7024a724543@maznet-join-bede.mahdijamkaran.online:8880?type=grpc&serviceName=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D1024&authority=&security=none#🔥Join+Telegram:@FarahVPN🟣
