@@ -59,3 +59,11 @@ vless://b0280dc6-1e05-4d72-b948-a545cc32d2b3@172.67.73.163:80?security=none&type
 trojan://telegram-id-privatevpns@52.28.6.78:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-privatevpns@35.181.103.83:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@FarahVPN🟣
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@91.107.241.24:8880?mode=gun&security=&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
+trojan://e8012565-5b9f-373f-b1eb-e2445711e65c@129.154.49.249:15055?security=tls&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&type=grpc&serviceName=t.me/entryNET&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.68.38.206:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@13.36.254.80:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://64100981-1ed2-4866-ab3d-bcedf25014e0@www.speedtest.net:80?path=%2%3Fed%3D2048&security=&encryption=none&host=syyed.nobaarne.Space.&type=ws&sni=syyed.nobaarne.space%3A190#🔥Join+Telegram:@FarahVPN🟣
+vless://3a09bef5-4dc3-4c37-9519-d9de9943b641@hajlab.ucdavis.edu:80?path=%2F%40%3Fed%3D2048&security=&encryption=none&host=joinshhproxybedeeeeeee.ir&type=ws#🔥Join+Telegram:@FarahVPN🟣
+vless://668cdaea-565c-4855-ac81-b06d2d3bd381@151.101.2.165:80?path=%2F%&security=&encryption=none&host=Xpnxpnxpn.iR&type=ws#🔥Join+Telegram:@FarahVPN🟣
+vless://252fa885-6963-4f26-bd6d-6f8323323c9a@hajlab.ucdavis.edu:80?path=%2F%40%3Fed%3D2048&security=&encryption=none&host=joinshhproxybedeeeee.ir&type=ws&sni=hajlab.ucdavis.edu#🔥Join+Telegram:@FarahVPN🟣
+vless://4b5c993d-e80d-4096-8fb7-8fb22fbd1670@s3.nimhub.ir:2053?encryption=none&type=tcp&path=%2F&host=myket.ir,tamin.ir,rubika.ir,varzesh3.com,cafebazaar.ir&headerType=http&security=none#🔥Join+Telegram:@FarahVPN🟣
