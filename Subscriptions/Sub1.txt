@@ -43,3 +43,4 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?security=none&type
 trojan://176196e4-7cf7-4561-87a9-21a1b4e344be@52.76.64.36:443?security=tls&sni=de.liangyuandian.top&allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-directvpn@35.176.22.5:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@FarahVPN🟣
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.128:8880?security=&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
+vmess://eyJhZGQiOiAic3ZkMS5jZXphcmh1Yi5jb20iLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImNjNjFkZTc0LTMxMjYtNGQ5MS1hOTFkLTVmNjJkZWM3YTFjMyIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMjA4MyIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaFZQTlx1ZDgzZFx1ZGZlMyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
