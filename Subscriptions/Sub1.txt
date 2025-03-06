@@ -190,3 +190,4 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.127.115.86:22222?security=tls&sni
 vless://8d736fff-d18e-4371-a4bd-4ea0746209b8@108.162.193.81:443?security=tls&sni=1netiz.allgums.com&type=ws&host=1netiz.allgums.com&path=/wss&alpn=http/1.1#🔥Join+Telegram:@FarahVPN🟣
 vless://57145038-e3ab-41d3-8f8e-17464f772139@104.21.23.215:8443?security=tls&sni=1DA8C916-ROUnD-moon-05E0.SoReN-cybGU.WorKeRs.dEv&type=ws&host=1da8c916-round-moon-05e0.soren-cybgu.workers.dev&path=%2FSMrM9GWlFNtR14qy%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-privatevpns@54.155.51.165:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#🔥Join+Telegram:@FarahVPN🟣
