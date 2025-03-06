@@ -180,3 +180,10 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.87.233:22222?security=tls&sn
 trojan://telegram-id-v2rayvpnchannel@51.21.229.126:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-directvpn@13.60.102.111:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@125.227.86.44:2377#🔥Join+Telegram:@FarahVPN🟣
+vless://e024e153-3355-4d75-af78-3d93c1d997ca@104.17.148.22:8880?path=%2FFreeConfig%3Fed%3D2048%40jokerrvpnTelegram#🔥Join+Telegram:@FarahVPN🟣
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.220:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
+vless://3a857328-3b53-4333-85b2-a6f2aa22ceb7@37.27.15.167:2089?security=reality&encryption=none&pbk=bvEBes1y2n6327dEgJyZTR6Xz_EuyfLdkEX7DxWGFFg&host=jokerrvpnTelegram#🔥Join+Telegram:@FarahVPN🟣
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.201.217.33:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
+vless://3a857328-3b53-4333-85b2-a6f2aa22ceb7@23.88.62.209:2089?security=reality&encryption=none&pbk=bvEBes1y2n6327dEgJyZTR6Xz_EuyfLdkEX7DxWGFFg&host=jokerrvpnTelegram#🔥Join+Telegram:@FarahVPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE=@5.188.190.70:8080#🔥Join+Telegram:@FarahVPN🟣
+vless://83a92a9d-ff29-4bfe-b5a8-2d395293f64d@direct1.freequenceapp.com:2000?security=reality&encryption=none&pbk=tEq4IUmR4X5c2zc_7cFtymKxZaGLkOm3PQg2-NGBJwA&host=jokerrvpnJoinBadeChannel@JOKERRVPN&headerType=none&fp=chrome&spx=%2FjokerrvpnJoinBadeChannel@JOKERRVPN&type=tcp&sni=stackoverflow.com&sid=9be0f68444647ced#🔥Join+Telegram:@FarahVPN🟣
