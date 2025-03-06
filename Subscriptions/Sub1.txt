@@ -44,3 +44,12 @@ trojan://176196e4-7cf7-4561-87a9-21a1b4e344be@52.76.64.36:443?security=tls&sni=d
 trojan://telegram-id-directvpn@35.176.22.5:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@FarahVPN🟣
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.128:8880?security=&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
 vmess://eyJhZGQiOiAic3ZkMS5jZXphcmh1Yi5jb20iLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImNjNjFkZTc0LTMxMjYtNGQ5MS1hOTFkLTVmNjJkZWM3YTFjMyIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMjA4MyIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaFZQTlx1ZDgzZFx1ZGZlMyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.199:8880/?type=grpc&encryption=none#🔥Join+Telegram:@FarahVPN🟣
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.177:8880/?type=grpc&encryption=none#🔥Join+Telegram:@FarahVPN🟣
+vmess://eyJhZGQiOiAiMTQ5LjcuMTYuMTQ5IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJmYjNmYzI0My00Njk4LTQ5YzQtOGM0NC0wNDE1ZjY4YTRkMjUiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjM3MTAxIiwgInBzIjogIlx1ZDgzZFx1ZGQyNUpvaW4rVGVsZWdyYW06QEZhcmFoVlBOXHVkODNkXHVkZmUzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
+vless://19282dc7-eed7-5656-b489-93b5ddf266c9@fastly.net:80/?type=ws&encryption=none&host=Join-shokhmiplus.ir&path=%2F#🔥Join+Telegram:@FarahVPN🟣
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.222:8880/?type=grpc&encryption=none#🔥Join+Telegram:@FarahVPN🟣
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.215:8880/?type=grpc&encryption=none#🔥Join+Telegram:@FarahVPN🟣
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.204:8880/?type=grpc&encryption=none#🔥Join+Telegram:@FarahVPN🟣
+vless://68665e7f-31c1-49f4-9347-3e18c18e024b@138.68.131.11:1615/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=refersion.com&fp=chrome&security=reality&pbk=JGnVRUSzYfMg3pwJKIGO84Lyo1_nalQe21b3EG0JiV8&sid=#🔥Join+Telegram:@FarahVPN🟣
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.205:8880/?type=grpc&encryption=none#🔥Join+Telegram:@FarahVPN🟣
