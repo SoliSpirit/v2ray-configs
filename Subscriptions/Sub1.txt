@@ -35,3 +35,8 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.191.12:8880?mode=gun&securit
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.202.46.215:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔥Join+Telegram:@FarahVPN🟣
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.20.129.2:80?path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-privatevpns@54.246.171.200:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://telegram:v2rayvpn___official@upgrade.bia2bax.shop:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=upgrade.bia2bax.shop&type=ws#🔥Join+Telegram:@FarahVPN🟣
+vless://telegram:v2rayvpn___official@upgrade.bia2bax.shop:8080?mode=gun&security=none&encryption=none&type=grpc&serviceName=upgrade.bia2bax.shop#🔥Join+Telegram:@FarahVPN🟣
+vless://420f44ae-ff46-47c3-ba43-36c9c61812ef@91.107.131.168:443?security=tls&sni=dd11.asalemaraghe.ir&type=ws&host=dd11.asalemaraghe.ir&path=/&fp=chrome&alpn=h3,h2,http/1.1#🔥Join+Telegram:@FarahVPN🟣
+trojan://6d898085-bf6a-449b-9763-0073d4dc2ce0@104.21.26.69:443?security=tls&sni=BoSTON03.862224.ggFf.neT&type=ws&host=boston03.862224.ggff.net&path=%2FQ3cz2AWTPMCtDGV1L6R1Jz18eIUw&alpn=http%2F1.1#🔥Join+Telegram:@FarahVPN🟣
+vless://b529971c-f46a-4eb9-a02d-e39cc3e83cf5@91.107.176.168:443?security=tls&sni=dd8.transitkala.com&type=ws&host=dd8.transitkala.com&path=%2F#🔥Join+Telegram:@FarahVPN🟣
