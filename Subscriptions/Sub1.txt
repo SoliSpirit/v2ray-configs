@@ -151,3 +151,9 @@ trojan://telegram-id-privatevpns@52.213.196.126:22222?security=tls&sni=trojan.bu
 trojan://192a5fc9-2baa-4043-8655-d840d370cb86@13.229.160.122:443?security=tls&sni=jp.liangyuandian.top&allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
 vless://Parsashonam-171@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#🔥Join+Telegram:@FarahVPN🟣
 vless://Parsashonam-171@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#🔥Join+Telegram:@FarahVPN🟣
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.159.145.209:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@52.28.247.65:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.22.144:8880?encryption=none&security=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
+vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@www.speedtest.net:443?encryption=none&security=tls&sni=pHOTOgrApHipiCTureaI.IR&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=photographipictureai.ir&path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560#🔥Join+Telegram:@FarahVPN🟣
+vless://b44067d6-8476-4135-9807-5fc1819e533c@45.76.46.168:3032?encryption=none&security=reality&sni=refersion.com&fp=chrome&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&type=tcp&headerType=none#🔥Join+Telegram:@FarahVPN🟣
+vless://e5065d53-e95b-4dbd-cf7a-e3d323aa1093@walterwhite.thisisbigbang.ir:443?encryption=none&security=reality&sni=refersion.com&fp=chrome&pbk=P_FOKz_hYDyi1FwtsHozm0P0wNXsBrLyjt5x6Ke_3jg&type=tcp&headerType=none#🔥Join+Telegram:@FarahVPN🟣
