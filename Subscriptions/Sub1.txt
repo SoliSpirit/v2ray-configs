@@ -110,3 +110,4 @@ vless://e30f3b28-c233-460c-ebcc-f71cb2494d9e@104.17.148.22:2082?security=none&ty
 vless://6d898085-bf6a-449b-9763-0073d4dc2ce0@104.21.48.1:443?security=tls&sni=bostOn01.890614.XyZ&type=ws&host=boston01.890614.xyz&path=%2F1wqm4O6ukd1L6R1Jz18eIUw&fp=chrome&alpn=http%2F1.1#🔥Join+Telegram:@FarahVPN🟣
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.170.137.226:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔥Join+Telegram:@FarahVPN🟣
 vless://ae1aafaf-9987-40c7-b626-0b1656e89b72@104.21.69.44:8443?security=tls&sni=vip.hvitrin.ir&type=ws&host=vip.hvitrin.ir&path=/&fp=chrome&alpn=h3,h2,http/1.1#🔥Join+Telegram:@FarahVPN🟣
+trojan://58dcd460-65df-47b1-b062-517df30bef29@54.169.8.253:443?security=tls&sni=sg.liangyuandian.top&allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
