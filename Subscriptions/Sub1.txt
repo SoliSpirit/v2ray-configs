@@ -139,3 +139,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.220.48.71:22222?security=tls&sni
 vless://22f12f46-7952-4336-b054-6702e3875465@212.192.14.50:443?security=reality&sni=google.com&type=tcp&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c#🔥Join+Telegram:@FarahVPN🟣
 vless://e24550c4-eb54-4f0f-bcaf-e047c0d67327@172.64.35.157:443?security=tls&sni=444sly.payperflower.com&type=ws&host=444sly.payperflower.com&path=/wss&alpn=http/1.1#🔥Join+Telegram:@FarahVPN🟣
 vless://4cbb71d8-4262-43af-8b4f-e126b794ff8d@104.26.4.179:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔥Join+Telegram:@FarahVPN🟣
+vless://af94594c-b048-4050-adcb-cf061c3155bd@5.56.133.42:443?security=none&sni=neshan.org&type=tcp&host=neshan.org&path=/&headerType=http#🔥Join+Telegram:@FarahVPN🟣
+trojan://cf13832b-4ca0-4fee-8e85-2b2411104e75@35.91.106.104:20230?security=tls&sni=421421.xyz#🔥Join+Telegram:@FarahVPN🟣
+vless://3dc9015f-20cb-42d6-adab-55ce831bae61@172.67.167.35:2087?security=tls&sni=takdm.aleppo-amrikayekesafat.org&type=ws&host=takdm.aleppo-amrikayekesafat.org&path=%2Fmorano#🔥Join+Telegram:@FarahVPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.90.63.193:990#🔥Join+Telegram:@FarahVPN🟣
