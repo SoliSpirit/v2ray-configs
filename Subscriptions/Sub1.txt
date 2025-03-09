@@ -148,3 +148,8 @@ vless://a6118af8-9450-445a-8b27-256774c86c0a@104.16.143.237:2096?security=tls&sn
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.34.59.136:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔥Join+Telegram:@FarahVPN🟣
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.153:2095?security=none&type=ws&host=redw.pooriam.ir#🔥Join+Telegram:@FarahVPN🟣
 vless://41956a47-8432-4a3f-b70d-a54fc7efd6b8@104.18.14.19:8080?security=none&type=ws&host=0223.jq2ter91.workers.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@3.73.157.246:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@FarahVPN🟣
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.48:2095?security=none&type=ws&host=redw.pooriam.ir#🔥Join+Telegram:@FarahVPN🟣
+vless://3dc9015f-20cb-42d6-adab-55ce831bae61@104.21.3.52:2087?security=tls&sni=vqscy.bamako-hipersonictodolist.info&type=ws&host=vqscy.bamako-hipersonictodolist.info&path=%2Fmorano#🔥Join+Telegram:@FarahVPN🟣
+vless://ec635f40-a46b-46ef-afbe-f5a11fd89909@151.101.128.155:80?security=none&type=ws&host=vipfast_7.com#🔥Join+Telegram:@FarahVPN🟣
+vless://42d21c37-ec7a-43cc-a2d9-f0d91cd89a1c@151.101.66.228:80?type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#🔥Join+Telegram:@FarahVPN🟣
