@@ -97,3 +97,6 @@ vless://a93bf8ef-0b48-4c49-95ff-03d20d211025@trv4-vip.digitalldns.com:6832?secur
 vless://a93bf8ef-0b48-4c49-95ff-03d20d211025@usav4-vip.digitalldns.com:4020?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#🔥Join+Telegram:@FarahVPN🟣
 vless://a93bf8ef-0b48-4c49-95ff-03d20d211025@flv4-vip.digitalldns.com:6587?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#🔥Join+Telegram:@FarahVPN🟣
 vless://a93bf8ef-0b48-4c49-95ff-03d20d211025@uaev4-vip.digitalldns.com:9314?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@16.170.58.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@18.175.79.76:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.171.12.208:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔥Join+Telegram:@FarahVPN🟣
