@@ -53,3 +53,9 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.124.52.137:22222?path=/telegram-c
 trojan://auto@172.66.45.2:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&host=dcf741e8.epeius-2gy.pages.dev&fp=randomized&type=ws&sni=dcf741e8.epeius-2gy.pages.dev#🔥Join+Telegram:@FarahVPN🟣
 vless://f3562b04-2f2b-433a-80b4-45f60d659004@172.67.187.251:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=925tg.3gnc3sjz.workers.dev&type=ws#🔥Join+Telegram:@FarahVPN🟣
 vless://9af9f8b3-637c-5d12-9d18-943c095635c9@eevpnandroid2.69.mu:2086?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=vless-grpc#🔥Join+Telegram:@FarahVPN🟣
+vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@104.21.96.1:443?path=%2F3um9NK8jwisKz35E%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=photographipictureai.ir&fp=randomized&type=ws&sni=pHOTOgrApHipiCTureaI.IR#🔥Join+Telegram:@FarahVPN🟣
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=redw.pooriam.ir&fp=chrome&type=ws&sni=REDw.pOOriam.Ir#🔥Join+Telegram:@FarahVPN🟣
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?security=none&type=ws&host=301.pooriam.ir&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2503#🔥Join+Telegram:@FarahVPN🟣
+vless://73c732f2-d435-4197-9f33-0d7c1f47d3a9@13.39.242.151:8443?security=reality&sni=zula.ir&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔥Join+Telegram:@FarahVPN🟣
+vless://8c129b7d-c87f-42d7-bdac-55dfbfe88534@104.21.22.88:2082?security=none&type=ws&host=maHdi-hEctorR.VISOWe1371.wOrkERs.deV&path=%2FTubTk4YF94GzQjJH%3Fed%3D2560#🔥Join+Telegram:@FarahVPN🟣
+vless://e6962f19-7f92-4e68-9b0c-f183493f1825@62.60.147.202:2053?security=none&type=tcp&host=myket.ir,tamin.ir,rubika.ir,varzesh3.com,cafebazaar.ir&path=/&headerType=http#🔥Join+Telegram:@FarahVPN🟣
