@@ -151,3 +151,4 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@join.mosiv2.fastly80-3.hosting-ip.c
 vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.101:443/?type=tcp&encryption=none&security=tls&sni=147135001195.sec22org.com#🔥Join+Telegram:@FarahVPN🟣
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.24.46:8880/?type=grpc&encryption=none#🔥Join+Telegram:@FarahVPN🟣
 vless://ca7d168f-10f8-49f2-89f6-797707103905@freegate.hopto.org:46163?encryption=none&security=none&type=ws&host=telewebion.com&path=%2Ffgkdgfkhgag%3Fed%3D2048#🔥Join+Telegram:@FarahVPN🟣
+trojan://030ba667-fde3-498d-99bb-9a0187519dcf@zfa04.333210.xyz:40380?security=tls&headerType=&type=tcp&sni=cdn.alibaba.com#🔥Join+Telegram:@FarahVPN🟣
