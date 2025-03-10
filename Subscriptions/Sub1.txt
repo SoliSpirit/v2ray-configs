@@ -29,3 +29,11 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.125:8880?mode=gun&securi
 vmess://eyJhZGQiOiAiMTA0LjE5LjE1MC4xMCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJtY2kubXRuLmlyLmNvbS5vcmcubmV0Lm9tMjA5Lm11c2ljZmExMjMuaXIuIiwgImlkIjogIjk0ZjMzMmIwLWM1ZDMtNDUzMS1hMWQ2LTZlNjM1OGNjNmM3MiIsICJuZXQiOiAiaHR0cHVwZ3JhZGUiLCAicGF0aCI6ICIvZDNkM0xtbHlZVzVvYjNOMExtTnZiUT09P2VkPTI1NjAiLCAicG9ydCI6ICIyMDk1IiwgInBzIjogIlx1ZDgzZFx1ZGQyNUpvaW4rVGVsZWdyYW06QEZhcmFoVlBOXHVkODNkXHVkZmUzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.201.217.33:8880?mode=gun&security=&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.15.85:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#🔥Join+Telegram:@FarahVPN🟣
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.199:8880/?type=grpc&encryption=none#🔥Join+Telegram:@FarahVPN🟣
+vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@freakconfigs35.usecharge.ir:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=mods.lnmarketplace.net&alpn=h2&fp=randomized#🔥Join+Telegram:@FarahVPN🟣
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@138.2.81.71:443?security=tls&sni=147135004002.sec20org.com&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.224:8880/?type=grpc&encryption=none#🔥Join+Telegram:@FarahVPN🟣
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.222:8880/?type=grpc&encryption=none#🔥Join+Telegram:@FarahVPN🟣
+trojan://Aimer@46.254.92.191:443?security=tls&sni=agepw.ambercc.filegear-sg.me&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+vless://Parsashonam-187@185.146.173.39:8880/?type=httpupgrade&encryption=none&host=Search.DigiKala.CYoU.&path=%2F#🔥Join+Telegram:@FarahVPN🟣
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.201.217.33:8880/?type=grpc&encryption=none#🔥Join+Telegram:@FarahVPN🟣
