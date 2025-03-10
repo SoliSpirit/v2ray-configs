@@ -44,3 +44,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@135.181.192.108:8880?mode=gun&secur
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@135.181.43.75:8880?mode=gun&security=none&encryption=none&authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=grpc#🔥Join+Telegram:@FarahVPN🟣
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.201.217.33:8880?mode=gun&security=none&encryption=none&authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=grpc#🔥Join+Telegram:@FarahVPN🟣
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.217.8.216:8880?mode=gun&security=none&encryption=none&authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=grpc#🔥Join+Telegram:@FarahVPN🟣
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.177.174.130:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔥Join+Telegram:@FarahVPN🟣
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk%3D@217.182.198.219:9102#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@18.134.20.150:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
