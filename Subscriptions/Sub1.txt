@@ -20,3 +20,7 @@ vless://54d1fbcf-4cbe-414d-8e8b-a0fe50917cc7@104.17.147.22:2086?security=none&ty
 trojan://telegram-id-directvpn@13.53.162.121:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@FarahVPN🟣
 vless://2eacdff2-ff2f-4e05-9ffd-553e0c9f97e7@85.9.125.146:443?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🔥Join+Telegram:@FarahVPN🟣
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#🔥Join+Telegram:@FarahVPN🟣
+vless://0724d537-8882-48c4-9843-77f5a160f852@maznet-join-bede.mahdijamkaran.online:8880?security=&encryption=none&type=grpc&serviceName=%2F%%3Fed%3D1024#🔥Join+Telegram:@FarahVPN🟣
+vless://ed3f6824-b440-4f09-b289-daf722ee23f9@maznet-join-bede.mahdijamkaran.online:6669?security=&encryption=none&type=grpc&serviceName=%2F%%3Fed%3D2048#🔥Join+Telegram:@FarahVPN🟣
+vless://f0a7373b-22aa-45da-99d7-3a4e776c4ee6@hajlab.ucdavis.edu:80?path=%2F%40%3Fed%3D2048&security=&encryption=none&host=joinshhproxybedeeeee.ir&type=ws&sni=hajlab.ucdavis.edu#🔥Join+Telegram:@FarahVPN🟣
+vless://4b90bae2-4394-4745-b4f9-3e3bae01aac0@hajlab.ucdavis.edu:80?path=%2F%40%3Fed%3D2048&security=&encryption=none&host=joinshhproxybedeeeeeee.ir&type=ws#🔥Join+Telegram:@FarahVPN🟣
