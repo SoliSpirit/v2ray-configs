@@ -169,3 +169,11 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.3.233:8880?mode=gun&security=
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.217.214.119:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.90.238.93:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.150:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.9.201.251:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@18.168.29.106:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+ss://YWVzLTI1Ni1nY206UEdGMlRHVUNIUUJDNUlQNQ%3D%3D@156.231.104.26:18016#🔥Join+Telegram:@FarahVPN🟣
+vless://a64ad0ab-77e3-40b3-9139-6a4b35c9ed52@mehdi1.vact.ir:443?type=grpc&serviceName=MTMVPN_PROXY_MTM_MTMVPN_PROXY_MTM_MTMVPN_PROXY_MTM_MTMVPN&authority=&security=reality&pbk=v7fGRbxsgQopXYEGvrqzJ7R4_C4I8YhA1gh9GthWKx0&fp=chrome&sni=www.cdn77.com&sid=04480b&spx=%2F#🔥Join+Telegram:@FarahVPN🟣
+trojan://cd41b9d7-df15-46ad-a778-257b0851525a@74.226.136.204:443?security=tls&sni=sg02.trojanyyds.xyz&type=tcp&allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
+trojan://cf13832b-4ca0-4fee-8e85-2b2411104e75@54.201.148.167:20230?security=tls&sni=421421.xyz#🔥Join+Telegram:@FarahVPN🟣
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@151.101.2.49:80?security=none&type=ws&host=Join--E-L-i-V-2-R-A-Y.net&path=Telegram🇨🇳+@WangCai2#🔥Join+Telegram:@FarahVPN🟣
+trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@20.2.18.167:443?security=tls&sni=jp.mjt001.com#🔥Join+Telegram:@FarahVPN🟣
