@@ -5,3 +5,6 @@ trojan://telegram-id-privatevpns@54.170.124.139:22222?security=tls&alpn=http/1.1
 vless://bc5c6f15-ffc6-43ff-8375-bb91275fd38e@151.101.64.155:80?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=none&encryption=none&host=2.wexer-rih.ir&type=ws#🔥Join+Telegram:@FarahVPN🟣
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.254.255.34:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-directvpn@3.124.95.140:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://bc5c6f15-ffc6-43ff-8375-bb91275fd38e@151.101.64.155:80?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=&encryption=none&host=2.wexer-rih.ir&type=ws#🔥Join+Telegram:@FarahVPN🟣
+vless://09e61488-6297-4251-b03d-bbb995126360@151.101.64.155:80?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=&encryption=none&host=1.wexer-rih.ir&type=ws#🔥Join+Telegram:@FarahVPN🟣
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?path=%2Ftelegram%40mtmvpn%2F%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#🔥Join+Telegram:@FarahVPN🟣
