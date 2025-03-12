@@ -13,3 +13,7 @@ vless://bb29c155-d55e-4c07-8403-0581e384f7a2@193.227.99.0:2087/?type=grpc&encryp
 vless://95267673-3bee-486b-b591-59baa689bb7e@185.146.173.63:8443/?type=ws&encryption=none&host=bili4.blancerconfiguren.info&path=%2F&security=tls&sni=bili4.blancerconfiguren.info#🔥Join+Telegram:@FarahVPN🟣
 vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.22.57.77:443/?type=ws&encryption=none&host=nautica.foolvpn.me&path=%2F47.89.39.186-39251&security=tls&sni=nautica.foolvpn.me#🔥Join+Telegram:@FarahVPN🟣
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.20.129.2:80/?type=ws&encryption=none&host=a.xn--i-sx6a60i.us.kg.&path=%2F%3Fed%3D2560#🔥Join+Telegram:@FarahVPN🟣
+vless://06467192-b96c-4ae9-a3b7-4d713b918e99@188.114.97.3:8080?path=%2Fadmin&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=free.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li&fp=random&type=ws&sni=free.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li#🔥Join+Telegram:@FarahVPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@18.132.237.75:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@51.44.99.210:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
