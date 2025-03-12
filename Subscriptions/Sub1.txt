@@ -170,3 +170,5 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.3.233:8880?encryption=none&se
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@135.181.43.75:8880?encryption=none&security=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozSW80V2hvYTZpa1dtZWNWcFA3cTM1@81.19.141.45:443#🔥Join+Telegram:@FarahVPN🟣
 vless://5125eabf-8d91-4ed6-9d96-1ecbd0644e7f@104.21.80.1:443?security=tls&sni=usa1sni.vpn-instagram.com&type=ws&path=/&fp=chrome#🔥Join+Telegram:@FarahVPN🟣
+vless://9d9787be-736a-47f0-82a9-8eb4bf06be17@188.114.97.113:443?type=ws&encryption=none&security=tls&path=%2Fv6445828875&sni=m236.inaonehorseopensleigh.com&host=m236.inaonehorseopensleigh.com#🔥Join+Telegram:@FarahVPN🟣
+vmess://eyJhZGQiOiAiMTcyLjY3LjE3MC4xMDMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICJoMyIsICJmcCI6ICJjaHJvbWUiLCAiaG9zdCI6ICJnbHdlaWRmLnNicyIsICJpZCI6ICI3NjIyMWJmYi1lOTJmLTRlODAtODFjNS02ZmU0OGY1MGFjMGIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt3cyIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaFZQTlx1ZDgzZFx1ZGZlMyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiZ2x3ZWlkZi5zYnMiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
