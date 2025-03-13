@@ -71,3 +71,8 @@ vless://a3f9d9b6-3ae4-4c47-9dbf-33b0a5c7f1a5@195.85.59.161:2082?type=ws&host=021
 vless://a8f095f1-3663-40f9-be12-2c16ae3e86ba@91.107.176.168:2096?security=tls&sni=mJe.nimhub.ir&type=ws&host=mJe.nimhub.ir&path=/&fp=random&alpn=h2,http/1.1#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-privatevpns@18.130.196.100:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@FarahVPN🟣
 trojan://2155145a-b1b5-443a-8977-670f6bd10f02@13.115.226.135:50001?security=tls&sni=bgroup.node1.t.nodelist-airport.com&allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
+vless://cdba56b7-82c5-449f-b5ef-86bf02c9797e@65.21.181.218:443?mode=gun&security=reality&encryption=none&authority=%40jokerrvpnTelegram#🔥Join+Telegram:@FarahVPN🟣
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.20.129.2:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#🔥Join+Telegram:@FarahVPN🟣
+ss://cmM0LW1kNTplZmFuY2N5dW4=@163.177.58.200:8773#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@18.168.68.7:22222?security=tls&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://27fdbffe-67a6-4012-fa3e-8ab349ec0a91@81.31.250.218:43851?security=none&type=ws&path=%2F#🔥Join+Telegram:@FarahVPN🟣
