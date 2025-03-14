@@ -64,3 +64,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.184.67:22222?security=tls&sni
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.20.129.2:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#🔥Join+Telegram:@FarahVPN🟣
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@188.114.97.155:80?path=%2F&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=powerpow.wfft.ir&fp=random&type=ws&sni=day.wfft.ir#🔥Join+Telegram:@FarahVPN🟣
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@185.193.30.172:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=powerpow.wfft.ir&fp=random&type=ws&sni=powerpow.wfft.ir#🔥Join+Telegram:@FarahVPN🟣
+vless://9d9787be-736a-47f0-82a9-8eb4bf06be17@188.114.97.113:443?path=%2Fv6445828875&security=tls&encryption=none&host=m236.inaonehorseopensleigh.com&type=ws&sni=m236.inaonehorseopensleigh.com#🔥Join+Telegram:@FarahVPN🟣
+vless://tel%3A%3Av2rayng_76@upgrade.bia2bax.shop:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=upgrade.bia2bax.shop&type=ws#🔥Join+Telegram:@FarahVPN🟣
+vless://tel%3A%3Av2rayng_76@upgrade.bia2bax.shop:8080?mode=gun&security=none&encryption=none&type=grpc&serviceName=upgrade.bia2bax.shop#🔥Join+Telegram:@FarahVPN🟣
