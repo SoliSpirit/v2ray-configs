@@ -10,3 +10,5 @@ vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@104.17.148.22:8443?security=tls&sni
 vless://5cc6c6f9-01d1-4858-ae2e-6819f0180055@mehdi3.vact.ir:443/?type=grpc&serviceName=Telegram-MTMVPN-telegram-MTMVPN&authority=&security=reality&pbk=tGXAl9pU7hafPTs_zWo_mtcJ3Uj-7R3QiN-d_gTXIwY&fp=chrome&sni=www.cdn77.com&sid=4704370842ec&spx=%2F#🔥Join+Telegram:@FarahVPN🟣
 vless://2324e2c7-2502-456b-95ef-952b371b9e91@91.92.40.78:2070?type=tcp&security=none#🔥Join+Telegram:@FarahVPN🟣
 vless://c13fa928-c02c-4073-bc51-c9326ecc459b@91.92.40.78:2070?type=tcp&security=none#🔥Join+Telegram:@FarahVPN🟣
+trojan://f08d6a6b-a0b3-410e-a0ba-eae71b521904@18.182.63.94:20230?security=tls&sni=421421.xyz#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@52.47.97.39:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@FarahVPN🟣
