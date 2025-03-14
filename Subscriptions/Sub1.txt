@@ -196,3 +196,4 @@ vless://3e66bc81-db55-49ff-aca6-bca946627c70@wWw.Zula.Ir:443?path=%2Fwss9000%3Fe
 vless://076f5d44-ef56-41c8-828e-3ebbddf9d831@91.92.40.78:2070?type=tcp&security=none#🔥Join+Telegram:@FarahVPN🟣
 vless://95701d09-280b-478f-9812-ae2947cc1b1e@5.161.144.111:443?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@FarahVPN🟣
 trojan://%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven@ru2.asc-sam.ir:8443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&host=ru2.asc-sam.ir&headerType=http&fp=random&type=tcp&sni=ru2.asc-sam.ir#🔥Join+Telegram:@FarahVPN🟣
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.90.238.93:8880/?type=grpc&encryption=none&flow=#🔥Join+Telegram:@FarahVPN🟣
