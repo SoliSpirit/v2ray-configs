@@ -146,3 +146,6 @@ vless://db3e33f8-3aac-41f7-b68a-ee2f7d73f874@5.75.192.237:28028?type=tcp&path=%2
 trojan://telegram-id-directvpn@13.49.186.184:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.199:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🔥Join+Telegram:@FarahVPN🟣
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@Free3.plantgreen.ir:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.181:8080#🔥Join+Telegram:@FarahVPN🟣
+vless://bf81d55e-14f8-4346-86bd-0cf055e06213@91.107.175.59:443?security=reality&encryption=none&pbk=lBO2wWodH-T20XaDjHIjEDnmJbzyc-bh1luwP_R_w1w&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.digicert.com&sid=eae09d9418#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@13.61.101.94:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
