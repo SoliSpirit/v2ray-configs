@@ -52,3 +52,5 @@ vless://c704fbfb-f6d5-438a-b8d7-5ee164565de8@151.101.64.155:80?security=none&typ
 trojan://telegram-id-privatevpns@34.254.148.242:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 vless://c7462764-bc7e-4a36-af7c-d4c5b314bc4e@www.speedtest.net:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.lightning6.ip-ddns.com.&type=ws#🔥Join+Telegram:@FarahVPN🟣
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?path=%2FLwW5jwrnymnOdqki%3Fed%3D2560&security=&encryption=none&host=redw.pooriam.ir&type=ws#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@13.61.228.126:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@16.171.189.71:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
