@@ -113,3 +113,4 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.95:2095?type=ws&host=red
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?security=none&type=ws&host=301.pooriam.ir&path=%2FTelegram%40V2ray_Alpha#🔥Join+Telegram:@FarahVPN🟣
 vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80?type=ws&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev&path=/?ed%3D2560#🔥Join+Telegram:@FarahVPN🟣
 trojan://bv4kWm6T3P8Y@139.84.197.130:443?sni=ash.b495fdd7-be5f-4409-99b3-f725f6bca02e.kailib.com#🔥Join+Telegram:@FarahVPN🟣
+trojan://665c944d-047d-4659-80d5-3eaac70241a9@164.90.168.75:443?security=tls&sni=de2-full.privateip.net&allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
