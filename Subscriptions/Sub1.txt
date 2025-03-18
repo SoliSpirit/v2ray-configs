@@ -142,3 +142,4 @@ vless://54694a33-a8dc-47dd-bc38-acd3971e0055@15.204.151.84:443?security=tls&alpn
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.125.164.39:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔥Join+Telegram:@FarahVPN🟣
 ss://YWVzLTI1Ni1nY206SFJSV0ZGU0JKTTlKWThROA%3D%3D@206.245.211.16:19006#🔥Join+Telegram:@FarahVPN🟣
 vless://a84a152f-e108-42a0-bc49-d4f50c5f4d0b@zula.ir:8443?path=%2F%40shopcar%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=shoper.shawarmabestz.ir&fp=chrome&type=httpupgrade&sni=shoper.shawarmabestz.ir#🔥Join+Telegram:@FarahVPN🟣
+vless://95701d09-280b-478f-9812-ae2947cc1b1e@65.109.180.60:443?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@FarahVPN🟣
