@@ -101,3 +101,5 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.163:2095/?type=ws&encryp
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.82:80/?type=ws&encryption=none&host=301.pooriam.ir#🔥Join+Telegram:@FarahVPN🟣
 vless://473c2217-677d-58c8-87df-a75de10de1ad@vpnandroid2_tr.home.kg:8880/?type=grpc&encryption=none&serviceName=vless-grpc#🔥Join+Telegram:@FarahVPN🟣
 vless://d49b7b53-6697-4165-afb6-dce05a65a3c1@91.107.152.229:443/?type=tcp&encryption=none&sni=eset.com&fp=chrome&security=reality&pbk=Xy0AQpRkBFWIWzRiG1czWTXok98URMhRt1xBE7jiTWw&sid=2f#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@51.21.97.139:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@16.171.247.189:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
