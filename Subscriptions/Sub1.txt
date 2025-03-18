@@ -66,3 +66,5 @@ vless://d9285cff-5443-4f6b-a004-4c36ef0a6faa@104.17.148.22:2082?security=none&ty
 trojan://0bfa2050-b165-4156-859c-70f36d300dce@52.195.175.197:20230?security=tls&sni=jp008.421421.xyz&allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2Ftelegram-id-%40MTMVPN%2F%3Fed%3D2503&security=none&encryption=none&host=301.pooriam.ir&type=ws#🔥Join+Telegram:@FarahVPN🟣
 vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@104.21.1.12:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=photographipictureai.ir&fp=randomized&type=ws&sni=pHOTOgrApHipiCTureaI.IR#🔥Join+Telegram:@FarahVPN🟣
+trojan://5a81db08-7af3-49a4-b089-b7a5b2c24c38@13.114.91.101:20230?security=tls&sni=jp007.421421.xyz&allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@108.128.8.151:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@FarahVPN🟣
