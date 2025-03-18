@@ -178,3 +178,8 @@ vless://2cbb1fa9-15ac-43f3-a1f7-78d4538013eb@104.19.54.50:8080?type=ws&host=VPNC
 vless://c625b523-6ee8-47f0-a3fa-b3ed4dae7031@mJe.nimhub.ir:2096?type=ws&host=mJe.nimhub.ir&path=/&security=tls&fp=random&sni=mJe.nimhub.ir&alpn=h2,http/1.1#🔥Join+Telegram:@FarahVPN🟣
 vless://70d25d79-4c92-4cb2-9e66-90b73677f64d@hajlab.ucdavis.edu:80?type=ws&host=joinshhproxybedeeeeeee.ir&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048#🔥Join+Telegram:@FarahVPN🟣
 vless://07631ec4-27ca-4d24-baeb-a633bacc7270@mJe.nimhub.ir:2096?type=ws&host=mJe.nimhub.ir&path=/&security=tls&fp=random&sni=mJe.nimhub.ir&alpn=h2,http/1.1#🔥Join+Telegram:@FarahVPN🟣
+vless://5efcfc72-47d7-4f7a-8da3-da18dfe44510@185.224.3.213:56096?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+vless://da48223d-1ee6-47d7-af24-dff761579daa@45.135.194.45:10769?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@13.41.231.150:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.227.122:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@13.39.181.164:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
