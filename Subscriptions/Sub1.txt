@@ -163,3 +163,4 @@ vless://49d4b99d-7d99-416a-9778-2c75d79100bb@172.66.47.92:443?path=%2FTelegram-m
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@173.244.56.6:443#🔥Join+Telegram:@FarahVPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMSTRvYk9FSURMekRqZDd4WWxoaFRK@86.104.75.103:49264#🔥Join+Telegram:@FarahVPN🟣
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2FTelegram-mtmvpn%2F%3Fed%3D2560&security=none&encryption=none&host=301.pooriam.ir&type=ws#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@52.48.226.90:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
