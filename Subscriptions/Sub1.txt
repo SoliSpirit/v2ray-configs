@@ -42,3 +42,9 @@ trojan://telegram-id-privatevpns@3.123.117.245:22222?security=tls&alpn=http/1.1&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3aWw5OGJBSmRRUzBzM0RI@admin.c4.havij.co:443#🔥Join+Telegram:@FarahVPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEclQ2aFFWTnY1eFdJVWxz@admin.c4.havij.co:443#🔥Join+Telegram:@FarahVPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFR0Y0OTdIckJickhmUUIx@admin.c4.havij.co:443#🔥Join+Telegram:@FarahVPN🟣
+vless://b76fbe55-0118-54d7-85eb-c6e4a6b2e737@5.252.23.173:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@18.132.251.252:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTc3ZWE1ZjhlZmQzYzI3@57.128.29.173:11106#🔥Join+Telegram:@FarahVPN🟣
+vless://7c05c995-c00b-44d3-8b1b-e82640159817@62.60.198.78:51487?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+vless://tel:::::::v2rayng_76@upgrade.bia2bax.shop:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=upgrade.bia2bax.shop&type=ws#🔥Join+Telegram:@FarahVPN🟣
+vless://tel:::::::v2rayng_76@upgrade.bia2bax.shop:8080?mode=gun&security=none&encryption=none&type=grpc&serviceName=upgrade.bia2bax.shop#🔥Join+Telegram:@FarahVPN🟣
