@@ -74,13 +74,9 @@ trojan://telegram-id-privatevpns@18.199.25.106:22222?security=tls&alpn=http/1.1&
 trojan://aaccbab-acab-baac-abcd-bcabbacbaacc@127.0.0.1:1080?security=tls&type=tcp#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-directvpn@18.169.81.26:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-privatevpns@3.9.150.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
-trojan://696cfe79@192.9.132.79:443?allowInsecure=1&sni=sje.5216818.xyz#🔥Join+Telegram:@FarahVPN🟣
-trojan://telegram-id-privatevpns@63.177.144.200:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
-trojan://85950277-f447-48f0-9ead-aaf6d5ff3cad@107.172.132.248:443?allowInsecure=0&sni=huangshang9.zone.id&ws=1&wspath=%2FI4L1BP2DQVYmx5NYQ76MGGq#🔥Join+Telegram:@FarahVPN🟣
-trojan://Aimer@154.197.64.196:2087?allowInsecure=0&sni=agepj.ambercc.filegear-sg.me&ws=1#🔥Join+Telegram:@FarahVPN🟣
-trojan://telegram-id-privatevpns@35.156.237.224:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@13.51.136.122:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@18.130.183.152:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 trojan://a38c9e28-9960-4e31-9f18-ed2495a756aa@vt-bana2-cn-11.ghpgwqswodgzv.com:40021?allowInsecure=0&sni=vt-bana2-cn-11.ghpgwqswodgzv.com&ws=1&wspath=%2Fdl_media#🔥Join+Telegram:@FarahVPN🟣
-trojan://d67cfeaf-b277-44ac-ab99-9dd02a7c5299@104.21.49.59:443?allowInsecure=0&sni=Fgh9JkR5.890617.xYz&ws=1&wspath=%2FlWljHWvIMOj85lz42MdhsCLV#🔥Join+Telegram:@FarahVPN🟣
 trojan://85aDyYZY30RxnpAD38lSCKaue9CDDTDOAASycaExR9OEZxOD8c25CXeSCF33lN3q43BeI@gharial.superpokemon.com:443?allowInsecure=0&sni=gharial.superpokemon.com#🔥Join+Telegram:@FarahVPN🟣
 trojan://88K4yE6e3Za9YxCXR53paOnlqDy5qYIa4OczBTaFAyS0gZjS083Dz3YRCxuwOScXOFNYD@fearow.superpokemon.com:28341?allowInsecure=0&sni=fearow.superpokemon.com#🔥Join+Telegram:@FarahVPN🟣
 trojan://0FaYIOcSy4lBg38yRxnj7RlR3RZYSq3pC9OaSDAAOw6Oe8FCpy08u8pzx3eKZacDz3XE3@terture.meijireform.com:443?allowInsecure=0&sni=terture.meijireform.com#🔥Join+Telegram:@FarahVPN🟣
@@ -90,3 +86,7 @@ trojan://SDYlNZ6z5DA8TZqz33YnN4lzpp88YBZOyXC5we8AZBqn6YXwI0gISyalXjIOyNwCaDpDORK
 trojan://0FaYIOcSy4lBg38yRxnj7RlR3RZYSq3pC9OaSDAAOw6Oe8FCpy08u8pzx3eKZacDz3XE3@terture.meijireform.com:443?allowInsecure=0#🔥Join+Telegram:@FarahVPN🟣
 trojan://74260708004220600@capital-hyena.shiner427.skin:443?allowInsecure=0#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-privatevpns@3.126.90.141:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://SaujZeOR2F6eDD09KnxFcl3CY8laTXAyYOyCEI5qgwRSDp4ZCp33ASxN738zBa@beseech.homeofbrave.net:443?allowInsecure=0&sni=beseech.homeofbrave.net#🔥Join+Telegram:@FarahVPN🟣
+trojan://3wXO97Y83a9ynFAgyajxxpz6qeSSCu6z3C3RDwTNYcDZyCAFglBE3ANDFA0e7SFaIlDOq@socepy.homeofbrave.net:443?allowInsecure=0&sni=socepy.homeofbrave.net#🔥Join+Telegram:@FarahVPN🟣
+trojan://abaccba-abca-acba-cdba-accbccaabbab@127.0.0.1:1080?security=tls&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+trojan://bacabca-abca-baac-cdab-ccbbcabaabac@127.0.0.1:2080?security=tls&type=tcp#🔥Join+Telegram:@FarahVPN🟣
