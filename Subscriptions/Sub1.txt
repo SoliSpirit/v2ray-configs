@@ -15,3 +15,5 @@ vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@104.17.148.22:8443?security=tls&sni
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.20:8880?type=grpc#🔥Join+Telegram:@FarahVPN🟣
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.139:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.226.76:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
+vless://b2f5bd9c-a98d-4e63-bec5-a40b1c8025d3@37.156.45.84:1000?encryption=none&security=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
+vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@104.21.1.12:443?encryption=none&security=tls&sni=pHOTOgrApHipiCTureaI.IR&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=photographipictureai.ir&path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560#🔥Join+Telegram:@FarahVPN🟣
