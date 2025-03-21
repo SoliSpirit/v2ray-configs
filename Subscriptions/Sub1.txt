@@ -34,3 +34,10 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?encryption=none&se
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?encryption=none&security=none&type=ws&host=301.pooriam.ir&path=%2Ftelegram-id-%40MTMVPN%2F%3Fed%3D2503#🔥Join+Telegram:@FarahVPN🟣
 vless://7b8f7682-e545-4bc4-8996-57d65ef0532c@172.67.204.84:443?security=tls&sni=MaHdiserVeR-f7R.PAgEs.DEv&type=ws&host=mahdiserver-f7r.pages.dev&path=%2FYIL4m64MoOEzXrmZ%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔥Join+Telegram:@FarahVPN🟣
 trojan://Aimer@188.164.159.185:8443?sni=agepj.ambercc.filegear-sg.me&allowInsecure=0#🔥Join+Telegram:@FarahVPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZGE1NmJjNDkwZmVhYmQ2@57.128.190.61:23436#🔥Join+Telegram:@FarahVPN🟣
+vmess://eyJhZGQiOiAiOTEuMTg1LjE4Ny40OSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiOTU1ZTE2YmUtMGRlZi00MDVmLWI2ODUtNjM5OTYwMWM1NjFlIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92bWVzcy1hcmdvP2VkPTIwNDgiLCAicG9ydCI6ICIxODk4NCIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaFZQTlx1ZDgzZFx1ZGZlMyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
+vless://c6ac1649-5dc5-4d45-8977-9805d639d30b@151.115.76.177:8080?path=%2Ftest%3Dtrue&security=none&encryption=none&host=d1.hetzner.com&type=ws#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@35.177.76.200:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://Join-proxy_mtm-channel@mehdi9.vact.ir:443?mode=gun&security=reality&encryption=none&pbk=Zxm8F7CUF28zUKUMcH2jE05qXJ1LuY6djreVLgeze2k&fp=chrome&spx=%2F&type=grpc&serviceName=t.me/entryNET&sni=www.cdn77.com&sid=3e#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@54.78.85.201:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.135.165.254:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔥Join+Telegram:@FarahVPN🟣
