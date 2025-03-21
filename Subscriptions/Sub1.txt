@@ -25,3 +25,12 @@ trojan://telegram-id-privatevpns@35.181.21.111:22222?security=tls&alpn=http/1.1&
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.56.176.161:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔥Join+Telegram:@FarahVPN🟣
 ss://YWVzLTEyOC1nY206ZWMyMDFlMWMtZmMwNi00ZTQ2LWI2ZTctNTliOGFkMjMzNDUx@hkg01.dns-node.top:45573#🔥Join+Telegram:@FarahVPN🟣
 vless://c93b1359-c570-4703-894a-ce18883faac3@104.26.0.73:443?path=%2F&security=tls&encryption=none&host=bsw8xmeczkaqznfcbu7sdx39baabahluzcnr9xyifcgpnzls6jsodqndaygtww3.yju9y2x.workers.Dev&type=ws&sni=bsw8xmeczkaqznfcbu7sdx39baabahluzcnr9xyifcgpnzls6jsodqndaygtww3.yju9y2x.workers.Dev#🔥Join+Telegram:@FarahVPN🟣
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.28:8880?encryption=none&security=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
+vless://5e1306ff-3ffa-4166-89ab-1a06ff42eca6@www.speedtest.net:443?encryption=none&security=tls&sni=www.speedtest.net.www.google.com.bing.com.visa.com.tls.htr.ddns-ip.net&type=ws&host=www.speedtest.net.www.google.com.bing.com.visa.com.tls.htr.ddns-ip.net&path=%2FTelegram-XV2ry2%3Fed%3D512#🔥Join+Telegram:@FarahVPN🟣
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.26.12.31:80?encryption=none&security=none&type=ws&host=redw.pooriam.ir&path=%2F#🔥Join+Telegram:@FarahVPN🟣
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.28:2095?encryption=none&security=none&type=ws&host=redw.pooriam.ir&path=%2F#🔥Join+Telegram:@FarahVPN🟣
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:443?encryption=none&security=tls&sni=REDw.pOOriam.Ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=redw.pooriam.ir&path=%2F#🔥Join+Telegram:@FarahVPN🟣
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?encryption=none&security=none&type=ws&host=301.pooriam.ir&path=%2FTelegram%40V2ray_Alpha#🔥Join+Telegram:@FarahVPN🟣
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?encryption=none&security=none&type=ws&host=301.pooriam.ir&path=%2Ftelegram-id-%40MTMVPN%2F%3Fed%3D2503#🔥Join+Telegram:@FarahVPN🟣
+vless://7b8f7682-e545-4bc4-8996-57d65ef0532c@172.67.204.84:443?security=tls&sni=MaHdiserVeR-f7R.PAgEs.DEv&type=ws&host=mahdiserver-f7r.pages.dev&path=%2FYIL4m64MoOEzXrmZ%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔥Join+Telegram:@FarahVPN🟣
+trojan://Aimer@188.164.159.185:8443?sni=agepj.ambercc.filegear-sg.me&allowInsecure=0#🔥Join+Telegram:@FarahVPN🟣
