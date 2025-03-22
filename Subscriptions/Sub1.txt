@@ -155,3 +155,9 @@ vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.22.14.132:8443?security=tls&enc
 vless://b2f5bd9c-a98d-4e63-bec5-a40b1c8025d3@37.156.45.84:1000?security=&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
 vless://19429091-7825-4c39-8cf0-92e6b6402013@172.67.66.177:2096?security=tls&sni=mJe.nimhub.ir&type=ws&host=mJe.nimhub.ir&path=%2F&fp=random&alpn=h2%2Chttp%2F1.1#🔥Join+Telegram:@FarahVPN🟣
 vless://7d54a4ed-a079-453e-9320-61fd06c596e2@146.75.38.133:80?security=none&type=xhttp&host=joinbede_unlimiteddev.ir#🔥Join+Telegram:@FarahVPN🟣
+vless://301e51e9-cb7a-4356-8b64-45a6db7ad55f@maznet-join-bede.mahdijamkaran.online:6669?type=grpc&serviceName=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2048&authority=&security=none#🔥Join+Telegram:@FarahVPN🟣
+vless://73367ca0-a3d5-45f1-80b8-30006b75df85@maznet-join-bede.mahdijamkaran.online:8880?type=grpc&serviceName=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D1024&authority=&security=none#🔥Join+Telegram:@FarahVPN🟣
+trojan://e9hkqBwKCK@172.67.141.68:2087?security=tls&sni=esna.itn24.ir&type=grpc&serviceName=%2F%F0%9F%86%94%40M3HDIO1&fp=random&alpn=h2%2Chttp%2F1.1%2Ch3#🔥Join+Telegram:@FarahVPN🟣
+trojan://Aimer@86.38.214.186:443?allowInsecure=0&sni=agepl.ambercc.filegear-sg.me#🔥Join+Telegram:@FarahVPN🟣
+vless://b0a5129d-9aa5-48a2-a98d-5a5822441cfa@194.60.134.78:2083?security=reality&sni=www.speedtest.net&type=grpc&fp=chrome&pbk=b14Nibi1pMPwFPqgiyZRS3a6-Y-Q8EsE5urKnA-RkAc&sid=adf8a1f5689177a2#🔥Join+Telegram:@FarahVPN🟣
+trojan://Aimer@86.38.214.186:443?allowInsecure=0&sni=agepj.ambercc.filegear-sg.me#🔥Join+Telegram:@FarahVPN🟣
