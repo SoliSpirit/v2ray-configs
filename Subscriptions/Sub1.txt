@@ -162,3 +162,7 @@ vless://98950946-b579-482e-9086-05dc411ae71f@104.17.148.22:80?security=none&type
 vless://274cbadb-1f50-42cd-81c3-a1a3969af291@162.247.5.91:443?sni=vn.cayuo.me&type=ws&host=vn.cayuo.me#🔥Join+Telegram:@FarahVPN🟣
 vless://telegram-id-ArV2ray10@www.speedtest.net:443?path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=m.mashti.link&fp=firefox&type=ws&sni=m.mashti.link#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-privatevpns@13.39.228.64:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@FarahVPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#🔥Join+Telegram:@FarahVPN🟣
+vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@188.114.97.155:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=showmo.wfft.ir&type=ws#🔥Join+Telegram:@FarahVPN🟣
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2FLwW5jwrnymnOdqki%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#🔥Join+Telegram:@FarahVPN🟣
+vless://251b627e-857c-45c2-a90e-4de581f84b07@242232454.web-manage.com.tr:1521?security=&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#🔥Join+Telegram:@FarahVPN🟣
