@@ -24,3 +24,5 @@ vless://50cfad9c-d60a-4276-bd3f-696bc1ca9c25@hol.9model.ir:1025/?type=tcp&encryp
 vless://d49b7b53-6697-4165-afb6-dce05a65a3c1@91.107.152.229:443/?type=tcp&encryption=none&sni=eset.com&fp=chrome&security=reality&pbk=Xy0AQpRkBFWIWzRiG1czWTXok98URMhRt1xBE7jiTWw&sid=2f#🔥Join+Telegram:@FarahVPN🟣
 vless://fe1a8735-11ae-5501-bc91-90343b78f8c1@vpnandroid2_tr.home.kg:8880/?type=grpc&encryption=none&serviceName=vless-grpc#🔥Join+Telegram:@FarahVPN🟣
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.34:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.20.172.113:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@16.16.59.151:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
