@@ -111,3 +111,5 @@ vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@51.81.36.243:443?security=tls&encry
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.174.174:8880?security=&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.169.208:8880?security=&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
 vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.177.165:443?security=tls&encryption=none&headerType=&type=tcp&sni=147135010072.sec21org.com#🔥Join+Telegram:@FarahVPN🟣
+vless://c9796665-8a44-4f8a-b94e-e4c90aaea7ee@maznet-join-bede.mahdijamkaran.online:8880?type=grpc&serviceName=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D1024&authority=&security=none#🔥Join+Telegram:@FarahVPN🟣
+vless://df44a0bd-bda3-4f15-a60a-87ea3f2bbfe5@maznet-join-bede.mahdijamkaran.online:6669?type=grpc&serviceName=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2048&authority=&security=none#🔥Join+Telegram:@FarahVPN🟣
