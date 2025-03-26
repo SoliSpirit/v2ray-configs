@@ -126,3 +126,6 @@ vless://TELEGRAM-NUFiLTER-f317f705f302@www.speedtest.net:443?path=%2Ftelegram-NU
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.174.174:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
 vless://6c7a591f-10ee-474f-bbc8-00f893a084ef@116.203.184.248:48460?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@FarahVPN🟣
 vless://0d2e89bb-1d29-4dce-bbbb-aed468b803b0@65.109.185.196:57612?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@13.49.109.89:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.16.140.49:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://82e16024-0992-4f9f-b484-2e10a236556d@www.speedtest.net:443?path=%2Fvless&security=tls&encryption=none&host=us1-vless.greenssh.org&type=ws&sni=us1-vless.greenssh.org#🔥Join+Telegram:@FarahVPN🟣
