@@ -48,3 +48,9 @@ vless://e2e019e4-57da-40bd-974c-d201c55c528e@80.211.203.158:25210?mode=gun&secur
 vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.17.148.22:443?path=%2F47.89.39.186-39251&security=tls&encryption=none&host=nautica.foolvpn.me&type=ws&sni=nautica.foolvpn.me#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-directvpn@13.61.245.180:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-privatevpns@13.61.76.50:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://v2rayng_76@upgrade.bia2bax.shop:8080?mode=gun&security=none&encryption=none&type=grpc&serviceName=upgrade.bia2bax.shop#🔥Join+Telegram:@FarahVPN🟣
+vless://v2rayng_76@upgrade.bia2bax.shop:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=upgrade.bia2bax.shop&type=ws#🔥Join+Telegram:@FarahVPN🟣
+vless://103104c5-a3f5-4c48-8d8f-a72a56959799@104.21.112.1:443/?type=ws&encryption=none&host=zyzzzoao.putata.eu.org&path=%2FKZKNsnIVEv4CHlAq%3Fed%3D2560&security=tls&sni=zyZZzOaO.PutaTA.eU.Org&alpn=h2%2Chttp%2F1.1&fp=randomized#🔥Join+Telegram:@FarahVPN🟣
+vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.227:80/?type=ws&encryption=none&host=gozargah.validbv7996.ir&path=Telegram%40WangCai2%2F%3Fed#🔥Join+Telegram:@FarahVPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Njdzd3c3TG9wNUJJSlgwUWNKOVFr@89.185.84.185:443#🔥Join+Telegram:@FarahVPN🟣
+vless://103104c5-a3f5-4c48-8d8f-a72a56959799@104.19.102.16:443/?type=ws&encryption=none&host=zyzzzoao.putata.eu.org&path=%2FtbSRLeOuwtLBToSL%3Fed%3D2560&security=tls&sni=zYzzzOAo.pUtATa.eu.oRG&alpn=h2%2Chttp%2F1.1&fp=randomized#🔥Join+Telegram:@FarahVPN🟣
