@@ -158,3 +158,4 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.60.109.0:22222?path=/telegram-ch
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.25:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.12:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
 vmess://eyJhZGQiOiAiMTQyLjQuMTA0LjMzIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjUyMTQzIiwgInBzIjogIlx1ZDgzZFx1ZGQyNUpvaW4rVGVsZWdyYW06QEZhcmFoVlBOXHVkODNkXHVkZmUzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+trojan://telegram-id-privatevpns@18.193.177.174:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
