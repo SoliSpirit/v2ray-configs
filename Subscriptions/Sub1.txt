@@ -25,3 +25,8 @@ trojan://13c3cf97-5a4a-434f-880a-aecbd70c15bc@15.elk3b3nwfy.xyz:20055/?type=tcp&
 trojan://13c3cf97-5a4a-434f-880a-aecbd70c15bc@5.2gyh5ybsic.xyz:20105/?type=tcp&security=tls&sni=5.2gyh5ybsic.xyz&allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
 vless://0a44145f-59dc-4e5b-a233-677b97f5114c@135.148.186.250:443/?type=tcp&encryption=none&security=tls&sni=147135011033.sec21org.com&fp=chrome#🔥Join+Telegram:@FarahVPN🟣
 trojan://13c3cf97-5a4a-434f-880a-aecbd70c15bc@2.elk3b3nwfy.xyz:20012/?type=tcp&security=tls&sni=2.elk3b3nwfy.xyz&allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
+vmess://eyJhZGQiOiAiMTcyLjY3LjE3MC4xMyIsICJhaWQiOiAiMCIsICJob3N0IjogImdsd2VpZGYuc2JzIiwgImlkIjogIjc2MjIxYmZiLWU5MmYtNGU4MC04MWM1LTZmZTQ4ZjUwYWMwYiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3dzIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIlx1ZDgzZFx1ZGQyNUpvaW4rVGVsZWdyYW06QEZhcmFoVlBOXHVkODNkXHVkZmUzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJnbHdlaWRmLnNicyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+vless://cbb4251b-9b20-4c42-b09d-df77666bda12@95.217.183.108:2087?security=reality&sni=www.target.com&fp=chrome&pbk=6ezm4CcEWfvptuqvMaweZW5jTaX-M4SdZE2r8JkKsQ0&sid=bc6f0833&type=grpc&encryption=none#🔥Join+Telegram:@FarahVPN🟣
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880?security=&type=grpc&encryption=none#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@15.188.28.61:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@52.21.55.238:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
