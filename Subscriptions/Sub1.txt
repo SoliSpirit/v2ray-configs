@@ -132,3 +132,9 @@ vless://64e408c6-9c7a-43fb-a2e1-b2511eab9640@wWw.Zula.Ir:443?path=%2Fwss9000%3Fe
 vless://3b5bb963-d8cb-4942-b2ac-f3ff437e6c6a@92.223.124.45:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=panelvip.com&type=ws#🔥Join+Telegram:@FarahVPN🟣
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.171.217.165:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-directvpn@13.51.221.249:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://91bb6de5-f798-5b7d-875b-ff5268279f4d@vpnAndroid2.info.gf:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc&sni=Rs_vpnAndroid2.info.gf#🔥Join+Telegram:@FarahVPN🟣
+vless://cb796646-d528-4b96-9984-86dbceed95ad@104.21.16.1:443?path=%2FvpnAndroid2.vpnAndroid2.vpnAndroid2%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dd3a34a9.bpb1-1ts.pages.dev&fp=randomized&type=ws&sni=DD3A34A9.bPB1-1TS.PaGeS.DEV#🔥Join+Telegram:@FarahVPN🟣
+vless://623a057f-f878-5229-87d6-4880f6b414a5@vpnAndroid2_TR.home.kg:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#🔥Join+Telegram:@FarahVPN🟣
+vless://1be4b1ac-66f2-5a1d-b645-d69cc5375c23@SkvpnAndroid2.69.mu:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#🔥Join+Telegram:@FarahVPN🟣
+vless://1eac0a9b-e983-5975-a097-f2d3082fdce0@itvpnAndroid2.69.mu:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc&sni=itvpnAndroid2.69.mu#🔥Join+Telegram:@FarahVPN🟣
+vless://a368998f-e39a-53fe-a174-ff2f7dbf6c57@EevpnAndroid2.69.mu:2086?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc&sni=EevpnAndroid2.69.mu#🔥Join+Telegram:@FarahVPN🟣
