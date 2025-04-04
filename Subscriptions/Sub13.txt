@@ -82,8 +82,6 @@ ss://ca9ac6fc-7269-42c9-8e48-18d8f0449750@51.112.83.198:3040?security=reality&en
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.95:2095/?type=ws&encryption=none&host=redw.pooriam.ir&path=%2F#🔥Join+Telegram:@FarahVPN🟣
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.12:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
 ss://c3231e14-aca0-43d0-8970-8b4eb2ec3c3f@89.144.25.195:443?security=tls&alpn=h2&encryption=none&host=EVAY_VPNJoinBadeChannel@EVAY_VPN&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=chopper.lnmarketplace.net#🔥Join+Telegram:@FarahVPN🟣
-trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.195:443?security=tls&sni=trus.moonfree.top&allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
-trojan://85950277-f447-48f0-9ead-aaf6d5ff3cad@107.172.132.248:443?security=tls&sni=huangshang9.zone.id&type=ws&host=huangshang9.zone.id&path=%2FI4L1BP2DQVYmx5NYQ76MGGq&fp=chrome&alpn=h2#🔥Join+Telegram:@FarahVPN🟣
 trojan://woCp0eJnQ5It@172.67.141.68:8443?security=tls&sni=shabestan.itn24.ir&type=httpupgrade&host=shabestan.itn24.ir&path=%2F%F0%9F%86%94%40M3HDIO1&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔥Join+Telegram:@FarahVPN🟣
 trojan://71409d3e488548e8bb076d229778f008@104.17.147.77:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=/6b777a91#🔥Join+Telegram:@FarahVPN🟣
 trojan://Aimer@188.164.159.45:8443?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=ws&host=ngepy.ambercc.filegear-sg.me#🔥Join+Telegram:@FarahVPN🟣
@@ -110,3 +108,5 @@ trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@192.157.56.141:443?security=tls&sn
 trojan://Aimer@206.238.236.137:8443?sni=agept.ambercc.filegear-sg.me#🔥Join+Telegram:@FarahVPN🟣
 trojan://e3c41c94-097d-475e-8de5-d983d8df7cf1@45.146.232.171:43396?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp#🔥Join+Telegram:@FarahVPN🟣
 trojan://Aimer@104.196.250.34:2087?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@192.157.56.139:443?security=tls&sni=trus.moonfree.top&allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
+trojan://efad7560-dfe7-11ef-b6c6-1239d0255272@51.210.182.170:443?security=tls&sni=momtazpanel.ir&type=tcp&allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
