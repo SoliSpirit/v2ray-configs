@@ -42,3 +42,8 @@ vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.148:443?security=tls&enc
 vless://779644d9-f71f-4de3-8b0d-8668dda042fc@maznet-join-bede.mahdijamkaran.online:6669?type=grpc&serviceName=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2048&authority=&security=none#🔥Join+Telegram:@FarahVPN🟣
 vless://e9fbba11-6b40-4ec9-ada8-f7cdc14a5126@maznet-join-bede.mahdijamkaran.online:8880?type=grpc&serviceName=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D1024&authority=&security=none#🔥Join+Telegram:@FarahVPN🟣
 vless://e3089788-42eb-4792-8348-47fe2fe213a2@104.17.231.69:443?path=%2FnR8YIgT2y9Cvz6EgciEMO&security=tls&alpn=http%2F1.1&encryption=none&host=service-c.secretvps.cam&fp=chrome&type=httpupgrade&sni=service-c.secretvps.cam#🔥Join+Telegram:@FarahVPN🟣
+vless://753fa8e8-a3e8-442e-abf7-875ed776eacb@104.19.48.236:443?path=%2F&security=tls&encryption=none&host=is.oldcloud.online&type=ws&sni=is.oldcloud.online#🔥Join+Telegram:@FarahVPN🟣
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.215:8880?mode=gun&security=&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
+vless://588e0c52-44bc-4d24-9833-8bd2af532c58@172.64.34.232:443?path=%2Fwss&security=tls&alpn=http%2F1.1&encryption=none&host=news3.testsnew.com&type=ws&sni=news3.testsnew.com#🔥Join+Telegram:@FarahVPN🟣
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880?mode=gun&security=&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.13:8880?mode=gun&security=&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
