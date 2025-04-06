@@ -104,3 +104,6 @@ vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.17.148.22:8443?security=tls&sni
 vless://9df66056-a898-486a-9c67-6a5ad5ea056e@151.101.2.219:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#🔥Join+Telegram:@FarahVPN🟣
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@206.189.165.37:59483?security=auto&type=grpc&fp=chrome#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-privatevpns@54.229.148.151:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://fe9cc82e-8a00-4c50-85e9-1c4d197b1de3@zula.ir:2053?path=%2Fcontainers%2Fde&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=all7.kikforwindows.com&fp=chrome&type=ws&sni=all7.kikforwindows.com#🔥Join+Telegram:@FarahVPN🟣
+vless://503f0f16-a489-4fc3-b135-8fe75c7b5d08@photographipictureai.ir:443?type=ws&host=photographipictureai.ir&path=/faasfasfasfaA&security=tls&fp=chrome&sni=photographipictureai.ir&alpn=h3,h2,http/1.1#🔥Join+Telegram:@FarahVPN🟣
+vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@162.159.152.2:2087?type=ws&host=Tp350WdTiD.yAzAhRa1.InFo&path=/&security=tls&sni=Tp350WdTiD.yAzAhRa1.InFo#🔥Join+Telegram:@FarahVPN🟣
