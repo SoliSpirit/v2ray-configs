@@ -107,3 +107,7 @@ trojan://telegram-id-privatevpns@54.229.148.151:22222?security=tls&alpn=http/1.1
 vless://fe9cc82e-8a00-4c50-85e9-1c4d197b1de3@zula.ir:2053?path=%2Fcontainers%2Fde&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=all7.kikforwindows.com&fp=chrome&type=ws&sni=all7.kikforwindows.com#🔥Join+Telegram:@FarahVPN🟣
 vless://503f0f16-a489-4fc3-b135-8fe75c7b5d08@photographipictureai.ir:443?type=ws&host=photographipictureai.ir&path=/faasfasfasfaA&security=tls&fp=chrome&sni=photographipictureai.ir&alpn=h3,h2,http/1.1#🔥Join+Telegram:@FarahVPN🟣
 vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@162.159.152.2:2087?type=ws&host=Tp350WdTiD.yAzAhRa1.InFo&path=/&security=tls&sni=Tp350WdTiD.yAzAhRa1.InFo#🔥Join+Telegram:@FarahVPN🟣
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.212:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
+vless://--V2RAXXX--@speedtest.net:80?mode=auto&path=%2FTelegram%2CV2RAXX%2CTelegram%2C%3Fed%3D2048&security=none&encryption=none&host=V2RAXX-join.global.ssl.fastly.net&type=xhttp#🔥Join+Telegram:@FarahVPN🟣
+vless://--V2RAXXX--@151.101.128.155:80?mode=auto&path=%2FTelegram%2CV2RAXX%2CTelegram%2C%3Fed%3D2048&security=none&encryption=none&host=V2RAXX-join.global.ssl.fastly.net&type=xhttp#🔥Join+Telegram:@FarahVPN🟣
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.73.226.102:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔥Join+Telegram:@FarahVPN🟣
