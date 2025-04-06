@@ -18,3 +18,5 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.149:8880?mode=gun&securi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.139:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
 vless://1ae6e00e-467a-4be1-a957-eb90c09558c3@188.34.201.88:16072?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.177:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
+vless://667b5dfa-7ec4-45d7-ba9c-6957eed8cfbb@157.173.127.239:443?security=reality&sni=analytics.google.com&type=tcp&fp=chrome&pbk=c5VJpRsIyrxNp0eS3Lz5EMQH6jWBsvSTK7hNZQ77bl4&sid=4fd4ad#🔥Join+Telegram:@FarahVPN🟣
+vless://46dbac8b-eaba-4275-940c-819f95d16916@104.17.246.203:443?security=tls&sni=falcunargo.9cfaf68585.workers.Dev&type=ws&host=falcunargo.9cfaf68585.workers.Dev&path=%2F%3Fed%3D2048#🔥Join+Telegram:@FarahVPN🟣
