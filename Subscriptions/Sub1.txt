@@ -152,3 +152,9 @@ vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@188.114.97.155:80?path=%2F%40V2rayN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjM0@54.248.54.190:1234#🔥Join+Telegram:@FarahVPN🟣
 vless://78905d87-0266-4825-868d-3069e88d1201@172.67.204.84:2053?security=tls&sni=all22.kikforwindows.com&type=ws&host=all22.kikforwindows.com&path=/containers/de&fp=chrome&alpn=h3,h2,http/1.1#🔥Join+Telegram:@FarahVPN🟣
 vless://0b47156f-0784-48eb-b300-dbd6754d438e@188.245.43.225:41788?security=none&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+vless://a0e3ae8d-c37f-4970-8754-3a978d084fd6@185.113.8.229:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#🔥Join+Telegram:@FarahVPN🟣
+vless://f64841cc-90af-4b5e-bd49-8ee5a57d0ff0@156.253.222.47:37826?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.115:80?path=%2FTelegram%40ShadowProxy66%2F%3Fed%3D2560&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#🔥Join+Telegram:@FarahVPN🟣
+vless://819664e1-26f2-49db-8025-b18adee8fd2c@107.172.157.148:30944?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+vless://361427b1-5cf9-4ae6-bd1b-5dbf99a21b61@109.107.159.69:22069?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@FarahVPN🟣
