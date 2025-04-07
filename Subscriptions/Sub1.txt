@@ -104,3 +104,5 @@ trojan://eG92F3gh09@51.15.86.181:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&hea
 vless://addc0c49-1ae1-440d-c654-6392ed781476@8.208.28.221:17647?path=%2F&security=&encryption=none&type=ws#🔥Join+Telegram:@FarahVPN🟣
 vless://8a70d36b-dfb9-40cf-802e-70a82bc80ae2@104.26.14.85:8080?path=%2F%3Fed&security=&encryption=none&host=JP.8HVL7WyiPt.zuLaIR.oRg.&type=ws#🔥Join+Telegram:@FarahVPN🟣
 vless://b833be61-3377-448b-a6a3-19c4b54854cf@freeconfig.hajalii.com:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=freeconfig-cc.hajalii.com#🔥Join+Telegram:@FarahVPN🟣
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.196.20.209:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@51.44.128.179:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
