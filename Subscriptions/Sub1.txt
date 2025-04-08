@@ -85,3 +85,7 @@ vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.188:80?security=none&type=
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.17:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-privatevpns@3.74.176.45:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-directvpn@13.37.210.228:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://a8e84392-4d52-4886-afa6-76fdfaf49c86@172.67.180.227:443?path=%2Fa8e84392&security=tls&encryption=none&host=dewuxian.pai50288.uk&fp=chrome&type=ws&sni=dewuxian.pai50288.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://08fc3248-9c1e-4301-98cf-3f95c02a1571@141.95.111.135:443?security=reality&encryption=none&pbk=Zcyzgiterznw4Bh1rWU5spRfp7DqTEyR6a5HoJ2eNTw&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=8d5785d6b62ecfee#🔥Join+Telegram:@FarahVPN🟣
+vless://bc7dbc36-f3a7-4cc8-9364-eba6e889cee2@188.245.253.147:223?security=reality&encryption=none&pbk=JOKX-kH_SOPrdPG26TdJzO6YSDItrRGXKhtv70Bn81o&headerType=none&fp=chrome&type=tcp&sni=SHOPTOR.SODOGODPING.IR&sid=c7f175a94bd79f8d#🔥Join+Telegram:@FarahVPN🟣
+vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@188.114.97.155:80?path=%2Ftelegram-mtmvpn%2F%3Fed%3D2560&security=none&encryption=none&host=showmo.wfft.ir&type=ws#🔥Join+Telegram:@FarahVPN🟣
