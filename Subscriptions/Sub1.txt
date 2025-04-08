@@ -49,3 +49,6 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.128.253:443?encryption=none&
 vless://b981829e-9bd1-4a7d-880d-9169fc2bd275@172.67.175.204:443?encryption=none&security=tls&sni=pPaL03.JeSSy-pAdbeRG.wORkeRs.DEv&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=PpaL03.jessY-PaDbErg.WORkers.dEv&path=%2F#🔥Join+Telegram:@FarahVPN🟣
 vless://46dbac8b-eaba-4275-940c-819f95d16916@104.17.247.203:443?encryption=none&security=tls&sni=falcunargo.9cfaf68585.workers.Dev&type=ws&host=falcunargo.9cfaf68585.workers.Dev&path=%2F%3Fed%3D2048#🔥Join+Telegram:@FarahVPN🟣
 vless://f9f52055-ff98-4f3c-baa4-869864503e1e@104.25.140.153:443?encryption=none&security=tls&sni=BPB-pANEL-En-1O0.pAges.DEV&type=ws&host=BPB-pANEL-En-1O0.pAges.DEV&path=%2F#🔥Join+Telegram:@FarahVPN🟣
+trojan://e3c41c94-097d-475e-8de5-d983d8df7cf1@45.146.232.173:43395?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+vless://d8b42cd5-a149-4356-9e61-30ad83662600@54.190.160.217:443?security=none&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+trojan://32b598e2-2bf7-4af1-8d17-306f839dde74@45.146.232.172:27201?allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
