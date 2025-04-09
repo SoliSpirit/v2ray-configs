@@ -160,3 +160,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIR2JBVTlIOUsxVDhiNU9mVnBpZUZw@81.19.141.45:4
 trojan://telegram-id-privatevpns@63.177.116.21:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-privatevpns@3.74.83.179:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-directvpn@13.36.137.246:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://4c018277-6b64-44a2-96c4-e7ac532ae398@104.17.148.22:2082?path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D2082&security=none&encryption=none&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=ws#🔥Join+Telegram:@FarahVPN🟣
+vless://753fa8e8-a3e8-442e-abf7-875ed776eacb@104.17.221.248:443?path=%2F&security=tls&encryption=none&host=is.oldcloud.online&type=ws&sni=is.oldcloud.online#🔥Join+Telegram:@FarahVPN🟣
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.19:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
+vless://2d9798a1-6f27-4d8c-8f89-0d4147ae7cd2@152.42.218.33:443?path=%2F&security=tls&encryption=none&type=ws&sni=fonts.googleapis.com#🔥Join+Telegram:@FarahVPN🟣
