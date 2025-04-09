@@ -164,3 +164,4 @@ vless://4c018277-6b64-44a2-96c4-e7ac532ae398@104.17.148.22:2082?path=%2F%40spike
 vless://753fa8e8-a3e8-442e-abf7-875ed776eacb@104.17.221.248:443?path=%2F&security=tls&encryption=none&host=is.oldcloud.online&type=ws&sni=is.oldcloud.online#🔥Join+Telegram:@FarahVPN🟣
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.19:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
 vless://2d9798a1-6f27-4d8c-8f89-0d4147ae7cd2@152.42.218.33:443?path=%2F&security=tls&encryption=none&type=ws&sni=fonts.googleapis.com#🔥Join+Telegram:@FarahVPN🟣
+trojan://33fe5d7f-c9c1-4fd3-a2db-d0f3db6e5fba@15.204.58.214:443?allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
