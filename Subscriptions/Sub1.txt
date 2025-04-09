@@ -184,3 +184,5 @@ vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.5.67:80/?type=ws&encryption=
 trojan://telegram-id-privatevpns@13.53.219.71:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-directvpn@13.50.52.224:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 vless://telegram-ArV2ray@www.speedtest.net:80?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry&security=none&encryption=none&host=Www.speedtest.net.ax.sPeedtest3.sbs.&type=ws#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@16.170.77.20:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@16.170.125.186:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
