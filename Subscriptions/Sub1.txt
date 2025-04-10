@@ -38,3 +38,7 @@ vless://dfe11ec9-6330-4e75-bada-ba8796eb71df@3900230223.torob.com.tr:1522?securi
 trojan://telegram-id-directvpn@13.61.82.16:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-privatevpns@13.61.229.27:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.48.60.152:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://cfcfec84-b1fc-4504-872a-1210954f06a4@65.109.203.252:14151?security=&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
+vless://0e6b413b-e25c-40eb-b7e7-423f019bf972@mehdi24.zemestanil.ir:443?type=grpc&serviceName=MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN&authority=&security=reality&pbk=AZfJhYHphztYrI4N-RpcZqfNhqV-9PG-qT80ShLpJQ8&fp=chrome&sni=www.cdn77.com&sid=a473bfc1f4&spx=%2F#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@13.61.70.194:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@16.171.97.170:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
