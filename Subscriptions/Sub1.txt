@@ -183,3 +183,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.61.212.231:22222?path=/telegram-
 trojan://telegram-id-privatevpns@13.61.247.150:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-directvpn@16.171.89.163:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 vmess://eyJhZGQiOiAiMTA0LjI2LjAuOTUiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAib2JkaWkuY2ZkIiwgImlkIjogIjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3dzIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIlx1ZDgzZFx1ZGQyNUpvaW4rVGVsZWdyYW06QEZhcmFoVlBOXHVkODNkXHVkZmUzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJvYmRpaS5jZmQiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
+trojan://psycho@104.21.16.1:443?path=%2Ftr9Fj4CU0RyaUChYLb%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=psycho.suex12.ir&fp=randomized&type=ws&sni=pSYCHo.sUEX12.iR#🔥Join+Telegram:@FarahVPN🟣
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.21.69:2095?path=%2F%3Fed%3D2560&security=none&encryption=none&host=fuckingxijinping.ceo-a6b.workers.dev&type=ws#🔥Join+Telegram:@FarahVPN🟣
+vless://65b3cbba-e6ac-485a-9481-976a0415eab9@172.67.218.90:80?path=%2FFvy0Y7NJ7uucUDha%3Fed%3D2560&security=none&encryption=none&host=bLue-sNoW-a243.GeleNE5962.wOrKeRS.dEV&type=ws#🔥Join+Telegram:@FarahVPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppRUt0Z3R0d0hoRGpzYk9raTFhNUJL@78.129.140.11:443#🔥Join+Telegram:@FarahVPN🟣
