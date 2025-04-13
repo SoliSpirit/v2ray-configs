@@ -36,3 +36,8 @@ vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@178.128.12.201:59483?encryption=non
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.172.119.223:59483?encryption=none&security=none&fp=chrome&type=grpc#🔥Join+Telegram:@FarahVPN🟣
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@206.189.172.198:59483?encryption=none&security=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@138.68.242.118:59483?encryption=none&security=none&fp=chrome&type=grpc#🔥Join+Telegram:@FarahVPN🟣
+vless://ebbd3aa7-60ac-4a1a-9377-91ef60b7d6e9@185.143.235.1:443?path=%2Ftelegram-mitivpn&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dash.error-log.ir&fp=chrome&type=ws&sni=r1-edge-v2-p.s3mer.net#🔥Join+Telegram:@FarahVPN🟣
+vless://0093d1db-45e7-47ea-8aed-1ab87ef6fac4@185.143.235.1:443?path=%2Ftelegram-mitivpn-telegram-mitivpn-telegram-mitivpn%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=www.error-log.ir&fp=chrome&type=ws&sni=r1-edge-v2-p.s3mer.net#🔥Join+Telegram:@FarahVPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@131.145.18.192:443#🔥Join+Telegram:@FarahVPN🟣
+vless://619b233c-ca8e-54c7-9b5f-8c118b0ab617@5.253.30.11:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#🔥Join+Telegram:@FarahVPN🟣
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@157.180.74.18:59483?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
