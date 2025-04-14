@@ -83,12 +83,11 @@ trojan://telegram-id-privatevpns@18.199.25.106:22222?security=tls&alpn=http/1.1&
 trojan://aaccbab-acab-baac-abcd-bcabbacbaacc@127.0.0.1:1080?security=tls&type=tcp#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-directvpn@18.169.81.26:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-privatevpns@3.9.150.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
-trojan://telegram-id-privatevpns@52.47.107.205:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
-trojan://telegram-id-privatevpns@52.47.76.173:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
-trojan://telegram-id-directvpn@3.8.245.80:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
-trojan://89c1aea7-4d0d-4013-b663-0f94a3e6bdbd@172.67.210.210:443?allowInsecure=0&sni=sanjose02.852224.ggff.net&ws=1&wspath=%2FT5yZBrY2Qkg2cThJQeJb#🔥Join+Telegram:@FarahVPN🟣
-trojan://VMhGp5wEIyCDf90T@gysz0000.dynu.net:38340?allowInsecure=1&sni=hk39.work.gd#🔥Join+Telegram:@FarahVPN🟣
-trojan://02926f9e-153a-42c8-8ecd-8fade7009ad1@166.0.198.68:443?allowInsecure=1&sni=golinkwuxian.top&ws=1&wspath=%2Fapple#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@51.20.195.143:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://4467ae8518abf1ef321618c0bfb5549ccc@sydney-mini-ddns.faforex.eu.org:25131?allowInsecure=1&sni=www.cloudflare.com#🔥Join+Telegram:@FarahVPN🟣
+trojan://7655935d-51f8-301f-8e5f-17d3e232bf28@gy.58n.net:20278?allowInsecure=1&sni=z278.hongkongnode.top#🔥Join+Telegram:@FarahVPN🟣
+trojan://89c1aea7-4d0d-4013-b663-0f94a3e6bdbd@104.21.23.115:443?allowInsecure=0&sni=sanjose02.852224.ggff.net&ws=1&wspath=%2FT5yZBrY2Qkg2cThJQeJb#🔥Join+Telegram:@FarahVPN🟣
+trojan://4467ae8518abf1ef321618c0bfb5549ccc@129.151.163.120:25131?allowInsecure=1&sni=www.cloudflare.com#🔥Join+Telegram:@FarahVPN🟣
 trojan://Julius@66.59.197.211:443?allowInsecure=0&sni=miami.juliusnet.com#🔥Join+Telegram:@FarahVPN🟣
 trojan://aabcbca-baca-caba-abcd-abcabacbaccb@127.0.0.1:1080?security=tls&type=tcp#🔥Join+Telegram:@FarahVPN🟣
 trojan://baabcac-baac-aacb-bacd-bcabbbccacaa@127.0.0.1:2080?security=tls&type=tcp#🔥Join+Telegram:@FarahVPN🟣
@@ -102,3 +101,4 @@ trojan://573ae74e-5eea-467a-abc1-fdc65b8aa4fa@45.146.232.173:22269?sni=q08m.vgra
 trojan://vip@172.64.145.93:443?security=tls&sni=heihu880.pages.dev&type=tcp&allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.59.119.143:443?security=tls&sni=connectwithemployers.online&type=tcp#🔥Join+Telegram:@FarahVPN🟣
 trojan://aP%26%7B%29UBD%40qDGS9b%3B@172.66.44.109:2053?security=tls&sni=JoinmAhDiSERver-7Hd.paGes.Dev&type=ws&host=joinmahdiserver-7hd.pages.dev&path=%2Ftr66o1szTTRkMyRg8P%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔥Join+Telegram:@FarahVPN🟣
+trojan://efda4883-a059-430c-a1e2-ea45ae4ef08a@45.146.232.173:27101?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp#🔥Join+Telegram:@FarahVPN🟣
