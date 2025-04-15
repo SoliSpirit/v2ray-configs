@@ -98,3 +98,5 @@ vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@ns1.cloudflare.com:443?path=%2F%3Fe
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.170.60.148:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-directvpn@13.49.92.253:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-privatevpns@51.20.236.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://4a58fbe1-9d81-431f-9ea6-a22515a5af86@213.142.134.9:6900?security=reality&sni=Uplader-Game.zx-shop.ir&type=tcp&fp=chrome&pbk=1_9XT9SMmExJYv7ejpQwzYTXmZlqX7grBo5KNxk_IFE&sid=f49fd7abeda30e80#🔥Join+Telegram:@FarahVPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZGU3MTQyZi1mNjkxLTQyMjQtYWUzZS0xYTcxNDU1OTY1OTI@free.2weradf.xyz:36671#🔥Join+Telegram:@FarahVPN🟣
