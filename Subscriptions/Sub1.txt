@@ -61,3 +61,15 @@ trojan://telegram-id-privatevpns@51.20.196.44:22222?security=tls&alpn=http/1.1&h
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.141:8080#🔥Join+Telegram:@FarahVPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:8080#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-directvpn@16.16.131.54:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.31:8880?mode=gun&security=&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
+trojan://eG92F3gh09@51.15.86.181:1935?security=tls&headerType=none&type=tcp&sni=x1ams-scaleway.devefun.net#🔥Join+Telegram:@FarahVPN🟣
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.8.105.254:8880?mode=gun&security=&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
+trojan://amclubs@103.160.204.1:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&host=tran.amclubstest.nyc.mn&type=ws&sni=tran.amclubstest.nyc.mn#🔥Join+Telegram:@FarahVPN🟣
+trojan://utF6JLQd2x@141.227.128.69:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x1es-ovh.devefun.net#🔥Join+Telegram:@FarahVPN🟣
+vless://c95740bb-b3be-44f9-9fa4-260c3fbec6de@37.27.15.167:2089?security=reality&encryption=none&pbk=bvEBes1y2n6327dEgJyZTR6Xz_EuyfLdkEX7DxWGFFg&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=e3c5c005cae07eb8#🔥Join+Telegram:@FarahVPN🟣
+trojan://redfree8@104.17.148.22:80?path=%2FtrLwW5jwrnymnOdqki%3Fed%3D2560&security=none&host=redfree8-p1.pooriashop.ir&type=ws#🔥Join+Telegram:@FarahVPN🟣
+trojan://FiSo7J6vfS@51.68.13.106:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x1fr-ovh.devefun.net#🔥Join+Telegram:@FarahVPN🟣
+trojan://Aimer@170.106.152.78:443?allowInsecure=0&sni=epccu.ambercc.filegear-sg.me#🔥Join+Telegram:@FarahVPN🟣
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.208.137:80?security=none&sni=redfree8.pooriashop.ir&type=ws&host=redfree8.pooriashop.ir&path=Telegram@WangCai2/?ed#🔥Join+Telegram:@FarahVPN🟣
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@157.230.147.86:59483?security=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
+trojan://Aimer@ignacio.ns.cloudflare.com:443?allowInsecure=0&sni=epccu.ambercc.filegear-sg.me#🔥Join+Telegram:@FarahVPN🟣
