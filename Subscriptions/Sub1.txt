@@ -31,3 +31,7 @@ vless://7c1c9771-b081-417c-8895-c84201680a87@85.133.206.224:13000?security=none&
 vless://95984f4e-0733-4430-a937-f630cb2fb113@62.60.221.87:25679?type=tcp&host=cloudflare.com&headerType=http#🔥Join+Telegram:@FarahVPN🟣
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@108.162.195.199:443?sni=edcci.aimercc.filegear-sg.me&type=ws&allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2087?path=%2Fnet.net%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws&sni=5-55sfjslf.ifenxiang.cfd#🔥Join+Telegram:@FarahVPN🟣
+vless://cbb4251b-9b20-4c42-b09d-df77666bda12@188.245.34.12:2087?mode=gun&security=reality&encryption=none&pbk=_Qos-LNNG2nnPEFrTHSotINN3VcKWcVF7sCaw1HUElM&fp=chrome&type=grpc&sni=www.target.com&sid=e6#🔥Join+Telegram:@FarahVPN🟣
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.38:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
+vmess://eyJhZGQiOiAiNXUtZC40NDUucHAudWEiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiNXUtcy40NDUucHAudWEiLCAiaWQiOiAiNmIzNzZkYTItZDA5Yi00Y2NiLWVmN2MtNjNjZGU0MjcyZTI1IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi81dS1zLjQ0NS5wcC51YSIsICJwb3J0IjogIjIwODciLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhWUE5cdWQ4M2RcdWRmZTMiLCAic2N5IjogImF1dG8iLCAic25pIjogIjV1LXMuNDQ1LnBwLnVhIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
+trojan://telegram-id-privatevpns@35.177.26.121:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
