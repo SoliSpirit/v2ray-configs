@@ -172,3 +172,4 @@ vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@35.167.199.98:1212?security=reality
 trojan://telegram-id-privatevpns@18.157.135.108:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 vless://ce9e7012-01c3-b64b-3d4c-02bb237ae098@37.156.46.44:6718?security=reality&flow=xtls-rprx-vision&sni=stackoverflow.com&type=tcp&fp=chrome&pbk=KmXtdOimd1xGGg7V2rvo74_HxMd6_bzFyosF6Z5c22A&sid=d6d54c08fbbf895f#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-directvpn@18.175.29.61:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.158.171.151:8080#🔥Join+Telegram:@FarahVPN🟣
