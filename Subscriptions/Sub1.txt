@@ -110,3 +110,6 @@ vless://4d54fc83-3d4f-409f-a255-a3f3bfeec95c@104.248.7.217:3114?security=reality
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.21:8880?security=&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.20:8880?security=&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
 vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@104.21.1.12:443?path=%2Ftelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=photographipictureai.ir&type=ws&sni=pHOTOgrApHipiCTureaI.IR#🔥Join+Telegram:@FarahVPN🟣
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.250:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@18.156.210.40:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@15.188.125.37:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
