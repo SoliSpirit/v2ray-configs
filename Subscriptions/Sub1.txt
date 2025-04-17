@@ -179,3 +179,10 @@ vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.4.4:80?security=none&sni=dig
 trojan://telegram-id-privatevpns@54.170.201.141:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-directvpn@54.170.201.141:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 vless://5528489a-c548-481f-b558-8c7a8a0b6448@116.203.136.232:2078?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+vless://4088e698-69fd-4d15-98bc-f1fe4c071642@154.92.9.1:443?security=tls&sni=digitalscientificresearchgroup.ir&type=ws&host=digitalscientificresearchgroup.ir&path=%2FTelegram%40V2ray_Alpha#🔥Join+Telegram:@FarahVPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.166:8080#🔥Join+Telegram:@FarahVPN🟣
+vless://d0e46bca-5f5b-4b10-82e9-2a6bef1e9f1b@151.101.2.165:80?security=none&type=ws&host=mt.acvs.ir&path=%2FChannel----MTMVPN----MTMVPN---MTMVPN---MTMVPN---MTMVPN----PROXY_MTM----PROXY_MTM----PROXY_MTM---MTMVPN---MTMVPN---MTMVPN%3Fed%3D2048#🔥Join+Telegram:@FarahVPN🟣
+vless://e886a00b-b2be-4141-af7a-0e0d8d1434ee@172.67.187.18:2087?security=tls&sni=panel.proxystore11.news&type=ws&host=panel.proxystore11.news&path=%2Fprx11&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
+vless://d6b8011a-c725-435a-9fec-bf6d3530392c@154.83.2.61:8443?security=tls&sni=vlee.amclubs.rr.nu&type=ws&host=vlee.amclubs.rr.nu#🔥Join+Telegram:@FarahVPN🟣
+vless://08c41e17-9d1c-4d4a-9edc-242d3d71c1ac@188.114.96.3:8080?path=%2Fz5lsHF5zQrd1rJDr&security=none&encryption=none&host=order.fortgift.ir&type=ws&sni=order.fortgift.ir#🔥Join+Telegram:@FarahVPN🟣
+vless://efd25cc8-2e64-49c3-8e0f-9ac758d5a0e3@151.101.2.133:80?security=none&type=ws&host=snappfood.com&path=%2FJoin--HAJIMAMADVPN%3Fed%3D80#🔥Join+Telegram:@FarahVPN🟣
