@@ -65,3 +65,5 @@ vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.172.113.251:59483?mode=gun&secu
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@64.225.114.132:59483?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#🔥Join+Telegram:@FarahVPN🟣
 vless://007d0673-c371-4d09-99d3-5fe28a483615@151.101.3.8:80?mode=auto&path=%2F%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=Jointovistav2ray.fun.&fp=chrome&type=xhttp&sni=hajlab.ucdavis.edu#🔥Join+Telegram:@FarahVPN🟣
 vless://e464526a-e3de-4db9-8821-4e146507976f@5.180.46.9:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@16.171.251.88:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@16.171.251.88:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
