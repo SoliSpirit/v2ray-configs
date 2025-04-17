@@ -179,3 +179,6 @@ vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@steamdb.info:443?path=%2F%3Fed%3D25
 vless://0ef0630e-544c-4ed0-a4de-861f14695f37@172.66.46.236:443?security=tls&sni=M2-1CM.paGes.DeV&type=ws&host=M2-1CM.paGes.DeV#🔥Join+Telegram:@FarahVPN🟣
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.66:443?security=tls&sni=vc.ylka.dpdns.org&type=ws&host=vc.ylka.dpdns.org#🔥Join+Telegram:@FarahVPN🟣
 vless://9dc7fc80-3db6-4456-96cd-328cfcf54e25@173.245.59.132:8080?security=none&type=httpupgrade&host=evay-free.ysphs.top.#🔥Join+Telegram:@FarahVPN🟣
+vless://542094fe-c01c-4b7c-9688-d012d3fc7544@104.21.91.90:2096?security=tls&sni=team.infinitespd.com&type=ws&path=/&fp=chrome&alpn=h3,h2,http/1.1&allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@51.21.37.73:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4Y2VlZmMzYi1lYWViLTQ4Y2MtYjk5Zi04YmM3ODhhZjc3ZjE=@outline-tr.connectix-d1.info:1935?type=tcp#🔥Join+Telegram:@FarahVPN🟣
