@@ -176,3 +176,5 @@ vless://a7476853-e660-4667-98d2-027c163727ae@84.47.239.199:80?security=none&type
 vless://8f320d6a-9953-4065-b61c-d62f89a6767f@172.66.40.87:2083?security=tls&sni=e.exedu.ip-ddns.com&type=ws&host=e.exedu.ip-ddns.com&allowInsecure=0#🔥Join+Telegram:@FarahVPN🟣
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.4.108:80?sni=digitalscientificresearchgroup.ir&type=ws&host=digitalscientificresearchgroup.ir#🔥Join+Telegram:@FarahVPN🟣
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.4.4:80?security=none&sni=digitalscientificresearchgroup.ir&type=ws&host=digitalscientificresearchgroup.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@54.170.201.141:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@54.170.201.141:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
