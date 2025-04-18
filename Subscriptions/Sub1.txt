@@ -137,3 +137,10 @@ vless://4088e698-69fd-4d15-98bc-f1fe4c071642@199.34.228.162:443/?type=ws&encrypt
 vless://7c317161-5cf8-4cbc-811a-d1297c41bb23@yapc-1.afshin.ir:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=yapc-1.afshin.ir&fp=chrome#🔥Join+Telegram:@FarahVPN🟣
 vless://3202d35a-c51c-4055-bcd7-3eb000c13dc3@100.21.111.217:80/?type=tcp&encryption=none#🔥Join+Telegram:@FarahVPN🟣
 trojan://b19c4375-d847-4c40-9824-4767c88b5f38@80.225.222.181:10240/?type=tcp&security=tls&sni=www.hk-jd.top#🔥Join+Telegram:@FarahVPN🟣
+vless://fcc8b2f5-7be7-48b7-af2b-f79cd7c6befe@62.60.194.124:57725?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+vless://0cca1132-94a6-476c-ab13-6b28e0727751@104.24.192.51:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=blue-pine-59a0-ppal03.haleyaw148.workers.dev&type=ws#🔥Join+Telegram:@FarahVPN🟣
+vless://033a4982-a8c7-4bfb-9481-5a8a1c62cfd6@104.21.93.95:80?path=%2FiDE2j5JJnqTGPjmS%3Fed%3D2560&security=none&encryption=none&host=azadnet.b0b723a182.workers.dev&type=ws#🔥Join+Telegram:@FarahVPN🟣
+vless://c7d4b0f6-0f18-45a3-97c7-caaf373f032d@5.253.30.14:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#🔥Join+Telegram:@FarahVPN🟣
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2086?path=%2FTelegram%40WedbazTelsecurity&security=none&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws&sni=5-55sfjslf.ifenxiang.cfd#🔥Join+Telegram:@FarahVPN🟣
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2086?path=Telegram-%40&security=none&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws&sni=5-55sfjslf.ifenxiang.cfd#🔥Join+Telegram:@FarahVPN🟣
+vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.4.194:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=none&encryption=none&host=digitalscientificresearchgroup.ir&type=ws#🔥Join+Telegram:@FarahVPN🟣
