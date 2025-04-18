@@ -46,3 +46,13 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.26:8880?mode=gun&security=n
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.7:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
 vless://e89188b0-3cd1-4f56-aaad-078912950049@PROXY-MTM.fastly80-3.hosting-ip.com:80?path=%2FjoinMTMVPN%3Fed%3D2560&security=none&encryption=none&host=mt.acvs.ir&type=ws#🔥Join+Telegram:@FarahVPN🟣
 vless://46cb3ca5-1626-11f0-b2ee-52540017d97b@v2.isafe.fun:4814?security=&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@51.44.135.233:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://4088e698-69fd-4d15-98bc-f1fe4c071642@209.208.227.229:443?sni=digitalscientificresearchgroup.ir&type=ws&host=digitalscientificresearchgroup.ir&allowInsecure=0#🔥Join+Telegram:@FarahVPN🟣
+vless://d75648e7-ebfa-4ef0-9436-82e9d4fb0e4f@188.245.163.7:442?security=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
+vless://523b1406-36a4-4770-a0ad-9866c6eefe80@151.101.130.133:80?sni=snappfood.com&type=ws&host=snappfood.com&allowInsecure=0#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@51.44.135.233:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://961c51ed-b463-47ed-bb6f-b57945d2373f@138.199.165.116:21620?security=none&type=tcp&host=TELEGRAM%20%3A%20MARAMBASHI%20MARAMBASHI#🔥Join+Telegram:@FarahVPN🟣
+vless://5a132527-c9ef-4066-8b1a-5584ff5dfb10@151.145.70.120:443?security=tls&flow=xtls-rprx-vision-udp443&sni=cloud.oracle.com&fp=firefox&allowInsecure=0#🔥Join+Telegram:@FarahVPN🟣
+vless://0a022137-d5d7-48f9-96cf-11b57210d12d@172.67.73.163:8880?security=none&type=httpupgrade&host=vihypercloud.academigroup.ir.#🔥Join+Telegram:@FarahVPN🟣
+vless://30afb0bd-ee92-4722-a083-e03f4d57b04c@104.17.147.22:2095?security=none&type=httpupgrade&host=h1.N.iranshopering.ir.&path=%2F%3Fed%3D2048#🔥Join+Telegram:@FarahVPN🟣
+vless://cd2e9541-3fce-4d95-9bec-919d884f911e@104.21.69.44:443?security=tls&sni=cwhyd.lucas-bezanberim.info&type=ws&host=cwhyd.lucas-bezanberim.info&path=%2Ftiger#🔥Join+Telegram:@FarahVPN🟣
