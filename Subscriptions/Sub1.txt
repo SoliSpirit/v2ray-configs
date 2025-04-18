@@ -55,3 +55,6 @@ vless://5cad53e2-4811-45c9-9835-b60c89821bcc@104.21.5.169:2096?security=tls&flow
 vless://59f14c09-0c21-4634-9752-82738b8f2595@104.21.5.169:2083?security=tls&flow=xtls-rprx-vision&sni=mas2jd2.shang2025.ggff.net&type=ws&host=mas2jd2.shang2025.ggff.net&path=%2F#🔥Join+Telegram:@FarahVPN🟣
 ss://8757944c-6128-4959-a982-7d336a51e2a3@172.66.44.126:443?security=tls&sni=bESTIivpn.paGEs.dEV&type=ws&host=bestiivpn.pages.dev&fp=randomized#🔥Join+Telegram:@FarahVPN🟣
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.154:443?security=tls&sni=147135004002.sec20org.com&type=raw#🔥Join+Telegram:@FarahVPN🟣
+vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@221.131.165.9:11555?security=tls&flow=xtls-rprx-vision-udp443&sni=www.nvidia.com&fp=chrome&allowInsecure=0#🔥Join+Telegram:@FarahVPN🟣
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.25:8880/?type=grpc&encryption=none#🔥Join+Telegram:@FarahVPN🟣
+ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@143.110.137.211:59483?encryption=none&security=none&sni=&type=grpc&host=&path=#🔥Join+Telegram:@FarahVPN🟣
