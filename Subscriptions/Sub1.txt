@@ -48,3 +48,4 @@ vless://d6b8011a-c725-435a-9fec-bf6d3530392c@162.159.153.2:443?security=tls&sni=
 ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@104.17.147.22:8443?path=%2F&security=tls&encryption=none&host=MdLoXlYg.rIcKtMoUsE.InFo&fp=chrome&type=ws&sni=MdLoXlYg.rIcKtMoUsE.InFo#🔥Join+Telegram:@FarahVPN🟣
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
 ss://b41f3d0c-3e2f-4f57-9995-c6bdf2b3204d@156.59.125.66:443/?type=ws&encryption=none&host=hk.mehun.me&path=%2Fbing&security=tls&sni=hk.mehun.me&packetEncoding=xudp#🔥Join+Telegram:@FarahVPN🟣
+vless://5a132527-c9ef-4066-8b1a-5584ff5dfb10@158.179.181.135:443?security=tls&flow=xtls-rprx-vision-udp443&sni=cloud.oracle.com&fp=firefox&allowInsecure=0#🔥Join+Telegram:@FarahVPN🟣
