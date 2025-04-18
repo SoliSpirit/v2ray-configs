@@ -58,3 +58,5 @@ vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.154:443?security=tls&sni
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@221.131.165.9:11555?security=tls&flow=xtls-rprx-vision-udp443&sni=www.nvidia.com&fp=chrome&allowInsecure=0#🔥Join+Telegram:@FarahVPN🟣
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.25:8880/?type=grpc&encryption=none#🔥Join+Telegram:@FarahVPN🟣
 ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@143.110.137.211:59483?encryption=none&security=none&sni=&type=grpc&host=&path=#🔥Join+Telegram:@FarahVPN🟣
+vless://4d775975-4e89-46af-8947-ecafdfa26530@104.17.148.22:80?security=none&type=ws&host=Www.speedtest.net.speedtest2.cfd.&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048#🔥Join+Telegram:@FarahVPN🟣
+ss://e886a00b-b2be-4141-af7a-0e0d8d1434ee@172.67.187.18:2087?security=tls&sni=panel.proxystore11.news&type=ws&host=panel.proxystore11.news&path=%2Fprx11&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
