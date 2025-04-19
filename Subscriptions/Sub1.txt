@@ -186,3 +186,8 @@ vless://f5da3cc4-c81c-418e-a836-fbb53b841caa@77.110.101.4:4810?security=none&typ
 trojan://Aimer@188.164.159.55:2096?allowInsecure=0&sni=epcco.ambercc.filegear-sg.me#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-directvpn@52.58.28.81:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-privatevpns@52.58.28.81:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://10d9df89-9a20-4110-9711-bca119490ee9@104.16.209.110:443/?type=ws&encryption=none&host=masaleini.mahsaamini.dpdns.org&security=tls&sni=masaleini.mahsaamini.dpdns.org&fp=random#🔥Join+Telegram:@FarahVPN🟣
+vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.5.233:80/?type=ws&encryption=none&host=digitalscientificresearchgroup.ir&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🔥Join+Telegram:@FarahVPN🟣
+trojan://bpb-trojan@104.26.4.60:443/?type=ws&host=zamim340.ggff.net&path=%2Ftr&security=tls&sni=zamim340.ggff.net#🔥Join+Telegram:@FarahVPN🟣
+trojan://74260698218909400@patient-crawdad.shiner427.skin:443/?type=tcp&security=tls&sni=patient-crawdad.shiner427.skin#🔥Join+Telegram:@FarahVPN🟣
+vmess://eyJhZGQiOiAia2FwZWxsZW5nLmNvbSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJrYXBlbGxlbmcuY29tIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3Z3cyIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaFZQTlx1ZDgzZFx1ZGZlMyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAia2FwZWxsZW5nLmNvbSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
