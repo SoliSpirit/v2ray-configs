@@ -192,3 +192,4 @@ trojan://xxoo@138.197.5.103:443?security=tls&sni=us.blazeppn.info&type=tcp&heade
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@131.145.95.220:443#🔥Join+Telegram:@FarahVPN🟣
 trojan://xxoo@138.197.5.103:443?security=tls&headerType=none&type=tcp&sni=us.blazeppn.info#🔥Join+Telegram:@FarahVPN🟣
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.4.108:80?path=%2F&security=none&encryption=none&host=digitalscientificresearchgroup.ir&type=ws&sni=digitalscientificresearchgroup.ir#🔥Join+Telegram:@FarahVPN🟣
+vless://45ebbe2f-57b7-41cf-83ef-9ece48635119@84.47.235.218:33585?security=none&encryption=none&host=chess.com&headerType=http&type=tcp#🔥Join+Telegram:@FarahVPN🟣
