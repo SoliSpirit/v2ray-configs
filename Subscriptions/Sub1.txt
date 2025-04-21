@@ -152,3 +152,6 @@ vless://7cc17892-965e-4061-8983-35324980f50f@85.133.206.14:33912?type=ws&path=te
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.209:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
 vless://8250d638-45df-41fa-b06f-160d1cb1de0c@172.67.187.114:443?path=%2FYnqGMcAt%2F&security=tls&encryption=none&host=abc.vpneee.top&type=ws&sni=abc.vpneee.top#🔥Join+Telegram:@FarahVPN🟣
 vless://d534d992-c689-41b1-a690-0ba0b3f5e87e@104.21.21.31:443?path=%2Fswordnewnewnew&security=tls&encryption=none&host=hk.cishanjichang.me&type=ws&sni=hk.cishanjichang.me#🔥Join+Telegram:@FarahVPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:443#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@35.180.108.13:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@35.180.108.13:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
