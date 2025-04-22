@@ -119,3 +119,5 @@ vless://4088e698-69fd-4d15-98bc-f1fe4c071642@168.100.6.173:2095?path=%2FTM%40Aza
 vless://d6a1143b-cdf0-41f8-a646-bd8f11663786@209.208.227.239:443?path=%2F&security=tls&encryption=none&host=cr77.medicalhistory.ir&type=ws&sni=cr77.medicalhistory.ir#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-directvpn@18.195.112.13:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-privatevpns@18.195.112.13:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.53:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
+vless://518ef4fb-1415-4a83-bb0f-2107d322eb0a@185.187.51.76:2053?path=%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=num.2d2d.ir#🔥Join+Telegram:@FarahVPN🟣
