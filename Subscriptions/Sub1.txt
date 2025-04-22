@@ -122,3 +122,5 @@ vless://99578e88-bc64-479f-e498-050bbb70c4d1@zmaoz.faculty.ucdavis.edu:80?encryp
 trojan://telegram-id-directvpn@13.61.113.167:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 vless://99578e88-bc64-479f-e498-050bbb70c4d1@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-privatevpns@13.61.113.167:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://18d8ce6f-a27c-461e-ada8-a7d0a97a023b@104.19.48.236:443?path=%2F&security=tls&encryption=none&host=ad.oldcloud.online&fp=chrome&type=ws&sni=ad.oldcloud.online#🔥Join+Telegram:@FarahVPN🟣
+vless://753fa8e8-a3e8-442e-abf7-875ed776eacb@104.17.221.248:443?path=%2F&security=tls&encryption=none&host=is.oldcloud.online&fp=chrome&type=ws&sni=is.oldcloud.online#🔥Join+Telegram:@FarahVPN🟣
