@@ -158,3 +158,15 @@ trojan://telegram-id-privatevpns@16.16.148.211:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-directvpn@16.16.148.211:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 vless://2a219df1-a04b-4424-bfd2-cb37aeb10b2c@212.95.40.109:7594?mode=gun&security=reality&encryption=none&pbk=AZSptdvlWvvmKWEDTY56UsIcnTP8nGCafvPEQOozrxw&fp=chrome&type=grpc&serviceName=7594vless&sni=dash.cloudflare.com&sid=765e8e700426816c#🔥Join+Telegram:@FarahVPN🟣
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#🔥Join+Telegram:@FarahVPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZnNKemh4Q3I0RkNfdk15NkZZNmNB@65.109.180.201:1080#🔥Join+Telegram:@FarahVPN🟣
+vless://55a4360d-d980-438a-9777-6ef236627ba4@65.109.180.201:443?security=tls&type=tcp&headerType=&path=&host=&sni=marz.pagewp.ir&fp=#🔥Join+Telegram:@FarahVPN🟣
+vless://55a4360d-d980-438a-9777-6ef236627ba4@65.109.180.201:443?security=tls&type=httpupgrade&headerType=&path=&host=python.org&sni=marz.pagewp.ir&fp=#🔥Join+Telegram:@FarahVPN🟣
+vless://55a4360d-d980-438a-9777-6ef236627ba4@65.109.180.201:8080?security=reality&type=tcp&headerType=&path=&host=&sni=telewebion.com&fp=chrome&pbk=9XjMJbjIJAWXmJItqxN8WmhLKzKjaEtNtu_93Y_7MWc&sid=33cd3719771665ea#🔥Join+Telegram:@FarahVPN🟣
+vless://55a4360d-d980-438a-9777-6ef236627ba4@65.109.180.201:443?security=tls&type=grpc&headerType=&serviceName=vless&authority=&mode=gun&sni=marz.pagewp.ir&fp=#🔥Join+Telegram:@FarahVPN🟣
+trojan://BNr2EqVqfC3YtTNiwRXqhA@65.109.180.201:2095?security=none&type=tcp&headerType=&path=&host=#🔥Join+Telegram:@FarahVPN🟣
+vless://55a4360d-d980-438a-9777-6ef236627ba4@65.109.180.201:2052?security=reality&type=grpc&headerType=&serviceName=2053vless&authority=&mode=gun&sni=python.org&fp=chrome&pbk=KysoAVtkAV4VRhryfZUuAwuVXtbzoMpW1q0QbRzLRwE&sid=cd95799483c0939b#🔥Join+Telegram:@FarahVPN🟣
+vless://55a4360d-d980-438a-9777-6ef236627ba4@65.109.180.201:443?security=tls&type=ws&headerType=&path=&host=&sni=marz.pagewp.ir&fp=#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@3.66.134.189:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://64debbff-20b3-4a82-a53c-83fcbcaaba46@sar.nightlegend805.xyz:443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+vmess://eyJhZGQiOiAiMTEyLjEzMi4yMTUuMzQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjUwMDA3IiwgInBzIjogIlx1ZDgzZFx1ZGQyNUpvaW4rVGVsZWdyYW06QEZhcmFoVlBOXHVkODNkXHVkZmUzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+trojan://telegram-id-directvpn@3.66.134.189:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
