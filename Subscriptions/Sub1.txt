@@ -175,3 +175,6 @@ vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@131.186.20.178:27194?security=none&
 vless://91941162-4e29-411f-b986-d16c8d79084a@173.245.59.132:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=de.gt-ov.com&fp=chrome&type=ws&sni=de.gt-ov.com#🔥Join+Telegram:@FarahVPN🟣
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.172.211.211:59483?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjM0@3.36.57.145:1234#🔥Join+Telegram:@FarahVPN🟣
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.20.34:2095?path=%2FTelegram%40WedBaZ&security=none&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws#🔥Join+Telegram:@FarahVPN🟣
+vless://02331e9e-af70-4abb-b4e9-1a1b1e63df9a@85.133.206.14:33912?type=ws&path=telegram:@summertimeus&security=none#🔥Join+Telegram:@FarahVPN🟣
