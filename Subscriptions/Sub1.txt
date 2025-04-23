@@ -144,3 +144,11 @@ vless://48eb8684-aa12-4b6d-b0ef-765193e6fb49@104.16.122.82:80?path=%2FTelegram%4
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.98.57:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=proud-queen-55500071.cexonoc962.workers.dev&type=ws#🔥Join+Telegram:@FarahVPN🟣
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.189.99.53:8880/?type=grpc&encryption=none#🔥Join+Telegram:@FarahVPN🟣
 vless://a3875c94-e968-404c-b62d-5a292d20e6d8@104.16.171.121:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=polished-limit-deb9-ppal03.latopi8673.workers.dev&type=ws#🔥Join+Telegram:@FarahVPN🟣
+trojan://Aimer@damien.ns.cloudflare.com:443?allowInsecure=0&sni=epccd.ambercc.filegear-sg.me#🔥Join+Telegram:@FarahVPN🟣
+vless://c0313f79-308d-4f72-9552-0a63bc89caf7@172.67.187.18:2087?security=tls&sni=panel.proxystore11.news&type=ws&host=panel.proxystore11.news&path=/prx11&fp=chrome&alpn=h3,h2,http/1.1&allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
+vless://5b36ec1a-a046-46c8-954b-9121cccbaf89@185.85.241.196:32763?security=reality&flow=xtls-rprx-vision&sni=yahoo.com&type=tcp&fp=chrome&pbk=0eS3mQP0reX1lAEdCogRY2ZvPJCs9zTTo7CggIUFhyA&sid=d58c9032d2a2e1ba#🔥Join+Telegram:@FarahVPN🟣
+trojan://Aimer@theo.ns.cloudflare.com:443?allowInsecure=0&sni=epccd.ambercc.filegear-sg.me#🔥Join+Telegram:@FarahVPN🟣
+trojan://Aimer@154.197.64.248:8443?allowInsecure=0&sni=epccd.ambercc.filegear-sg.me#🔥Join+Telegram:@FarahVPN🟣
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.38:443?sni=nn.ylks0033.dpdns.org&type=ws&host=nn.ylks0033.dpdns.org&allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowNWQwYmFkOC02ZjBjLTQ0YjktYWM2Mi0yZjY3MmVmNTVjYmU@two.taki.wtf:11111#🔥Join+Telegram:@FarahVPN🟣
+trojan://Aimer@154.197.64.228:2083?allowInsecure=0&sni=epcca.ambercc.filegear-sg.me#🔥Join+Telegram:@FarahVPN🟣
