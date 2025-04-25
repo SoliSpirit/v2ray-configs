@@ -154,3 +154,8 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.64.1:443?path=%2FEujcp9ekQlN
 trojan://telegram-id-directvpn@35.178.55.247:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-privatevpns@35.178.55.247:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 vless://bf4c45e7-2723-457d-8f81-6789c3f42439@www.speedtest.net:8880?path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=join.VPNCUSTOMIZE.iran.ir.arvancloud.ir.nett.ddns-ip.net.&fp=randomized&type=ws#🔥Join+Telegram:@FarahVPN🟣
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.28:8880?type=grpc#🔥Join+Telegram:@FarahVPN🟣
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@108.162.195.227:443?sni=edccs.aimercc.filegear-sg.me&type=ws&allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#🔥Join+Telegram:@FarahVPN🟣
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@108.162.195.236:443?sni=edccs.aimercc.filegear-sg.me&type=ws&allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.32.1:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=redfree8.redorg1.ir&type=ws#🔥Join+Telegram:@FarahVPN🟣
