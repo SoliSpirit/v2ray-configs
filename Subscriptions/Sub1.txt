@@ -76,3 +76,13 @@ vless://3ba4559e-7703-4354-ab33-be9d3ed5e637@64.227.77.203:443?security=none&enc
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpodmFTQk1sYWRtUzBRT053@admin.c4.havij.co:443#🔥Join+Telegram:@FarahVPN🟣
 vless://telegram-id-ArV2ray1@151.101.64.155:80?type=ws&host=mard.ankaboti.com.&path=/-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry?ed%3D2048&security=none#🔥Join+Telegram:@FarahVPN🟣
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.154.136.51:8118#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@35.181.111.2:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@35.181.111.2:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.17.147.22:2096?path=%2F&security=tls&encryption=none&host=ScKzAhYz14.qUiCkOrA.OrG&fp=chrome&type=ws&sni=ScKzAhYz14.qUiCkOrA.OrG#🔥Join+Telegram:@FarahVPN🟣
+vless://7a12ccb8-c431-4cc0-ace9-a994cc4b2ca7@204.10.194.78:443?security=tls&flow=xtls-rprx-vision-udp443&sni=yfnl1.xn--4gq62f52gppi29k.com&fp=chrome#🔥Join+Telegram:@FarahVPN🟣
+vless://05b6508c-9d0a-41c9-a28e-58913e754fac@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=irancell.net.&type=ws#🔥Join+Telegram:@FarahVPN🟣
+vless://b3d6a38a-e833-4d65-bb0f-9af3bb093464@104.26.14.85:80?security=none&type=ws&host=ELOQUEnT-DEmAND.onEeAt.co.&path=%2F%3Fed%3D2048#🔥Join+Telegram:@FarahVPN🟣
+vless://V2RAXX@V2RAXX-channel.cataba.ir:15379?type=ws&path=/@V2RAXX-telegram,@V2RAXX-telegram,@V2RAXX-telegram,@V2RAXX-telegram,@V2RAXX-telegram,@V2RAXX-telegram,@V2RAXX-telegram,@V2RAXX-telegram?ed%3D2560&security=none#🔥Join+Telegram:@FarahVPN🟣
+vless://645a077b-5647-49bd-8817-fc74fcd95bab@104.21.16.1:2053?security=tls&sni=mas42.459.pp.ua&type=ws&host=mas42.459.pp.ua&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔥Join+Telegram:@FarahVPN🟣
+vless://V2RAXX@V2RAXX-channel.cataba.ir:1234?type=grpc&mode=gun&serviceName=/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX&security=none#🔥Join+Telegram:@FarahVPN🟣
+vless://5e209303-24cd-471a-be96-107598465a1b@85.133.206.14:33912?type=ws&path=telegram:@summertimeus&security=none#🔥Join+Telegram:@FarahVPN🟣
