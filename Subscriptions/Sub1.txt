@@ -163,3 +163,5 @@ vless://51a29401-f065-4a8e-8cba-b4804ad27008@104.21.48.1:2096?path=%2F&security=
 vless://9723e4d5-44d3-48ec-91e2-e18c764ad1cc@164.132.28.224:8880?type=tcp&security=reality&pbk=7u1G1jRECn5kX3aJuaTM7SQBXg-AzceBoLmW3NT6mlY&fp=chrome&sni=stackoverflow.com&sid=21&spx=%2F#🔥Join+Telegram:@FarahVPN🟣
 vless://85abf9de-72ee-4831-be4a-c45f7e890c42@164.132.28.224:8080?type=tcp&security=reality&pbk=8X2ya0OqsWPYSyIURpoRj9BF51gXcZ9gQqafSiWL3QA&fp=chrome&sni=stackoverflow.com&sid=e53609&spx=%2F#🔥Join+Telegram:@FarahVPN🟣
 vless://bb338df9-de92-450e-977e-6a2b8b7e7548@164.132.28.224:80?type=tcp&security=reality&pbk=48rDN31V5CZZsVath_qbzxPouYFEbULdxh1Cg3mzKnA&fp=chrome&sni=stackoverflow.com&sid=e53609&spx=%2F#🔥Join+Telegram:@FarahVPN🟣
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@209.208.227.61:2096?path=%2F&security=tls&encryption=none&host=D6rVkPfEgS.aAaZzZaAa-8129.CoM&type=ws&sni=D6rVkPfEgS.aAaZzZaAa-8129.CoM#🔥Join+Telegram:@FarahVPN🟣
+trojan://klZqKyxq0H@57.128.165.173:1935?security=tls&alpn=h2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x1-england-ovh-v2.devefun.net#🔥Join+Telegram:@FarahVPN🟣
