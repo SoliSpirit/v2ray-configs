@@ -180,3 +180,5 @@ vless://862a9a5b-4c3d-4548-bc56-90751a5ff13a@91.92.40.78:2070?security=none&encr
 vless://f156531d-094f-48be-9ca4-b6362c4a88e1@85.133.206.14:33912?path=telegram%3A%40summertimeus&security=none&encryption=none&type=ws#🔥Join+Telegram:@FarahVPN🟣
 vless://37ce86f5-df0c-0384-a4b2-8cedd9a1aedc@37.156.46.44:31548?security=reality&encryption=none&pbk=KmXtdOimd1xGGg7V2rvo74_HxMd6_bzFyosF6Z5c22A&headerType=none&fp=chrome&spx=%2FJOKERRVPNJoin_Bade_Channel%40JOKERRVPN&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=d6d54c08fbbf895f#🔥Join+Telegram:@FarahVPN🟣
 vless://a2f6d49b-6585-4d46-a187-dfc24b08513f@165.232.125.83:443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@35.179.189.29:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@35.179.189.29:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
