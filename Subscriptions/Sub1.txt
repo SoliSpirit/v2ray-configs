@@ -127,3 +127,12 @@ vless://f4ed5ab6-8c23-43dd-8a74-dc71c7d53008@speedtest.net:80?encryption=none&se
 vless://a61fc8cb-0012-4c4b-aa5e-d1c623ae8092@172.67.187.219:8880?path=%2F&security=none&encryption=none&host=worker-late-feather-d436.wedome3486.workers.DEV&type=ws#🔥Join+Telegram:@FarahVPN🟣
 trojan://OLq0FfOlp7@141.227.160.88:1935?security=tls&host=x1-sweden-ovh-v2.devefun.net&headerType=none&type=tcp&sni=x1-sweden-ovh-v2.devefun.net#🔥Join+Telegram:@FarahVPN🟣
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.208.62:2096?encryption=none&security=tls&sni=LhCgBjGr29.vElTrIxS.OrG&alpn=h3%2Ch2&fp=chrome&type=ws&host=LhCgBjGr29.vElTrIxS.OrG&path=%2F#🔥Join+Telegram:@FarahVPN🟣
+vless://0cef07e0-7d1a-4cf2-a33c-c6fd8cfca88f@37.27.252.57:1521?security=none&type=tcp&host=testspeed-foreign.tci.ir&path=%2F&headerType=http#🔥Join+Telegram:@FarahVPN🟣
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.9.172:8880?security=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@172.64.35.199:443?sni=edccf.aimercc.filegear-sg.me&type=ws&host=edccf.aimercc.filegear-sg.me&allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
+vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@45.12.31.95:2087/?type=ws&encryption=none&host=Tp4011KzOr.ScOrPiOnBiGpLaY.oRg&path=%2F&security=tls&sni=Tp4011KzOr.ScOrPiOnBiGpLaY.oRg#🔥Join+Telegram:@FarahVPN🟣
+vless://bdc4d2ce-262a-4654-8173-0718a94500ba@157.180.79.133:32292?security=tls&sni=vu8av8trb21d.dop6.com&type=grpc&serviceName=%40proprojec------------%40proprojec--------%40proprojec-------%40proprojec------%40proprojec------%40proprojec--------&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
+vless://2506f555-b1ba-4d1e-9d15-0bedf54fe521@104.21.92.57:2087?security=tls&sni=panel.proxystore11.news&type=ws&host=panel.proxystore11.news&path=%2Fprx11&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
+vless://401374e6-df77-41fb-f638-dad8184f175b@172.67.68.36:443?security=tls&sni=pqh34v6.hiddendom.shop&type=grpc&host=pqh34v6.hiddendom.shop&alpn=h2#🔥Join+Telegram:@FarahVPN🟣
+vless://d97c0f7a-7976-40d9-a55b-4c52e757f591@37.27.252.57:1521?type=tcp&host=testspeed-foreign.tci.ir&headerType=http#🔥Join+Telegram:@FarahVPN🟣
+vless://401374e6-df77-41fb-f638-dad8184f175b@172.67.68.36:443?security=tls&sni=vp21.hiddendom.shop&type=grpc&host=vp21.hiddendom.shop&alpn=h2#🔥Join+Telegram:@FarahVPN🟣
