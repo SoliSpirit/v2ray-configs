@@ -57,3 +57,5 @@ vless://d9dbea61-3aaa-4466-8997-568dd159853e@83.147.18.150:443?security=reality&
 vless://d97c0f7a-7976-40d9-a55b-4c52e757f591@37.27.193.168:1524?security=none&type=tcp&host=testspeed-foreign.tci.ir&headerType=http#🔥Join+Telegram:@FarahVPN🟣
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@64.225.123.2:59483?security=auto&type=grpc&fp=chrome#🔥Join+Telegram:@FarahVPN🟣
 vless://d97c0f7a-7976-40d9-a55b-4c52e757f591@37.27.193.168:2172?security=reality&sni=chess.com&type=grpc&serviceName=t.me/entryNET&fp=chrome&pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I#🔥Join+Telegram:@FarahVPN🟣
+vless://2d6f2f46-5b1d-4b23-8d13-e91f27137771@193.228.169.148:2081?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=BIA_TELEGRAM_MARAMBASHI_MARAMBASHI&headerType=none&fp=random&type=tcp&sni=client.imesaagetext.ir#🔥Join+Telegram:@FarahVPN🟣
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@188.245.154.13:8880?mode=gun&security=none&encryption=none&authority=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&type=grpc#🔥Join+Telegram:@FarahVPN🟣
