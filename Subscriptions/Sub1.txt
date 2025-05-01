@@ -135,3 +135,6 @@ vless://e671c7ab-796e-42d5-9128-b719c9484f44@172.67.73.163:80?security=none&type
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@206.189.161.57:59483?security=auto&type=grpc&fp=chrome#🔥Join+Telegram:@FarahVPN🟣
 vless://6af7e545-9d69-431a-ae9b-3181c81e13ec@157.180.30.213:36014?security=none&type=ws&path=/---------@proprojec--------@proprojec--------@proprojec-------@proprojec---------#🔥Join+Telegram:@FarahVPN🟣
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.67.68.157:443?sni=hj.ylka.dpdns.org&type=ws&host=hj.ylka.dpdns.org&allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
+trojan://Aimer@154.197.64.173:2053?allowInsecure=0&sni=epccf.ambercc.filegear-sg.me#🔥Join+Telegram:@FarahVPN🟣
+vless://3a9b0631-07be-4d49-8acc-f1ff84a70c05@104.17.147.22:8880?security=none&type=ws&host=join.VPNCUSTOMIZE.iran.ir.arvancloud.ir.nett.ddns-ip.net.&path=%2FChannel----V2ray_Gl----V2ray_Gl----V2ray_Gl---V2ray_Gl---V2ray_Gl---V2ray_Gl%3Fed%3D2048&fp=randomized&alpn=h3%2Ch2%2Chttp%2F1.1#🔥Join+Telegram:@FarahVPN🟣
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.13.140:8443?path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#🔥Join+Telegram:@FarahVPN🟣
