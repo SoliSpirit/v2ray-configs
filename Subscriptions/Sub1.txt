@@ -145,3 +145,5 @@ vless://10d9df89-9a20-4110-9711-bca119490ee9@104.21.96.1:80?path=%2FTM%40AZAFBAY
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.3:2052?path=%2F&security=none&encryption=none&host=vkvd127.mycdn.me&type=ws#🔥Join+Telegram:@FarahVPN🟣
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638816432353653793.prague-shledrc-acbs.info:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
 vless://fc319d2e-3b95-4696-85db-9bdc885960d5@213.219.215.89:443?security=reality&encryption=none&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=maviks.eu&sid=0f917152a871e9c0#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@51.44.151.171:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@51.44.151.171:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
