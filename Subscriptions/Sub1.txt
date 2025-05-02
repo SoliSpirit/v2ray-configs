@@ -63,3 +63,4 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@94.242.230.29:443?security=tls&sni=
 vless://e80f5358-60b1-47ab-b87e-cb9f2add4d29@157.180.79.133:19347?security=tls&sni=vu8av8trb21d.dop6.com&type=ws&path=/@proprojec&fp=chrome&alpn=h3,h2,http/1.1&allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
 vless://401374e6-df77-41fb-f638-dad8184f175b@104.26.3.186:443?security=tls&sni=pqh32v1.hiddendom.shop&type=grpc&host=pqh32v1.hiddendom.shop&alpn=h2#🔥Join+Telegram:@FarahVPN🟣
 vless://fbb7c2ef-4efd-4ef2-829e-32ad9d0f5e9f@45.14.244.188:45329?security=reality&flow=xtls-rprx-vision&sni=google.com&type=tcp&fp=chrome&pbk=cbuN8xiQMZ6tFuXdxQMnnzCda39xT2LzuZzf-mBu11M&sid=e25226f9c1#🔥Join+Telegram:@FarahVPN🟣
+trojan://zsu4Mq3A9J@uk-02.allhubb.info:8443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&fp=random&type=tcp&sni=uk-02.allhubb.info#🔥Join+Telegram:@FarahVPN🟣
