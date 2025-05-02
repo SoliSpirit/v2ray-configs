@@ -159,3 +159,5 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@78.47.141.72:8880?mode=gun&security
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@74.177.172.229:443#🔥Join+Telegram:@FarahVPN🟣
 vless://a49e00ae-0e0d-44ae-a265-95d9af24f521@164.132.28.224:8880?security=reality&encryption=none&pbk=7u1G1jRECn5kX3aJuaTM7SQBXg-AzceBoLmW3NT6mlY&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=stackoverflow.com&sid=21#🔥Join+Telegram:@FarahVPN🟣
 vless://f4ed5ab6-8c23-43dd-8a74-dc71c7d53008@speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@35.178.114.243:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@35.178.114.243:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
