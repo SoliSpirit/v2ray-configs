@@ -147,3 +147,9 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638816432353653793.prague-shledrc-a
 vless://fc319d2e-3b95-4696-85db-9bdc885960d5@213.219.215.89:443?security=reality&encryption=none&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=maviks.eu&sid=0f917152a871e9c0#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-directvpn@51.44.151.171:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-privatevpns@51.44.151.171:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@64.225.117.253:59483?security=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@165.227.11.89:59483?security=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
+vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@162.159.7.226:443?security=tls&sni=d4.medicaldream.ir&type=ws&host=d4.medicaldream.ir&path=/&fp=chrome#🔥Join+Telegram:@FarahVPN🟣
+vless://401374e6-df77-41fb-f638-dad8184f175b@104.129.166.207:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔥Join+Telegram:@FarahVPN🟣
+vless://29241994-36b2-4cc8-a258-b2273c18e8e0@104.26.14.85:80?security=none&type=ws&host=ASsERTive-paIntING.OneEAt.Co.&path=%2F%3Fed%3D2048#🔥Join+Telegram:@FarahVPN🟣
+vless://82b4207c-33ad-44ab-9397-59eab5d80ddb@2393123233.torob.com.tr:6793?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🔥Join+Telegram:@FarahVPN🟣
