@@ -55,3 +55,11 @@ vless://e91f8247-6f77-4a78-8b7a-a9efd793e2b2@www.speedtest.net:80?security=&type
 trojan://telegram-id-directvpn@99.80.179.36:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-privatevpns@99.80.179.36:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 vmess://eyJhZGQiOiAiNDUuMTIuMTM4LjgyIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIi9Kb2luX0JhZGVfQ2hhbm5lbEBKT0tFUlJWUE4iLCAiaWQiOiAiY2RlOWYwNzQtYzkzMC00YWEzLWE1NTgtNDZiYmM5ZDBhNWExIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI1NDc1NyIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaFZQTlx1ZDgzZFx1ZGZlMyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@206.189.168.28:59483?security=auto&type=grpc&fp=chrome#🔥Join+Telegram:@FarahVPN🟣
+vless://f4ed5ab6-8c23-43dd-8a74-dc71c7d53008@151.101.194.228:80?security=none&type=ws&host=foffmelo.com#🔥Join+Telegram:@FarahVPN🟣
+vless://90180df9-329e-478d-a273-ea3800ab2caf@104.22.32.78:2052?security=none&type=ws&host=mosiv2.eliii.mosiv2.mosiv2.www.speedtest.net.mosiv2.mosic7.mosic7.info.#🔥Join+Telegram:@FarahVPN🟣
+vless://c26f5935-bfc4-4b00-b7fd-6bce76a6f4b8@185.204.168.191:27?security=none&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+vless://401374e6-df77-41fb-f638-dad8184f175b@94.242.230.29:443?security=tls&sni=pqh44v2.hiddendom.shop&type=grpc&host=pqh44v2.hiddendom.shop&alpn=h2#🔥Join+Telegram:@FarahVPN🟣
+vless://e80f5358-60b1-47ab-b87e-cb9f2add4d29@157.180.79.133:19347?security=tls&sni=vu8av8trb21d.dop6.com&type=ws&path=/@proprojec&fp=chrome&alpn=h3,h2,http/1.1&allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
+vless://401374e6-df77-41fb-f638-dad8184f175b@104.26.3.186:443?security=tls&sni=pqh32v1.hiddendom.shop&type=grpc&host=pqh32v1.hiddendom.shop&alpn=h2#🔥Join+Telegram:@FarahVPN🟣
+vless://fbb7c2ef-4efd-4ef2-829e-32ad9d0f5e9f@45.14.244.188:45329?security=reality&flow=xtls-rprx-vision&sni=google.com&type=tcp&fp=chrome&pbk=cbuN8xiQMZ6tFuXdxQMnnzCda39xT2LzuZzf-mBu11M&sid=e25226f9c1#🔥Join+Telegram:@FarahVPN🟣
