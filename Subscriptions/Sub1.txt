@@ -42,3 +42,6 @@ vless://666a7af3-1470-46e6-8bad-1909437fa3cd@172.67.73.163:80?security=none&type
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@125.141.26.12:4857#🔥Join+Telegram:@FarahVPN🟣
 trojan://b6200af42ccadea353f5b5856dd20d70@120.233.128.68:39001?allowInsecure=1&sni=120.233.128.68#🔥Join+Telegram:@FarahVPN🟣
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.142.120.139:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔥Join+Telegram:@FarahVPN🟣
+vless://a89fd399-8e64-4084-b363-c9bed3ebb524@18.142.231.20:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gateway.icloud.com&fp=chrome&pbk=LNCmkXw_XXSJ5uWuabVN6PAYGEW9Yef6C3kc9jqoXBI&sid=b1aa86bb600f9a1d&type=tcp&headerType=none#🔥Join+Telegram:@FarahVPN🟣
+trojan://Mojtaba-shieldheart@104.16.211.9:8443?path=%2F%3Fed%3D2560&security=tls&host=broken-bread-6ba6.shieldheart4.workers.dev&fp=randomized&type=ws&sni=broken-bread-6ba6.shieldheart4.workers.dev#🔥Join+Telegram:@FarahVPN🟣
+vless://14ac0d31-2ae5-439a-9ac4-b9bbc9d2f78a@95.164.35.169:32756?security=reality&encryption=none&pbk=0w3vKmbzpqRs-4Kz9W0ECUfFKRXfzR5Oy1tqXPZ6als&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=8852e484a776#🔥Join+Telegram:@FarahVPN🟣
