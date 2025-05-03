@@ -61,3 +61,11 @@ vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@45.82.251.68:1001?type=tcp&security
 vless://10d9df89-9a20-4110-9711-bca119490ee9@tabrizm137.owner.pages.dev:80?path=V2ray_Gl&security=&encryption=none&host=masaleini.mahsaamini.dpdns.org&type=ws#🔥Join+Telegram:@FarahVPN🟣
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.230:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.129:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
+vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@185.133.35.115:443?sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&allowInsecure=0#🔥Join+Telegram:@FarahVPN🟣
+vless://f4ed5ab6-8c23-43dd-8a74-dc71c7d53008@151.101.2.228:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#🔥Join+Telegram:@FarahVPN🟣
+vless://699f6733-5766-42f0-a05b-da23c5ee3817@27.50.48.186:2083?sni=ed.sosocn.filegear-sg.me&type=ws&host=ed.sosocn.filegear-sg.me&allowInsecure=0#🔥Join+Telegram:@FarahVPN🟣
+vless://37f1363a-e041-8ccd-d27f-e542a4a2def5@37.156.46.65:48740?security=tls&flow=xtls-rprx-vision-udp443&sni=stackoverflow.com&fp=chrome&allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
+vless://6965e558-73a4-4808-a778-67e8a82d15aa@190.93.246.61:443?sni=1.659118019.uk&type=ws&host=1.659118019.uk&allowInsecure=0#🔥Join+Telegram:@FarahVPN🟣
+vless://401374e6-df77-41fb-f638-dad8184f175b@45.131.209.193:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔥Join+Telegram:@FarahVPN🟣
+vless://7f56467b-597a-4549-b3a7-2288c47a1d86@104.16.213.133:2083?security=tls&sni=myv2ray-4xs.pages.dev&type=ws&host=myv2ray-4xs.pages.dev&allowInsecure=0#🔥Join+Telegram:@FarahVPN🟣
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@104.24.40.146:8443?sni=bitget1.asdasd.click&type=ws&host=bitget1.asdasd.click&allowInsecure=0#🔥Join+Telegram:@FarahVPN🟣
