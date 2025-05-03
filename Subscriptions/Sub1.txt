@@ -110,3 +110,5 @@ trojan://telegram-id-privatevpns@18.194.237.232:22222?security=tls&alpn=http/1.1
 vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@162.159.7.226:443?path=%2F&security=tls&encryption=none&host=d4.medicaldream.ir&fp=chrome&type=ws&sni=d4.medicaldream.ir#🔥Join+Telegram:@FarahVPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@beesyar.org:8080#🔥Join+Telegram:@FarahVPN🟣
 vless://f12977e6-d296-4d94-9aaf-d31770b70f84@104.21.69.44:443?path=%2F&security=tls&encryption=none&host=cr77.hedieh.dpdns.org&fp=chrome&type=ws&sni=cr77.hedieh.dpdns.org#🔥Join+Telegram:@FarahVPN🟣
+vless://f97af38a-5d88-4f69-b5f9-da254ff23b22@64.227.77.203:443?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
