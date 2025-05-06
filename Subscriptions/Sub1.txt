@@ -39,3 +39,4 @@ vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.17.148.22:2096?security=tls&sni
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@68.183.167.19:59483?security=auto&type=grpc&fp=chrome#🔥Join+Telegram:@FarahVPN🟣
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.16.192.140:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔥Join+Telegram:@FarahVPN🟣
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.167:8880?security=none&sni=pqh35v5.gym35fit.shop&type=grpc#🔥Join+Telegram:@FarahVPN🟣
+vless://bba36957-66e0-4987-88db-7be198612689@www.visa.cn:443?encryption=none&security=tls&sni=channel.azarandooz.workers.dev&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=channel.azarandooz.workers.dev&path=%2F%40AzarAndoozVPN#🔥Join+Telegram:@FarahVPN🟣
