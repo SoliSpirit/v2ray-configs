@@ -12,3 +12,4 @@ vless://787955bb-b64d-4e82-9384-37a57afbcfb0@151.101.3.8:80?mode=auto&path=%2F%4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.151:8080#🔥Join+Telegram:@FarahVPN🟣
 vless://00dfdd9e-c793-44b7-f15d-f37b53f52ce8@95.211.62.200:80?encryption=none&security=reality&sni=refersion.com&fp=chrome&pbk=yYv9vuo4k2scMcm85us3qCADcfhGl9EEB2PjG1MNE10&type=tcp&headerType=none#🔥Join+Telegram:@FarahVPN🟣
 trojan://trojan@104.18.2.150:443?security=tls&sni=main.xicun.us.kg&fp=chrome&type=ws&host=main.xicun.us.kg&path=%2F%3Fed%3D2560#🔥Join+Telegram:@FarahVPN🟣
+trojan://c1451ff5-d32c-48a4-914c-188985a3d5d7@tro-de01.gproxy.gratis:443?security=tls&sni=tro-de01.gproxy.gratis&alpn=h2&fp=chrome&allowInsecure=1&type=grpc&authority=&serviceName=trojan-grpc&mode=gun#🔥Join+Telegram:@FarahVPN🟣
