@@ -110,3 +110,4 @@ vless://872ae5b5-e9af-4aae-b70c-063f37290ae5@142.93.231.14:14769?security=none&t
 vless://4b132e2b-24b1-418b-90e9-a11b619a799b@172.67.150.169:443?security=tls&sni=m1qqaw3.777259.xyz&type=ws&host=m1qqaw3.777259.xyz&path=%2F6pC5ZWNjJLlDlbpi&fp=chrome&alpn=http%2F1.1#🔥Join+Telegram:@FarahVPN🟣
 trojan://Aimer@108.165.152.219:443?allowInsecure=0&sni=epccj.ambercc.filegear-sg.me#🔥Join+Telegram:@FarahVPN🟣
 vless://cb9b1410-a29c-4533-dd58-e2d8de4d0f2d@app.digimobile.top:33120?type=kcp&headerType=wireguard&seed=eFLoW7WEho&security=none#🔥Join+Telegram:@FarahVPN🟣
+vless://740b2fbe-6d3a-4061-ad0f-b5c5486dc92d@cdn.getasa.ir:443?path=%2Fwp-admin&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=cdn.getasa.ir#🔥Join+Telegram:@FarahVPN🟣
