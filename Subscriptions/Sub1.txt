@@ -65,3 +65,5 @@ trojan://telegram-id-directvpn@13.61.114.31:22223?security=tls&alpn=http/1.1&hea
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.173.104:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#🔥Join+Telegram:@FarahVPN🟣
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.176:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#🔥Join+Telegram:@FarahVPN🟣
 vless://b3d82748-e641-430b-8779-7d36b83e9670@142.93.231.14:44111?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
+vless://342e2067-f08c-438a-8ab3-ac1142a2a57c@93.127.180.140:443?security=reality&encryption=none&pbk=dImou9rUd7je5NZZ8ND5ULgPC0Ppxym_p7eJvpnS0Rk&headerType=none&fp=chrome&type=tcp&sni=www.cdn77.com&sid=4e#🔥Join+Telegram:@FarahVPN🟣
+vless://fbf0444d-3941-45ca-a1b2-54f58fc8c43c@65.109.176.100:442?security=reality&encryption=none&pbk=3Ub2-GJ9ldN9dA6hW_e0TG8bIRxVkYu8ewdRjNnAIms&headerType=none&fp=chrome&type=tcp&sni=www.cdn77.com&sid=74#🔥Join+Telegram:@FarahVPN🟣
