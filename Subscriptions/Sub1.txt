@@ -175,3 +175,6 @@ vless://597e868b-6e42-4120-bcd9-32e193b950f9@104.17.48.63:443?security=tls&sni=f
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@108.162.193.110:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me&alpn=h3#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-privatevpns@18.185.39.157:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-directvpn@18.185.39.157:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.17.147.22:2096?path=%2F&security=tls&encryption=none&host=LgUoZjGr14.hAmEcHiRuHaVaSt.cOm&fp=chrome&type=ws&sni=LgUoZjGr14.hAmEcHiRuHaVaSt.cOm#🔥Join+Telegram:@FarahVPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080#🔥Join+Telegram:@FarahVPN🟣
+vless://d4a58e5c-dc29-4b96-8338-9f6e2e29c6ad@ai.naserb-hoshi-3.ir:234/?type=tcp&path=%2F&host=divarcdn.com&headerType=http&security=none#🔥Join+Telegram:@FarahVPN🟣
