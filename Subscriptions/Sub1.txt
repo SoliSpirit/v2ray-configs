@@ -7,3 +7,6 @@ trojan://e6a2e741-0fce-440b-910c-b81325e2263a@94.131.20.3:443?type=tcp&headerTyp
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptTGxoeDNIZkJ0dkl0TFRm@admin.c4.havij.co:443?type=tcp#🔥Join+Telegram:@FarahVPN🟣
 vless://f38c3db8-2f44-49be-9a1e-ce4ec72ba614@sub.atakconfig.com:8081?type=tcp&security=none#🔥Join+Telegram:@FarahVPN🟣
 vless://e52b5a89-774d-45db-9539-580c45163dfb@sa2.nightlegend805.xyz:19810?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@51.44.187.248:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@188.114.97.155:80?path=%2Ftelegram-mtmvpn%2F%3Fed%3D2560&security=none&encryption=none&host=showmo.wfft.ir&type=ws#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@51.44.187.248:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
