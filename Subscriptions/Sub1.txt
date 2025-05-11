@@ -183,3 +183,4 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@49.12.210.182:80?type=ws&host=reedf
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.22.24.195:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev#🔥Join+Telegram:@FarahVPN🟣
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@64.225.37.228:59483?security=auto&type=grpc&fp=chrome#🔥Join+Telegram:@FarahVPN🟣
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@104.248.215.50:59483?security=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
+vless://21e06e9c-aaf6-4f49-9ec3-30a40cac2285@marz.fastbest.ir:8899?mode=gun&security=reality&encryption=none&pbk=E0lG_4RGoely0EhawUyTjR68gnQgGyOSz5Drei5ilTQ&fp=chrome&type=grpc&serviceName=8899vless&sni=www.bluenetworks.it&sid=06b7f893cbc024ff#🔥Join+Telegram:@FarahVPN🟣
