@@ -127,3 +127,6 @@ vless://54692427-f0ac-49fc-8244-2e0d0823426b@68.183.206.122:4993?type=grpc#🔥J
 vless://c0d3ba02-7d95-464e-90ca-8a89e46ab9b6@143.110.212.234:18172?security=none&type=tcp&host=fast.com&path=%2F&headerType=http#🔥Join+Telegram:@FarahVPN🟣
 vless://0a23af3f-3f9b-4333-ae89-796f7fe2f9ce@172.67.219.54:443?security=tls&sni=4rRrRRRrRrRRrrTTtTtttTyyYYyYyyyiIIiIIIiooOOOoooooOoo.HUAngdi2031.dPDns.ORG&type=ws&host=4rrrrrrrrrrrrrttttttttyyyyyyyyyiiiiiiiiooooooooooooo.huangdi2031.dpdns.org&alpn=http/1.1#🔥Join+Telegram:@FarahVPN🟣
 vless://25d85748-3160-4dec-bedb-1d018d5e6d5f@65.108.63.194:1717?security=none&type=tcp&host=/TELEGRAM@MARAMBASHI_MARAMBASHI#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@3.74.122.89:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@3.74.122.89:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
