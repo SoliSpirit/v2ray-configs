@@ -45,3 +45,4 @@ vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@178.128.183.4:59483?security=auto&t
 vless://3d803776-ed24-4a97-a6ed-33b4fb7f3ab6@85.239.60.43:443?security=tls&flow=xtls-rprx-vision&sni=lon5.vpntype.dev&type=tcp&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔥Join+Telegram:@FarahVPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.146:8080#🔥Join+Telegram:@FarahVPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🔥Join+Telegram:@FarahVPN🟣
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=none&security=tls&sni=UfTwJzAj.rIpLeToOrY.InFo&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=UfTwJzAj.rIpLeToOrY.InFo&path=%2F#🔥Join+Telegram:@FarahVPN🟣
