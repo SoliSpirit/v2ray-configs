@@ -28,3 +28,4 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.168:8880?type=grpc&mode=
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?type=tcp&headerType=none&security=tls&sni=nacho-rerun-crepe.stark-industries.solutions#🔥Join+Telegram:@FarahVPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQQnJ0czVBdTRHTTlhcjdiVE55WkV1@85.208.139.69:63861?type=tcp#🔥Join+Telegram:@FarahVPN🟣
 vless://588f094b-431b-422c-b80b-007945037072@95.164.47.60:443?type=ws&host=de02.abvpn.ru&path=/websocket&security=tls&sni=de02.abvpn.ru#🔥Join+Telegram:@FarahVPN🟣
+vless://ab3faf7c-4452-4f34-938f-6dcee3b406a2@gr-tcp-mci.connectix-d1.info:8081?security=&encryption=none&host=journalofbigdata.springeropen.com&headerType=http&type=tcp#🔥Join+Telegram:@FarahVPN🟣
