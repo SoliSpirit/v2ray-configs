@@ -41,3 +41,4 @@ vless://eb1107fb-e952-46da-84ea-8ae4361cb91b@dl1.safedata.space:41566?security=n
 vless://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948?security=none&type=tcp&headerType=http&host=divarcdn.com&packetEncoding=xudp&encryption=none#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-privatevpns@52.57.57.22:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-directvpn@52.57.57.22:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.237:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@FarahVPN🟣
