@@ -93,3 +93,4 @@ vless://e2286c5e-d910-405f-9bcb-b0e81188ad53@151.101.128.155:80?security=none&ty
 vless://65343a27-de9d-4b0c-ab0a-562309c94d2b@157.180.81.95:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#🔥Join+Telegram:@FarahVPN🟣
 vless://9bf09a16-c5f1-4c9f-889d-25b9889df1b0@91.107.181.155:2025?security=none&type=grpc&serviceName=vless&packetEncoding=xudp&encryption=none#🔥Join+Telegram:@FarahVPN🟣
 vless://d2d622b2-66d0-4a89-a02f-40885ee01409@65.108.92.15:1010?security=reality&sni=refersion.com&fp=chrome&pbk=FdMFSpgEwT0nhczf37d-Z8gFgJtwyV4C_pJlnOTScUA&type=tcp&packetEncoding=xudp&encryption=none#🔥Join+Telegram:@FarahVPN🟣
+vless://47c77f54-7d38-48ab-b73e-775eb40b82d6@marz.fastbest.ir:5541?security=reality&type=tcp&headerType=&path=&host=&sni=prosegur.com&fp=chrome&pbk=Q4FlYQIDbIQT_xPDDwcbOU6RAqHdgdwyntwrkNdTu0c&sid=61c9c609ba0058ab#🔥Join+Telegram:@FarahVPN🟣
