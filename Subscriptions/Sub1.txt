@@ -142,3 +142,9 @@ vless://039c1d1a-1a42-41e2-b2df-fc0a0a487d49@www.speedtest.net:80?security=&type
 trojan://telegram-id-directvpn@15.236.1.58:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-privatevpns@15.236.1.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 vless://e792ea19-00ba-43e0-be65-737b62352896@o.soskom.ir:39439?mode=gun&security=reality&encryption=none&pbk=axLa2Yb5VegTFNy2v8chJvX6ShWl5v9jPgyGeFpTMwA&fp=chrome&spx=%2F&type=grpc&serviceName=TEL%20%3B%20%40v2ray-store&sni=yahoo.com&sid=1f#🔥Join+Telegram:@FarahVPN🟣
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@216.24.57.20:8880?security=none&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed#🔥Join+Telegram:@FarahVPN🟣
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.152:80?security=none&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed#🔥Join+Telegram:@FarahVPN🟣
+vless://a5104a1b-c255-4488-860a-68a64bd27c2c@141.227.128.80:2030?security=tls&sni=refersion.com&type=grpc#🔥Join+Telegram:@FarahVPN🟣
+vless://7f93e196-1b2f-4a42-8051-5815554c05db@52.90.225.40:443?security=tls&flow=xtls-rprx-vision-udp443&sni=zula.ir&fp=chrome&allowInsecure=0#🔥Join+Telegram:@FarahVPN🟣
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.218.15.20:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔥Join+Telegram:@FarahVPN🟣
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.210.236:80?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%3A%20%40vpnAndroid2%2F%3Fed%3D2560#🔥Join+Telegram:@FarahVPN🟣
