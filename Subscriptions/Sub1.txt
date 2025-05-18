@@ -163,3 +163,5 @@ trojan://telegram-id-privatevpns@56.228.78.101:22222?allowInsecure=0&sni=trojan.
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.234:443?allowInsecure=1&sni=icecream.955850.xyz&ws=1&wspath=%2Fproxyip%3D45.67.215.234%3A443#🔥Join+Telegram:@FarahVPN🟣
 trojan://telegram-id-directvpn@3.120.242.252:22223?allowInsecure=0&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
 trojan://tg-fq521free@45.67.215.95:443?allowInsecure=0&sni=torjan.xn--xhq44j.eu.org&ws=1&wspath=%2F#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-directvpn@3.78.68.137:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
+trojan://telegram-id-privatevpns@3.78.68.137:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@FarahVPN🟣
