@@ -170,3 +170,6 @@ vless://38141d3b-ddde-4a2f-8d26-a31ddcd49c8a@104.21.7.193:8080?security=none&typ
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.204:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@Farah_VPN🟣
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638817026935097685.amsterdam-shledrc-accc.info:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@Farah_VPN🟣
 vless://chan3l%40V2rayvpn_official@n1.boutiqueman.shop:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=n1.boutiqueman.shop#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-directvpn@52.47.56.53:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-privatevpns@52.47.56.53:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638781262651218085.london-shledrc-acad.info:8880?encryption=none&security=none&type=grpc&headertype=none&mode=gun#🔥Join+Telegram:@Farah_VPN🟣
