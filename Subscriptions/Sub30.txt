@@ -1,3 +1,4 @@
+vmess://eyJhZGQiOiAiMTU5LjY5LjE4MC4zNCIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICI2YjdjYmM0MS1mYjgwLTQxYTgtOGViNi1iNWJkYjBlODYxNDciLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiaHR0cCIsICJ2IjogIjIifQ==
 vmess://eyJhZGQiOiAiMTYyLjE5LjIyNi44NCIsICJhaWQiOiAiMCIsICJob3N0IjogIjE2Mi4xOS4yMjYuODQiLCAiaWQiOiAiYTQwMjVmNWEtM2JlYi00MzVkLTg5NWQtZjg5MjA5YzNiMmRlIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9KQUdPQU5TU0gvIiwgInBvcnQiOiAiODAiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
 vmess://eyJhZGQiOiAiMTYyLjU1LjE3NC4xMzUiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNGQ5YWE2ZGItNzA1YS00YmZhLWIwNWItOGY0NDJjODM5NTU3IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9ncmFwaHFsIiwgInBvcnQiOiAiODAiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
 vmess://eyJhZGQiOiAiMTYyLjU1LjMyLjYyIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogIjZiN2NiYzQxLWZiODAtNDFhOC04ZWI2LWI1YmRiMGU4NjE0NyIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIlx1ZDgzZFx1ZGQyNUpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTlx1ZDgzZFx1ZGZlMyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJodHRwIiwgInYiOiAiMiJ9
@@ -94,6 +95,7 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.9.236:443?security=tls&sni=a
 vless://428287e2-0a51-42d5-89a5-d07f5f10a481@185.146.173.39:8080?security=none&type=httpupgrade&host=DE-sNaPp.aCaDeMiGrOuP.ir.&path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048#🔥Join+Telegram:@Farah_VPN🟣
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@167.68.4.172:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔥Join+Telegram:@Farah_VPN🟣
 vless://30a082ad-3ebb-43d8-813c-f25072205c6d@104.18.20.135:443?security=tls&sni=25700.lanpinguo.cloud-ip.biz&type=ws&host=25700.lanpinguo.cloud-ip.biz&path=%2F%3Fed%3D2560&fp=randomized#🔥Join+Telegram:@Farah_VPN🟣
+vless://463dab82-af4f-4b16-8f05-36bd1c71477b@188.114.96.3:2096?security=tls&sni=JOiNmAHDisERVeR-Sh8.paGEs.DeV&type=ws&host=joinmahdiserver-sh8.pages.dev&path=%2F3iSRXE0aYaBPlNOF%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.121.43.71:8119#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZW1sS1pMMjRnWmY5WDhleWtGZHly@195.16.74.107:35570#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.154.136.132:5600#🔥Join+Telegram:@Farah_VPN🟣
@@ -142,6 +144,7 @@ ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@67.220.95.133:7307#🔥Join+Telegram:@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@18.179.37.79:2377#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSc1RJaldiSzNrMGJ2OFVuOHJQNVlQ@193.233.253.224:38264#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@211.72.214.21:2377#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Aimer@104.17.99.31:443?sni=epccg.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
 trojan://auto@188.114.99.81:443?security=tls&sni=mazq100za43.962dael.workers.dev&type=ws&host=mazq100za43.962dael.workers.dev&path=/#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Aimer@162.159.153.103:443?sni=epcca.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
@@ -190,3 +193,4 @@ trojan://Aimer@104.16.76.92:443?sni=epccf.ambercc.filegear-sg.me#🔥Join+Telegr
 trojan://Aimer@162.159.140.164:443?sni=epcca.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
 trojan://95b@154.211.8.90:443?security=tls&sni=68123106-3e43-4958-b75a-b06e81eabf79.50d88e28-a870-497d-bf87-c20fb6802871.camdvr.org#🔥Join+Telegram:@Farah_VPN🟣
 trojan://blue2024@188.114.99.102:443?sni=hb.lii2010.us.kg#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@103.116.7.248:443?security=tls&sni=epmw.ambercc.filegear-sg.me&type=ws&host=epmw.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔥Join+Telegram:@Farah_VPN🟣
