@@ -107,3 +107,5 @@ vless://cb1bd2cd-0635-4b6e-a05c-2f45cd1c140e@184.174.96.158:2052/?type=grpc&encr
 trojan://Aimer@192.3.127.231:443/?type=ws&host=epmw.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=epmw.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
 vless://1549e70f-dc57-45e3-ac7c-515f0161db72@172.67.155.140:443/?type=ws&encryption=none&host=xxse.huangshang.dpdns.org&path=%2FIKLitbwX0RSt1mktNrT&security=tls&sni=XXSe.hUaNGsHaNg.DpdNS.org&alpn=http%2F1.1&fp=chrome#🔥Join+Telegram:@Farah_VPN🟣
 vless://190492bf-0111-451b-aa16-3490dacd1be7@a.nl.maviks.eu:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=maviks.eu&fp=chrome&security=reality&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-directvpn@3.74.181.8:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-privatevpns@3.74.181.8:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
