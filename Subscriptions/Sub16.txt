@@ -70,6 +70,7 @@ ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#🔥Join+Teleg
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.217:8080#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.126.122:8388#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Mitivpn@104.18.32.47:2053?type=ws&security=tls&path=/?ed=2048&host=dash.hitgram.ir&sni=dash.hitgram.ir&alpn=http/1.1&fp=chrome&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Mitivpn@165.215.250.160:443?path=/?ed=mitivpn&security=tls&alpn=h2,http/1.1&insecure=1&host=panel.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=panel.hitgram.ir#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Mitivpn@198.62.62.8:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=dash.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=dash.hitgram.ir#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Mitivpn@208.103.161.33:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=0&host=cdn.hitgram.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.hitgram.ir#🔥Join+Telegram:@Farah_VPN🟣
@@ -93,4 +94,3 @@ trojan://Mitivpn@45.130.125.76:443?path=/?ed=mitivpn&security=tls&alpn=h2,http/1
 trojan://Mitivpn@45.130.125.76:443?type=ws&security=tls&path=/?ed&host=www.hitgram.ir&sni=www.hitgram.ir&alpn=http/1.1&fp=chrome&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Mitivpn@45.130.125.76:443?type=ws&security=tls&path=/?ed=mitivpn&host=panel.hitgram.ir&sni=panel.hitgram.ir&alpn=h2,http/1.1&fp=chrome&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
 trojan://T9BpZIVMNv@v1.dabache.top:8443?path=/amd&security=tls&insecure=1&host=sweden.vmaxpanel.com&fp=chrome&type=ws&allowInsecure=1&sni=sweden.vmaxpanel.com#🔥Join+Telegram:@Farah_VPN🟣
-trojan://VPNCUSTOMIZE@45.81.58.159:443?path=/lousyrestateme?ed=2048&security=tls&fp=chrome&type=ws&sni=www.godaddy.cc.cd#🔥Join+Telegram:@Farah_VPN🟣
