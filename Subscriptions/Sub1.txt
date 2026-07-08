@@ -110,3 +110,7 @@ trojan://telegram-id-privatevpns@13.37.122.139:22222?security=tls&alpn=http/1.1&
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&host=%2F%3F&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188#🔥Join+Telegram:@Farah_VPN🟣
 vless://b595a257-1c1c-4843-a0ab-46d650be5b19@fast.motorbazan.com:443?security=tls&type=ws&headerType=&path=&host=loosboijji.global.ssl.fastly.net&sni=ssl.fastly.com&fp=#🔥Join+Telegram:@Farah_VPN🟣
 vless://c282b04e-f7a1-4196-8368-5701c6882a58@81.90.147.151:9185?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMVlTV05WV2Z1Zm9scGxL@20.164.216.112:443#🔥Join+Telegram:@Farah_VPN🟣
+trojan://humanity@104.16.174.36:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🔥Join+Telegram:@Farah_VPN🟣
+vless://54f6511e-5ea2-46b8-8475-7adc729ece51@webmail.azinsaraco.ir:443?path=%2FZEUS_PANEL_BOT&security=tls&encryption=none&insecure=0&host=zeus-panel-cxyca3.zeus-butoun.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=zeus-panel-cxyca3.zeus-butoun.workers.dev#🔥Join+Telegram:@Farah_VPN🟣
+vless://d7870f16-1c35-445f-9ff9-36f052895b34@151.101.193.57:80?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000-1000000%22%7D&host=monopoli.global.ssl.fastly.net&type=xhttp#🔥Join+Telegram:@Farah_VPN🟣
