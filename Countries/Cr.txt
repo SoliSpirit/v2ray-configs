@@ -1,2 +1,5 @@
 trojan://bpb-trojan@190.93.244.202:443?path=/tr?ed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#🔥Join+Telegram:@Farah_VPN🟣
+vless://764ce064-b6e7-4279-a014-4547883eee15@190.93.246.54:8880?type=ws&security=none&encryption=none&path=/kouroshasli_panel&host=kourosh-asli-ncjeuv.kourosh-gnlroc.workers.dev&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
+vless://764ce064-b6e7-4279-a014-4547883eee15@190.93.246.54:8080?type=ws&security=none&encryption=none&path=/kouroshasli_panel&host=kourosh-asli-ncjeuv.kourosh-gnlroc.workers.dev&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
 vless://dd6af632-e4bb-400a-922f-43f75ec89d64@190.93.245.94:443?mode=auto&path=/v1/api/sync/f47ac10b58cc4372a5670e02b2c3d479&security=tls&alpn=h2&encryption=none&insecure=0&host=api-ws-de.nxping.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=api-ws-de.nxping.ir#🔥Join+Telegram:@Farah_VPN🟣
+vless://764ce064-b6e7-4279-a014-4547883eee15@190.93.246.54:8080?path=/kouroshasli_panel&security=none&encryption=none&insecure=0&host=kourosh-asli-ncjeuv.kourosh-gnlroc.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=kourosh-asli-ncjeuv.kourosh-gnlroc.workers.dev#🔥Join+Telegram:@Farah_VPN🟣
