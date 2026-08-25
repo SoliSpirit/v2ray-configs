@@ -116,7 +116,6 @@ vless://2b9889fd-c379-46a0-88bf-0b1c13df2de1@164.90.171.176:55397?security=&encr
 vless://2b9889fd-c379-46a0-88bf-0b1c13df2de1@164.90.171.176:55397?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://2c11796c-d642-4d80-819b-226ddba44561@46.249.103.67:443?authority=&encryption=none&security=none&serviceName=&type=grpc#🔥Join+Telegram:@Farah_VPN🟣
 vless://2c122b00-78ed-44af-ae96-61f0786bf8a6@104.24.16.23:443?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=dark-rain-2989.gzgshsgs.workers.dev#🔥Join+Telegram:@Farah_VPN🟣
-ss://YWVzLTI1Ni1nY206SGk5d2sxNFZudHpHcTdrcQ@154.12.242.150:80?type=tcp&amp;headerType=none#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI@108.181.0.177:8388?type=tcp&amp;headerType=none#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882?type=tcp&amp;headerType=none#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFeUd5MTFCTWZlUC02VUhqc2dhald3@64.188.77.159:8390?type=tcp&amp;headerType=none#🔥Join+Telegram:@Farah_VPN🟣
@@ -175,3 +174,4 @@ ss://8212a50b-25bf-4739-bba1-aaffb5ffc84c@194.55.189.249:40443?security=reality&
 ss://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?mode=stream-one&amp;path=%2Fkavir&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%28WindowsNT10.0%3BWin64%3Bx64%29AppleWebKit%2F537.36%28KHTML%2ClikeGecko%29Chrome%2F101.0.4951.67Safari%2F537.36%22%7D%2C%22noGRPCHeader%22%3Atrue%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%226%22%2C%22hKeepAlivePeriod%22%3A12%7D%7D&amp;insecure=0&amp;host=dey.lnmarketplace.net&amp;type=xhttp&amp;allowInsecure=0&amp;sni=dey.lnmarketplace.net#🔥Join+Telegram:@Farah_VPN🟣
 ss://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@140.99.223.19:443?security=reality&amp;encryption=none&amp;pbk=wx4B5IBeGc_0h6XZW6714G7951zLUYILv6eNRSgPDl8&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=savesafe.run&amp;sid=e4f6a3446ac34a24#🔥Join+Telegram:@Farah_VPN🟣
 ss://14da77da-4fb3-4e49-ac4f-7881ea19b267@neth6.lckdwn.ru:8443?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=edge&amp;type=tcp&amp;allowInsecure=0&amp;sni=neth6.lckdwn.ru#🔥Join+Telegram:@Farah_VPN🟣
+ss://4bc8ff7a-20b4-41b2-9751-dfca869f0553@gb1.wba-pn.ru:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=gb1.wba-pn.ru&amp;fp=qq&amp;type=ws&amp;allowInsecure=0&amp;sni=gb1.wba-pn.ru#🔥Join+Telegram:@Farah_VPN🟣
