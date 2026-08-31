@@ -164,3 +164,7 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@155.46.167.30:8880?security=&encryp
 vless://OwLimbo@65.20.84.60:443?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=rW32mnGIawfF0HfU6-NYsue8jXVfGIBgEwgIEHC-FBY&sid=485c0fafd745&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
 vless://31f0e05b-2126-46ea-8f47-34e60defaa1b@tr2.diginoisb.ir:54178?type=tcp&security=none&headerType=none&encryption=none#🔥Join+Telegram:@Farah_VPN🟣
 vless://85223e1a-f55d-4d0d-b27d-39e8be49d220@83.147.246.153:4100?encryption=none&security=none&type=ws&host=live.ok.ru&path=%2Fv1#🔥Join+Telegram:@Farah_VPN🟣
+vless://50414e45-4c5f-5a45-5553-cfe2811bf0fc@104.25.0.3:443?path=%2Fstream%2FPANEL_ZEUS%2Fcfe2811bf0fc&security=tls&encryption=none&host=ez-6cdceb.iaznp3e6ujbs.workers.dev&fp=ios&type=ws&sni=ez-6cdceb.iaznp3e6ujbs.workers.dev#🔥Join+Telegram:@Farah_VPN🟣
+vless://4f4e338c-7f35-4917-9aab-107d16c2c9c0@we.paydar.site:443?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://50414e45-4c5f-5a45-5553-3a2eeec5969f@104.16.0.63:443?path=%2Fstream%2FPANEL_ZEUS%2F3a2eeec5969f&security=tls&fragment=200-3000%2C1-2&encryption=none&insecure=0&host=ez-6cdceb.iaznp3e6ujbs.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=ez-6cdceb.iaznp3e6ujbs.workers.dev#🔥Join+Telegram:@Farah_VPN🟣
+vless://7a4a2a6e-645e-4b5e-a3ad-f59da40e3784@w2.beraghsadevs.ir:49341?flow=&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com&path=/&security=none#🔥Join+Telegram:@Farah_VPN🟣
