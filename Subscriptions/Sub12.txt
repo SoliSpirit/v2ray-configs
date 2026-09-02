@@ -71,8 +71,6 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBO
 vmess://eyJhZGQiOiAiMTQwLjgzLjUxLjE2MSIsICJhaWQiOiAwLCAiaG9zdCI6ICIxNDAuODMuNTEuMTYxIiwgImlkIjogIjY3MzNjMzU3LWJhMTEtNGU5Zi1mMDBmLTdkODdmMjc3NmZmOSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvY2N0djEzLm0zdTgiLCAicG9ydCI6ICIyNTY4NiIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMiLCAic25pIjogIjE0MC44My41MS4xNjEiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgImFkZCI6ICIxNDAuODMuNTEuMTYxIiwgInBvcnQiOiAyNTY4NiwgImlkIjogIjY3MzNjMzU3LWJhMTEtNGU5Zi1mMDBmLTdkODdmMjc3NmZmOSIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIi9jY3R2MTMubTN1OCIsICJ0bHMiOiAiYXV0byIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiJ9
 vmess://eyJhZGQiOiAiMTQwLjgzLjUxLjE2MSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJob3N0IjogImpwMDIuYTBhLnh5eiIsICJpZCI6ICI2NzMzYzM1Ny1iYTExLTRlOWYtZjAwZi03ZDg3ZjI3NzZmZjkiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2NjdHYxMy5tM3U4IiwgInBvcnQiOiAiMjU2ODYiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogInZtZXNzIiwgInYiOiAiMiJ9
-vless://83f17de9-04dd-45af-bc7f-3f4e969cc613@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=Swedenman.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#🔥Join+Telegram:@Farah_VPN🟣
-vless://fcf4e373-29bc-4398-aa26-71ed1923bafe@46.8.102.77:443?security=&encryption=none&headerType=&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://fcf4e373-29bc-4398-aa26-71ed1923bafe@46.8.102.77:443?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://d70e525c-67bd-4261-b7f5-96589be5b3b0@185.110.189.172:443?encryption=mlkem768x25519plus.native.0rtt.-0MXXOstBc09cB1tSeGN1pwYBzVEiVW__njsxK2hd14&security=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://fb9b7935-e1d8-4342-b26c-d71c439fa29d@185.110.189.172:443?encryption=mlkem768x25519plus.native.0rtt.-0MXXOstBc09cB1tSeGN1pwYBzVEiVW__njsxK2hd14&security=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
@@ -144,6 +142,8 @@ vless://5bd820f0-69cb-4d6a-b42d-c0dfe2edffcd@5.152.223.192:443?security=reality&
 vless://d67af820-f54c-48ab-862c-19086357f276@node5.get-tres.ru:443?security=reality&encryption=none&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=telegraf.lv&sid=e5f67890#🔥Join+Telegram:@Farah_VPN🟣
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg5.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw&fp=firefox&type=grpc&serviceName=gw.v2.RelayService&sni=bg5.univesalsrv.com&sid=1a3102bb8e51399e#🔥Join+Telegram:@Farah_VPN🟣
 vless://255386a8-aec5-4425-bfe7-ca49b7448deb@193.160.32.36:2053?security=reality&encryption=none&pbk=Sh2F8IDDBaFvXPI59IwN-25UR1G0fjXNmuVqwNbTpUk&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=c87bfa39a28a95b9#🔥Join+Telegram:@Farah_VPN🟣
+vless://255386a8-aec5-4425-bfe7-ca49b7448deb@193.160.32.36:2053?security=reality&encryption=none&pbk=Sh2F8IDDBaFvXPI59IwN-25UR1G0fjXNmuVqwNbTpUk&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=c87bfa39a28a95b9#🔥Join+Telegram:@Farah_VPN🟣
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.160:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&host=panel.freesavesafe.com&fp=firefox&type=xhttp&sni=panel.freesavesafe.com&sid=812609fa663c57fb#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.147:8080#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.198:8080#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#🔥Join+Telegram:@Farah_VPN🟣
@@ -282,11 +282,8 @@ trojan://humanity@render.com:443?path=%2Fassignment&amp;security=tls&amp;insecur
 trojan://MiTiVPN@199.232.78.160:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=1--2---3--mitivpn.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://MiTiVPN@151.101.56.7:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FD-e2%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=mitivpn-ss-ss.global.ssl.fastly.net&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
-trojan://humanity@45.130.125.160:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#🔥Join+Telegram:@Farah_VPN🟣
+trojan://humanity@104.18.152.159:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment&host=www.ignitelimit.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://humanity@104.18.152.179:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#🔥Join+Telegram:@Farah_VPN🟣
-trojan://humanity@104.18.152.204:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#🔥Join+Telegram:@Farah_VPN🟣
-trojan://humanity@104.26.15.137:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment&host=www.ignitelimit.com#🔥Join+Telegram:@Farah_VPN🟣
-trojan://humanity@141.101.90.101:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#🔥Join+Telegram:@Farah_VPN🟣
-trojan://humanity@104.16.174.121:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#🔥Join+Telegram:@Farah_VPN🟣
-trojan://humanity@104.18.152.155:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#🔥Join+Telegram:@Farah_VPN🟣
-trojan://humanity@104.18.152.210:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment&host=www.ignitelimit.com#🔥Join+Telegram:@Farah_VPN🟣
+trojan://humanity@104.16.174.34:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment&host=www.ignitelimit.com#🔥Join+Telegram:@Farah_VPN🟣
+trojan://humanity@www.ignitelimit.com:443?security=tls&type=ws&path=/assignment#🔥Join+Telegram:@Farah_VPN🟣
+trojan://humanity@render.com:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#🔥Join+Telegram:@Farah_VPN🟣
