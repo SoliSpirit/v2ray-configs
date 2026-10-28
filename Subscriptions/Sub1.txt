@@ -13,3 +13,4 @@ trojan://humanity@8.6.112.206:443?path=%2Fassignment&security=tls&alpn=http%2F1.
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.48.21:22222?encryption=none&security=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://humanity@162.159.228.224:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🔥Join+Telegram:@Farah_VPN🟣
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.48.21:22223?encryption=none&security=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://ad0fe7ae-3f8b-4586-b692-ca115e4a137f@edge-pl01.onvanet.com:443?security=reality&encryption=none&pbk=Mz9CMB-ETb9PDYuXgE5ze5Qner6pcNWu_Uur3bzKAU0&headerType=none&fp=chrome&type=tcp&sni=googleapis.com&sid=1acae32041107991#🔥Join+Telegram:@Farah_VPN🟣
