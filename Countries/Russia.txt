@@ -42,6 +42,7 @@ ss://fd90e601-a56c-42b8-aab7-aa02d26fcb04@31.177.111.134:443?encryption=none&amp
 vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@185.221.213.22:443?path=/assets/sync-6d2f4a&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Frfast11.onlineai.pro&fp=chrome&type=ws&allowInsecure=0&sni=Frfast11.onlineai.pro#🔥Join+Telegram:@Farah_VPN🟣
 vless://019fbe0f-2d9f-4b89-9f81-e1e36129892a@77.110.105.122:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=co-pl.speedtec.ru#🔥Join+Telegram:@Farah_VPN🟣
 vless://04920673-035c-410d-94e4-5b1469d3fb6f@91.132.190.161:443?flow=xtls-rprx-vision&security=tls&sni=171.22.183.166#🔥Join+Telegram:@Farah_VPN🟣
+vless://04920673-035c-410d-94e4-5b1469d3fb6f@91.132.190.161:443?sni=171.22.183.166&alpn=h2%2Chttp/1.1&flow=xtls-rprx-vision&fp=firefox&security=tls#🔥Join+Telegram:@Farah_VPN🟣
 vless://04920673-035c-410d-94e4-5b1469d3fb6f@91.132.190.161:443?sni=171.22.183.166&alpn=h2,http/1.1&flow=xtls-rprx-vision&fp=chrome&security=tls#🔥Join+Telegram:@Farah_VPN🟣
 vless://099c6e3f-e8d3-41d4-95f2-ef2eafb51cdc@194.26.229.219:4100?encryption=none&security=none&type=ws&path=/v1#🔥Join+Telegram:@Farah_VPN🟣
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@188.225.36.219:443?type=grpc&security=tls&fp=chrome&sni=olvento.space&mode=gun&serviceName=olvento.sync.v1#🔥Join+Telegram:@Farah_VPN🟣
