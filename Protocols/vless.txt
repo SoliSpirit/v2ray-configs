@@ -92,7 +92,6 @@ vless://04920673-035c-410d-94e4-5b1469d3fb6f@185.200.199.122:443?alpn=h2,http/1.
 vless://04920673-035c-410d-94e4-5b1469d3fb6f@185.200.199.122:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=185.200.199.122&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://04920673-035c-410d-94e4-5b1469d3fb6f@185.200.199.122:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision#🔥Join+Telegram:@Farah_VPN🟣
 vless://04920673-035c-410d-94e4-5b1469d3fb6f@185.200.199.122:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision#🔥Join+Telegram:@Farah_VPN🟣
-vless://04920673-035c-410d-94e4-5b1469d3fb6f@185.200.199.122:443?sni=185.200.199.122&flow=xtls-rprx-vision&fp=firefox&security=tls#🔥Join+Telegram:@Farah_VPN🟣
 vless://04920673-035c-410d-94e4-5b1469d3fb6f@91.132.190.161:443?sni=171.22.183.166&alpn=h2%2Chttp/1.1&flow=xtls-rprx-vision&fp=firefox&security=tls#🔥Join+Telegram:@Farah_VPN🟣
 vless://04920673-035c-410d-94e4-5b1469d3fb6f@91.132.190.161:443?sni=171.22.183.166&alpn=h2,http/1.1&flow=xtls-rprx-vision&fp=chrome&security=tls#🔥Join+Telegram:@Farah_VPN🟣
 vless://0492946ba1b9cebb15516a1136d30045@69.46.46.71:443?path=/ws/0492946ba1b9cebb15516a1136d30045&security=tls&alpn=http/1.1&encryption=none&host=net-7a9ed4-1d0d16-production.up.railway.app&fp=chrome&type=ws&sni=net-7a9ed4-1d0d16-production.up.railway.app#🔥Join+Telegram:@Farah_VPN🟣
